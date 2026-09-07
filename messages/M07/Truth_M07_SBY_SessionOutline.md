@@ -94,17 +94,40 @@
 
 ## Terminology used
 
-- **penyaluran** (dispensing) — central term used throughout; explicitly noted as not occurring textually in Scripture but present as reality ("realitas").
-- **aspek yuridis** (judicial aspect) — applied to being made children of God.
-- **aspek organik** (organic aspect) — applied to being built up into one Body.
-- **ibadah yang beralasan / ibadah yang asli** (reasonable/genuine service) — applied to Roma 12:1's living sacrifice.
-- **koordinasi bersama** (coordinating together) — repeated phrase for members functioning together per Roma 12.
-- **karunia** (gift/grace-gift) — used for the Roma 12:6-8 list, explicitly contrasted with "adikodrati" (supernatural) gifts: described as "insani dan Ilahi" (human and divine).
-- **mengasuh** (nurturing) — used for helping/hospitality, distinguished from merely preaching the word.
-- **sepenanggungan** — bearing together / co-suffering, tied to the "prinsip inkarnasi" (principle of incarnation).
-- **ketaatan iman** (obedience of faith) — closing summary term for the outcome of the whole process.
-- **penyantunan Ilahi** — used once in the closing prayer (line 251) interchangeably with "penyaluran Ilahi."
+Cross-checked against the Outline PDF's message 7 section — EN: "Message Seven — The Divine Dispensing in the Book of Romans (3): The Goal of the Dispensing of the Divine Trinity in the Believers" (`Outline Truth 1st yr 2023 (Eng).pdf`, p. 8, under section TRIUNE GOD AND HIS ECONOMY); ID: "Berita Tujuh — Penyaluran Ilahi di dalam Kitab Roma (3): Tujuan Penyaluran Trinitas Ilahi dalam Kaum Beriman" (`Outline Truth 1st Year 2023 (ID).pdf`, p. 9).
+
+- **penyaluran** — matches the outline's own header term "Penyaluran Ilahi" exactly; register confirmed.
+- **penyaluran Trinitas Ilahi dalam kaum beriman** — the trainer's opening line 5 ("tujuan dari penyaluran Trinitas Ilahi dalam kaum beriman") is a near-verbatim echo of the outline's own subtitle "Tujuan Penyaluran Trinitas Ilahi dalam Kaum Beriman." Confirms he is teaching from this exact outline title.
+- **Tritunggal / Trinitas Ilahi** — the outline itself uses both forms: the section-header line uses "Allah Tritunggal" (TRUTH CLASS—ALLAH TRITUNGGAL DAN EKONOMI-NYA) while the message title uses "Trinitas Ilahi." The trainer likewise alternates, using "Allah Tritunggal" / "Tritunggal" (line 9) and "Trinitas Ilahi" (line 5) — consistent with the outline's own mixed usage, not a deviation.
+- **koordinasi bersama dan berfungsi menurut kadar tiap bagian** — outline I.A reads "Berkoordinasi bersama dan berfungsi menurut kadar tiap bagian — Rm. 12:3-8." The transcript (lines 47, 57) reproduces this phrase almost verbatim ("Berke- koordinasi bersama dan berfungsi menurut kadar tiap bagian"), confirming the trainer is following the outline's own wording for this point.
+- **menempuh kehidupan dengan standar kebajikan yang tertinggi** — outline I.B reads "Menempuh kehidupan dengan standar kebajikan yang tertinggi — Rm. 12:9-21." Transcript line 101 uses this exact phrase verbatim.
+- **meremukkan Iblis di bawah kaki kita** — outline II.B.1 reads "Meremukkan Iblis di bawah kaki kita — Rm. 16:20a." Transcript line 193 ("meremukkan iblis di bawah kaki kita") matches verbatim.
+- **kemuliaan bagi Allah yang unik (dan berhikmat)** — outline II.B.3 reads "Kemuliaan bagi Allah yang unik dan berhikmat — Rm. 16:25-27." Transcript line 195 has "kemuliaan bagi Allah yang unik," and line 199 separately paraphrases "Allah yang penuh hikmat" — the same content, though the trainer splits it across two sentences rather than the outline's single compact phrase.
+- **anugerah Kristus dan damai sejahtera Allah** (outline II.B.2, Rm. 16:20) — the transcript's rendering at this point (line 193, "Kasih karena Yesus Tuhan kita menyertai") does not clearly reproduce the outline's "anugerah" (grace) / "damai sejahtera" (peace) wording; it reads as a garbled or ASR-mistranscribed benediction. Recorded as taught (the trainer is clearly reciting the Rm. 16:20 benediction in context), but the terminology match to the outline's wording is weak/uncertain here.
+- **aspek yuridis** / **aspek organik** (judicial/organic aspects) — not outline wording for message 7 itself; these are the trainer's own recap of concepts from the earlier Romans messages (1)-(2) in this series, used as a bridging introduction. Not found in the message 7 outline section, so this is supplementary, not a mismatch.
+- **ibadah yang beralasan / ibadah yang asli** (reasonable/genuine service, Rm. 12:1) — not itemized in the outline's message 7 points (outline I.A jumps straight to Rm. 12:3-8); the trainer's own elaboration on Rm. 12:1 as a lead-in to I.A.
+- **karunia** (gift) — the outline's I.A cites only "Rm. 12:3-8" as a single reference line without itemizing the gifts; the trainer elaborates the individual gift types (bernubuat, melayani, mengajar, menasihati, membagi-bagikan, memimpin) as his own exposition of that same reference range, and adds the description "bukan karunia yang adikodrati... insani dan Ilahi" which is not outline language.
+- **mengasuh** (nurturing), **sepenanggungan** (co-suffering) / "prinsip inkarnasi" — the trainer's own exposition of Rm. 12:9-21 (outline I.B), not terms drawn from the outline's own text.
+- **ketaatan iman** (obedience of faith) — not present in the outline's message 7 points; a summary term the trainer introduces near the close of the session.
+- **penyantunan Ilahi** — used once in the closing prayer (line 251), evidently as an alternate/looser rendering of "penyaluran Ilahi"; not outline terminology.
 
 ## Not covered in this instance
 
-The Outline PDF referenced by the plan was not found in this worktree (no PDF/outline file located under the project directory), so this transcript's coverage could not be cross-checked point-by-point against the official outline document with quoted evidence. Based solely on what is present in the transcript itself, the trainer covered the full arc of Romans 8 (briefly, by reference) through Romans 16:25-27, with detailed treatment of Romans 12 and lighter, referential treatment of Romans 8-11 and 14-16. No gaps can be asserted without the source outline document to compare against — this section is therefore left as an open item pending access to the Outline PDF, rather than asserting coverage or non-coverage without evidence.
+Outline structure for message 7 (from both PDFs, matching):
+
+- **I. Membangun para anggota menjadi Tubuh Kristus** — covered (transcript's Roma 12 exposition, lines 43-115).
+  - **I.A.** Berkoordinasi bersama dan berfungsi menurut kadar tiap bagian — Rm. 12:3-8 — covered (points 9-12 above; near-verbatim phrase match, see Terminology).
+  - **I.B.** Menempuh kehidupan dengan standar kebajikan yang tertinggi — Rm. 12:9-21 — covered (points 13-22 above; verbatim phrase match).
+- **II. Agar Tubuh Kristus yang unik dapat diekspresikan di gereja-gereja lokal di setiap tempat:**
+  - **II.A.1.** Menerima semua orang beriman sejati tanpa syarat, sesuai dengan penerimaan Allah dan Kristus — Rm. 14:1-3; 15:7 — covered (point 23; "Terimalah orang yang lemah imannya tanpa memperkecil pendapat," Roma 14:1).
+  - **II.A.2.** Memperlakukan semua orang beriman menurut Kristus — Rm. 15:5 — **NOT covered.** The transcript cites Roma 15:1 ("Kita bagi dengan orang-orang yang beriman kepada Tuhan dan kita bersaing dengan kita sendiri") but never reaches or quotes 15:5, and no equivalent statement about "treating believers according to Christ" appears anywhere in lines 1-258.
+  - **II.A.3.** Hidup menurut kasih — Rm. 14:15 — **NOT covered.** No reference to Roma 14:15 or a "walk according to love" statement appears in the transcript; the trainer moves from Roma 14:1/15:1 directly to the "di bawah Tuhan pengadilan Allah" material (14:10b) without touching 14:15.
+  - **II.A.4.** Hidup di bawah terang takhta pengadilan Allah — Rm. 14:10b — covered (line 183: "Seluruhnya itu adalah dan di bawah Tuhan pengadilan Allah. Sehingga kita tidak menghakimi mereka.").
+  - **II.A.5.** Memperhidupkan kehidupan Kerajaan Allah — Rm. 14:17 — covered (point 25; line 183-185, explicit "Roma 14:17" citation).
+  - **II.A.6.** Semua gereja dan semua orang kudus hidup dalam satu persekutuan universal — Rm. 16:1-27 — covered (point 26; line 185, "antar gereja juga perlu memiliki satu persekutuan universal").
+  - **II.A.7.** Menghindari/menolak orang-orang yang menyebabkan perpecahan — Rm. 16:17 — covered (point 26; lines 185-191, the four identifying marks of those who cause division).
+  - **II.B.1.** Meremukkan Iblis di bawah kaki kita — Rm. 16:20a — covered (point 27; verbatim phrase match, line 193).
+  - **II.B.2.** Menikmati anugerah Kristus dan damai sejahtera Allah — Rm. 16:20 — covered, though weakly/uncertainly worded (line 193's benediction appears garbled in the transcript and does not clearly reproduce "anugerah"/"damai sejahtera" — see Terminology note above).
+  - **II.B.3.** Kemuliaan bagi Allah yang unik dan berhikmat — Rm. 16:25-27 — covered (point 28; lines 195-199, explicit "Roma 16:25-27" citation).
+
+**Summary:** two outline sub-points were not taught in this instance — **II.A.2 (Rm. 15:5, treating believers according to Christ)** and **II.A.3 (Rm. 14:15, walking according to love)**. Every other outline sub-point (I.A, I.B, II.A.1, II.A.4-7, II.B.1-3) has a quoted match in the transcript.
