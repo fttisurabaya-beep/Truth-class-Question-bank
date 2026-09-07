@@ -16,10 +16,10 @@
    > "Tapi dia tahu oleh dalam itu memiliki Kristus yang nyata... Saya mengalami Kristus sebagai bau yang harum. Saya mengalami Kristus sebagai tinta Ilahi. Saya mengalami Kristus sebagai mustika dalam bejana ini."
 
 4. **[Poin 1/I] Kristus sebagai bagian bersama dari Allah — dinikmati bersama oleh kaum beriman lintas latar belakang, sebagai persekutuan yang mengandung unsur "lalu lintas rohani" dari Allah kepada manusia dan manusia kepada Allah; Allah memanggil kaum beriman ke dalam Kristus.**
-   > "Kata persekutuan di sini mengandung unsur lalu lintas rohani. Dari Allah kepada manusia, manusia kepada Allah... Allah telah memanggil kaum beriman ke dalam Kristus."
+   > "Allah telah memanggil kaum beriman ke dalam Kristus... Kata persekutuan di sini mengandung unsur lalu lintas rohani. Dari Allah kepada manusia, manusia kepada Allah."
 
 5. **[Poin 2-3/II-III] Kristus sebagai kekuatan yang dinamis (menguatkan kaum beriman) dan hikmat Allah (pemikiran Allah dalam tindakan) — apa yang dianggap lemah/bodoh oleh dunia dipakai Allah untuk mengalahkan yang kuat/berhikmat.**
-   > "Jadi memiliki kekuatannya dinamis. Menguatkan kaum ini... Dikatakan dialah yang menumpangi, yang menunjang sampai menjadi kekuatan Allah dan hikmat. Hikmat itu pemikiran Allah, kekuatan itu tindakan."
+   > "Dikatakan dialah yang menumpangi, yang menunjang sampai menjadi kekuatan Allah dan hikmat. Hikmat itu pemikiran Allah, kekuatan itu tindakan... Jadi memiliki kekuatannya dinamis. Menguatkan kaum ini."
 
 6. **[Poin 4/IV] Kristus sebagai kebenaran dari Allah (1 Kor 1:30) — agar kaum beriman benar dan tepat dengan sempurna terhadap Allah, terhadap manusia, dan terhadap segala sesuatu.**
    > "Agar kamu beriman dapat benar dan tepat dengan sempurna terhadap Allah, terhadap manusia, dan terhadap segala sesuatu."
@@ -34,13 +34,13 @@
    > "Buanglah ragi yang lama. Ragi itu sifatnya mengembang... Roti yang tidak beracun ini rotinya memang keras... kebenaran yang tidak bisa digoyahkan. Kebenaran yang tidak boleh ditambahkan."
 
 10. **[Poin 8/VIII] Kristus sebagai batu karang rohani yang mengalirkan air hidup dan mengikuti orang Israel di padang gurun, serta sebagai manna/roti dari surga — makanan yang bukan dari dunia tetapi dari Allah sendiri.**
-    > "Batu karang rohani itu juga yang mengikuti mereka dan Batu karang itu ialah Kristus... Mereka makan makanan bukan dari dunia. Mereka makan makanan dari Allah."
+    > "Mereka makan makanan bukan dari dunia. Mereka makan makanan dari Allah... Batukalang itu juga yang mengikuti mereka dan Batukalang itu ialah Kristus."
 
 11. **[Poin 9/IX] Kristus sebagai pengurapan Roh majemuk dan meterai — mengurapi memberi kesadaran/niat Roh Kudus, memeteraikan adalah "menulis dengan tinta" yang membuat wujud tampak jelas; Roh Kudus sebagai jaminan diumpamakan dengan sampel tanah yang diberikan kepada calon pembeli sebelum transaksi (bukan tipu-tipu seperti iklan dunia).**
     > "Mengurapi di sini artinya memberikan kesedaran ya, niat Roh Kudus. Memetraikan adalah unsur tinta... Dia ngambil sebagian [tanah]nya, ditunjukkan benar... Terjadi transaksi sehingga pembelinya tidak kecewa."
 
 12. **[Poin 10/X] Kristus sebagai tulisan tinta di dalam kaum beriman dan cermin di luar mereka yang memantulkan kemuliaan-Nya — bukan hanya menjadikan kaum beriman "sistem hayat" di dalam, tetapi juga ekspresi mulia Kristus keluar.**
-    > "Kita perlu ditulis bukan dengan tinta tetapi dengan roh... Jadi akhirnya kita ini jadi cermin memantulkan... Bukan hanya membuat kamu beriman menjadi sistem hayat kamu sama-sama, tetapi juga membuat ekspresi mulia Kristus di langit."
+    > "Bukan hanya membuat kamu beriman menjadi sistem hayat kamu sama-sama, tetapi juga membuat ekspresi mulia Kristus di langit... Kita perlu ditulis bukan dengan tinta tetapi dengan roh... Jadi akhirnya kita ini jadi cermin memantulkan."
 
 ## Terminology used
 
