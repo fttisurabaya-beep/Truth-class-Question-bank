@@ -1,0 +1,121 @@
+# Truth Message 9 — Session Outline (Instance: SENTUL, R7, JULDES 2026, Trainer: Br. Ronal)
+
+**Source:** transcripts/raw/TRUTH_CLASS_JULDES_2026_R7_SENTUL_RONAL.txt (lines 817-end, section labeled "R7 - Truth 3 SENTUL (BR. RONAL)" — the final section of the transcript)
+**Message (per Outline PDF):** Penyaluran Ilahi di dalam Kitab 1-2 Korintus (2) — Penyaluran Ilahi dari Kristus yang Almuhit Menjadi Faktor Pertumbuhan dan Pembangunan Gereja
+**Reference:** A Deeper Study of the Divine Dispensing, ch 10
+
+## Points taught
+
+Note on structure: lines 821-949 are devotional/exhortational preamble — a call to commit to
+knowing Scripture thoroughly and to "melatih roh" (practicing the spirit in calling on the Lord),
+closing with a one-minute silent/vocal prayer (lines 909-941, largely repeated cries of "Yesus") —
+not message 9's own subject matter, and excluded below. Lines 953-1057 continue this same
+application thread (building one's own outline of the whole Bible book-by-book; a worked example
+of a personal Bible-reading-through-prayer plan nicknamed "Wilbur") — also general discipleship
+exhortation rather than message-9 content, and likewise excluded. At line 1057 the trainer says he
+is now opening the outline, but what follows first (lines 1061-1197) is explicitly the **carryover
+of outline points IX and X that were deferred, undelivered, at the end of message 8's Sentul
+instance** ("kita pakai outline yang sisa tadi... Ah, 9 ya" — "we'll use the leftover outline from
+before... ah, [Roman numeral] 9"). These are documented as points 1-5 below because they are what
+was actually taught in this section of the transcript, but they belong to message 8's outline (I-X,
+1 Kor. 1/2 Kor. 1), not message 9's own outline (I-V, 1 Kor. 3/1 Kor. 12/2 Kor. 3-4/2 Kor. 12), and
+are flagged as such. Message 9's own outline material begins at line 1201 ("Berita selanjutnya
+Romawi 1 kita baca" — "the next message['s] Roman numeral 1") and continues to the end (points
+6-13 below).
+
+1. **[Carryover from message 8, outline IX — 2 Kor. 1:21-22] Christ as the Spirit's compound anointing and as a seal — God has confirmed and anointed us in Christ, sealed us as His own, and given the Holy Spirit in our hearts as a guarantee/down payment of all He has prepared; illustrated by a library book that must first be stamped with ink before the seal-image can appear, and can then never be legitimately claimed by anyone else — "you are not without a Master... you are not a free person, for the love of Christ has taken possession of you."**
+   > "Ah, 9 ya. Kita baca sama-sama. Kristus ya Al-Muhid. Sebagai pengurapan dari Roma Jemuk. Dan sebagai pemeteraian dengan meterai... Sebab dia yang telah meneguhkan kami bersama-sama dengan kamu di dalam Kristus adalah Allah yang telah mengurapi. Ayat 22-nya, memeteraikan tanda milik-Nya atas kita dan yang memberikan Roh Kudus di dalam hati kita sebagai jaminan dari semua yang telah disediakan untuk kita." / "Roh Kudus itu adalah seperti tinta surgawi begitu. Dan dia akan menstempel kita... Anda bukan tanpa tuan, ya kan? Anda bukan orang merdeka loh. Sebab kasih Kristus sudah menguasai Anda."
+
+2. **[Carryover from message 8, outline X — 2 Kor. 3:3] Believers are a letter of Christ, written not with ink but by the ministry of the Spirit — inscribed daily, bit by bit, into the heart through fellowship with and meditation on the Word (illustrated by nightly self-examination before sleep) until the writing becomes legible.**
+   > "telah nyata kamu adalah surat Kristus... Ditulis oleh pelayanan Rasul. Nah, di FTTI ini setiap hari oleh firman sebagai realitasnya adalah roh dan hayat sedang mengukir ke dalam Anda. Satu demi satu, satu demi satu Anda menerima penulisan Roh Kudus. Sampai tulisan itu bisa terbaca dengan terang."
+
+3. **[Carryover, continuing X] The believer as Christ's "letter" is not a photocopy (a possibly-false duplicate) but a genuine duplication of the original, like a printing plate; 1 John 3:2 — we are not yet manifest as we shall be; the grain-of-wheat analogy (John 12) — the many grains produced are the same in kind as the one seed that fell and died.**
+   > "Bukan saja surat Kristus dikatakan yang adalah ini ada pakai kata zerok ya bahasa Inggrisnya... sebetulnya serok yang dimaksud di sini adalah sama aslinya dengan yang masternya... Kristus sudah menduplikasikan dirinya ke dalam kita... Satu Yohanes pasal 3 ayat 2... Yohanes itu pakai banyak contoh sebutir biji gandum Yohanes 12 jatuh ke tanah mati, menghasilkan banyak butir... Sama, kalau kamu tanam padi hasilnya padi juga."
+
+4. **[Carryover, continuing X — 2 Kor. 3:18] Beholding the Lord's glory with unveiled face, we are transformed into His image from glory to glory — humanity's original God-given glorious image was marred by sin, but through believing, being baptized, and receiving the divine dispensing, that image is progressively restored; this is Christ inwardly transmitting His own essence into us, not an outward "makeup."**
+   > "kita semua ini mencerminkan kemuliaan kemuliaan Tuhan dengan muka yang tidak berselubung dan karena kemuliaannya itu datang dari Tuhan yang adalah roh, maka kita diubah menjadi serupa dengan gambarnya dalam kemuliaan yang semakin besar... Tetapi karena dosa rusak gambarnya... melalui percaya dibaptis, melalui menerima penyaluran Ilahi. Kita akan terus dari satu kemuliaan kepada kemuliaan lebih besar... Dia sedang menyalurkan segala esensinya ke dalam kita melalui Roh Kudus itu."
+
+5. **[Carryover, closing encouragement on the transformation process] The training's intensity can produce frustration — feeling stuck, repeatedly falling into the same failure — but choosing the Lord is never a wrong decision; the change happens the way a stamp needs to be applied several times, or paint several coats, before the image becomes clear.**
+   > "Pelatihan yang sungguh-sungguh membuat kita bisa frustrasi seperti enggak ada jalan. Makin berlatih makin enggak bisa... keputusanmu memilih Tuhan, keputusanmu berpihak kepada kehendak Tuhan, itu enggak akan salah... Nah, ini roh itu sedang terus mengubah satu gambar demi satu gambar. Seperti stempel itu. Stempel sekali belum muncul. Stempel dua kali, tiga kali, empat kali akan muncul."
+
+6. **[Message 9's own Outline I — 1 Kor. 3:11-12] Christ is the uncontested foundation of the church — no Christian disputes this; the real point of contention is the ground/basis on which the building sits. Using the historical example of the Brethren (Dublin/England) who split over doctrine, ethnicity, and practice, the trainer teaches that the true ground is the locality (the city) together with oneness in the Spirit; per a "specialty/generality/practicality" framework, six non-negotiable truths (the Triune God, Christ as Savior, the oneness of the church, etc.) must be commonly held, while generality/practicality (whether one calls on the Lord's name aloud, mode of baptism, frequency of bread-breaking) may legitimately vary without causing division.**
+   > "Lanjut kita ke Romawi yang ke apa namanya berita yang selanjutnya ya. Berita selanjutnya Romawi 1 kita baca. Kristus yang Al-Muhid sebagai Oke. 1 Korintus pasal 3 ayat 11 sampai 12... Nah, di dalam pemuliaan Tuhan poin ini dengan poin orang-orang yang di dalam kekristenan sudah enggak ada pertentangan sebenarnya. Karena jelas dasar daripada pembangun gereja adalah Kristus. Yang menjadi persoalan adalah tumpuan daripada dasar itu diletakkan... Alkitab kepada kita memberitahu tumpuan itu pertama-tama adalah kota... secara praktikalnya ada buku namanya specialty generality dan practicality."
+
+7. **[Continuing outline I, practical application] Even an isolated believer without access to a local church may break bread alone as a personal testimony of love for the Lord; however, an official corporate declaration of a local church requires a credible minimum (the group's national fellowship decided: five adults / three families); churches can also "close" (as in Revelation, the lampstand removed for losing first love, or many churches Paul planted no longer existing today), yet a church is spiritually "rooted in heaven" and remains so regardless of outward closure.**
+   > "Saya misalnya pergi ke satu kota. Waduh, saya rindu dan mengasihi Tuhan banget. Tapi enggak bisa pecah roti. Udah saya buat sendiri roti, saya beli anggur sendiri ya kan. Boleh enggak?... maka itu kita putuskan secara bersekutu nasional. Lima orang dewasa, tiga keluarga yang cukup jelas apa itu ekonomi Allah apa itu gereja... Loh kalau tutup bagaimana Saudara? Di Alkitab pun ada gereja yang tutup... Secara rohani, gereja itu adalah pohon toh... Akarnya di surga."
+
+8. **[Message 9's own Outline II — explicitly skipped due to time] The trainer names it only in passing and skips it entirely, moving straight to outline III.**
+   > "Oke, karena waktu yang Korintus kita skipkan ya. Kita langsung ke Romawi 3."
+
+9. **[Message 9's own Outline III — 2 Kor. 3:18, elaborated] Beholding Christ's glory requires three elements: (1) the eye/heart rightly positioned toward Him, (2) light — needing God's grace to shine, and (3) an unveiled heart — the veil is caused by the heart turning away from the Lord and disappears the instant the heart turns back to Him.**
+   > "Ya sudah ayat 18 tadi ini ya. Memandang penting nih memantulkan. Anda memandang butuh beberapa elemen untuk bisa lihat... waktu kita memandang kepada Kristus, pertama-tama perlu ada hati, Anda mendambakan. Kedua, Anda harus minta kasih karunia Tuhan, sorotkan terang... Yang ketiga adalah memang hatimu itu tadi harus berbalik. Karena kalau hatinya itu berbalik dari Kristus, ada selubung langsung. Tetapi begitu hatinya berpaling lagi kepada Kristus, selubungnya hilang."
+
+10. **[Message 9's own Outline IV — 2 Kor. 4:7] Christ as treasure held in earthen vessels — believers are ordinary ("bejana tanah liat") yet carry a surpassing power that is of God, not of themselves; ministry difficulty is met by relying on this abundant power, likened to a large internal "power bank" able to power far more than one HP, even a whole building.**
+   > "Ayat 7. Tetapi harta ini kami punyai dalam Bejana Tanah Liat supaya nyata bahwa kekuatan yang berlimpah-limpah itu berasal dari Allah bukan dari diri kami... Anda punya power bank yang besar sekali di dalam Anda. Yang bisa menghidupkan bukan cuma satu HP, bahkan satu gedung, ya kan... Bejananya biasa saja tanah tetapi di dalammu ada hartanya."
+
+11. **[Message 9's own Outline V — 2 Kor. 12:9] Christ as God's sufficient grace made perfect in weakness, illustrated through Paul's example — grace abounds more in the valley (weakness, failure) than on the mountaintop, just as water flows and pools in low places, so the "ups and downs" God permits in life are what produce a flow of grace; when prayers seem unanswered or the answer is "wait" or "no," this is God driving believers to lean more fully on His grace, not abandoning them.**
+    > "Kristus yang Al-Muidd adalah Oke, 12 ayat 9... Dalam kelemahan kuasa atau karunia Allah ya... Air itu lebih banyak ada di lembah daripada di gunung... Dalam kegagalan atau kelemahan, dalam lembah itu justru kasih karunia Kristus lebih melimpah... Saya sudah doa, Allah enggak jawab. Bukan Allah enggak jawab, justru Allah sedang membawa kita kepada kasih karunia yang lebih limpah, yang lebih sempurna."
+
+12. **[Closing illustration, extending outline V — Watchman Nee's "Biography of a Spiritual Man"] Paul is presented as a minister of the New Covenant, not of the letter written on stone but of the Spirit written on the heart, carrying the fragrance of Christ's triumph through danger, hunger, and beatings, and holding Christ as the secret of his glory even when prayer seemed unanswered.**
+    > "Ini adalah ada bukunya dibuat oleh Saudara Lee. Namanya biografi dari manusia Allah... Paulus digambarkan sebagai manusia Allah yang mengalami satu penyaluran Allah sehingga dia adalah seorang minister perjanjian baru yang mengemban ministry perjanjian baru. Bukan oleh loh-loh yang tertulis di batu maupun Taurat tetapi oleh Roh Kudus yang tertulis di hatinya... Tetapi dalam semua itu dia menyatakan Kristus sebagai rahasia kemuliaan dia."
+
+13. **[Closing benediction — 2 Kor. 13:13/14] The Triune God's grace, love, and fellowship as closing blessing; "being with" (menyertai) means the divine dispensing never departs, like electricity that never leaves a building unless the switch is turned off.**
+    > "sampai akhirnya tentu kita tahu sama-sama 13:13 ya kan? Ini penutup yang bagus sekali atau Inggrisnya 14 ya... Haleluya, ada Allah Tritunggal di sini ya. Menyertai itu artinya bukan cuma menyalurkan dirinya, tapi terus tidak pernah meninggalkan kita. Seperti listrik ini, enggak pernah ninggalin gedung ini. Kecuali saklarnya di matiin."
+
+## Terminology used
+
+Cross-checked against the Outline PDF's message 9 section — ID: "Berita Sembilan — Penyaluran Ilahi
+di dalam Kitab 1-2 Korintus (2) — Penyaluran Ilahi dari Kristus yang Almuhit Menjadi Faktor
+Pertumbuhan dan Pembangunan Gereja" (`Outline Truth 1st Year 2023 (ID).pdf`, p. 13, points I-V) —
+read directly via `pdftotext -layout` for this task — and against message 8's Berita Delapan
+section (p. 11-12, points IX and X) for the carryover material at the start of this section.
+
+- **Kristus yang Al-Muhid / Al-Muidd** — used throughout, matching the outline's recurring "Kristus yang almuhit" header phrase; ASR renders it inconsistently ("Al-Muhid," "Al-Muidd," "Syekh" elsewhere in this trainer's other sessions) — the same term mis-transcribed, not a distinct concept.
+- **pengurapan Roh majemuk... meterai yang memeteraikan** (outline IX, from message 8, 2 Kor. 1:21-22) — points 1 above closely follows the outline's own wording ("mengurapi," "memeteraikan," "jaminan"/"garansi"), including the trainer's own stamp/ink illustration as elaboration.
+- **tulisan tinta... sebagai "salinan"/"kopi" Roh... seperti cermin... minister Perjanjian Baru** (outline X, from message 8, 2 Kor. 3:3, 18) — points 2-5 closely track this outline point's language ("surat Kristus," the Xerox/duplication analogy for "salinan/kopi," "dari kemuliaan ke kemuliaan" for the mirror imagery), taught here as carryover before message 9's own material begins.
+- **dasar pembangunan gereja... unsur gizi bagi pertumbuhan** (outline I, 1 Kor. 3:11, 6-7) — the trainer's own point 6 covers "dasar" (foundation) explicitly and at length but pivots quickly to ekklesiology (locality, oneness, specialty/generality/practicality) rather than the outline's own "unsur gizi bagi pertumbuhan mereka dalam hayat" (nourishment for growth) framing — a different emphasis in this trainer's own words, not a verbatim match.
+- **batu permata untuk pembangunan gereja** (outline I.B, 1 Kor. 3:12b) — **not used in this instance.** Unlike the SBY instance (which used this phrase verbatim and repeatedly) and unlike this same trainer's earlier illustrations in messages 7-8, the "precious stones" image is entirely absent here; outline I is taught instead through the locality/oneness/specialty-generality-practicality material (point 6-7), a substantially different treatment of the same Roman numeral.
+- **karunia rohani... kapasitas rohani... membangun Tubuh Kristus** (outline II, 1 Kor. 12:4, 7-11) — **not used at all**; the trainer explicitly names and skips this point for time (point 8).
+- **dari kemuliaan ke kemuliaan** (outline III, 2 Kor. 3:18) — used, but earlier (as part of the message-8 carryover material, point 4) rather than when outline III is formally reached (point 9); when III is formally reached the trainer instead elaborates the three conditions for "memandang" (beholding) — position, light, unveiled heart — which is his own expansion of the same verse rather than a restatement of the outline's own "dari kemuliaan ke kemuliaan" wording a second time.
+- **minister-minister Perjanjian Baru** (outline III.A/IV.A, 2 Kor. 3:6) — not used verbatim as a distinct sub-point in message 9's own material; the term does appear, but attached to the message-8 carryover material (point 12's "seorang minister perjanjian baru") rather than as an explicit III.A/IV.A treatment.
+- **harta di dalam kaum beriman... bejana tanah liat** (outline IV, 2 Kor. 4:7a) — closely matches point 10; the trainer's recurring "power bank" illustration is his own elaboration, consistent with his use of the same "harta dalam bejana" image in message 8's Sentul instance.
+- **kekuatan yang unggul... memberitakan Injil** (outline IV.B, 2 Kor. 4:7b, 2-4) — **not covered.** As in the SBY instance, no reference to "excelling power" for gospel preaching (4:2-4) is found; the trainer's 2 Kor. 4 material stays on the treasure/vessel image (point 10) only.
+- **anugerah Allah yang cukup... kekuatan Kristus** (outline V, 2 Kor. 12:9) — matches point 11 closely, including the trainer's own valley/mountain water-flow illustration as elaboration.
+- **kekuatan kaum beriman untuk lebih banyak berjerih lelah bagi Allah** (outline V.A, 1 Kor. 15:10) and **kenikmatan dan tuaian yang kaya** (outline V.B, 1 Kor. 15:58) — **not used at all in this instance.** Unlike the SBY instance, which cited both verses (with some ASR-garbled verse numbers), this trainer's treatment of outline V stops at the 2 Kor. 12:9 material itself (point 11) and moves directly to the closing Watchman Nee illustration (point 12) and benediction (point 13), never returning to 1 Kor. 15:10/15:58.
+- **Genuinely unclear/garbled passages flagged (not guessed at):** line 1001-1013's arithmetic on total Bible verses ("31171," "365," "85,4," "32 tahun") is part of the excluded personal Bible-reading-plan digression, not message content, and is internally inconsistent (the trainer's own math shifts between figures) — flagged rather than resolved, since it falls outside the Points-taught material regardless. Line 1157's "ayat 18" reference and the surrounding "lir" ("Oke ya, lir.") at that point are unclear filler/ASR noise; the substantive content around it (1 Jn. 3:2, John 12 grain analogy) is clear and is what is quoted in point 3. Line 1345's closing citation is spoken as "13:13... atau Inggrisnya 14 ya" — this is the trainer's own acknowledgment of a versification difference between Indonesian and English Bibles (2 Kor. 13:13 ID / 2 Cor. 13:14 EN) for the same benediction verse, not an ASR error.
+
+## Not covered in this instance
+
+Outline structure for message 9 (I-V, confirmed via direct `pdftotext -layout` read of the Indonesian PDF for this task):
+
+- **I.** Kristus yang almuhit sebagai dasar pembangunan gereja, menyuplai unsur gizi bagi pertumbuhan — 1 Kor. 3:11, 6-7 — covered (points 6-7), but with a markedly different emphasis than the outline's own "nourishment for growth" framing — this trainer teaches it almost entirely through church-ground/locality/oneness material (Brethren history, specialty/generality/practicality) instead.
+  - **I.A.** Tidak hanya sebagai dasar terbangunnya kaum beriman — 1 Kor. 3:12a — covered only loosely, folded into the "Christ as uncontested foundation" opening of point 6.
+  - **I.B.** Tetapi juga menjadi penyaluran ilahi yang mengubah kaum beriman... menjadi batu permata — 1 Kor. 3:12b — **NOT covered.** The "precious stones" (batu permata) image, central to this sub-point and to the SBY instance's treatment of the same outline point, is entirely absent from this transcript.
+- **II.** Kristus yang almuhit memperlengkapi kaum beriman dengan karunia rohani Roh untuk membangun Tubuh Kristus — 1 Kor. 12:4, 7-11 — **NOT covered.** The trainer explicitly names and skips this point for time (point 8): "karena waktu yang Korintus kita skipkan ya." Neither II.A (1 Kor. 12:5) nor II.B (1 Kor. 12:6) is taught.
+- **III.** Penyaluran ilahi Kristus almuhit dalam memandang kemuliaan-Nya, diubah dari kemuliaan ke kemuliaan — 2 Kor. 3:18 — covered (point 9; the "elements needed to behold" elaboration — position, light, unveiled heart), building on the "dari kemuliaan ke kemuliaan" material already introduced earlier as message-8 carryover (point 4).
+  - **III.A.** Menyusun mereka menjadi minister Perjanjian Baru — 2 Kor. 3:6 — covered only loosely, via the "minister perjanjian baru" language in the closing Watchman Nee illustration (point 12) rather than as an explicit treatment when outline III is reached.
+  - **III.B.** Mengemban ministri Perjanjian Baru yang menyalurkan diri-Nya — 2 Kor. 4:1 — **NOT covered.** No reference to 2 Kor. 4:1 appears anywhere in this section.
+- **IV.** Kristus yang almuhit sebagai harta di dalam kaum beriman — 2 Kor. 4:7a — covered (point 10; strong "harta dalam bejana tanah liat" match, plus the trainer's "power bank" elaboration).
+  - **IV.A.** Menyusun mereka menjadi minister-minister Perjanjian Baru — 2 Kor. 3:6 — same as III.A, covered only loosely.
+  - **IV.B.** Kekuatan yang unggul menggenapkan ministri... memberitakan Injil — 2 Kor. 4:7b, 2-4 — **NOT covered.** No reference to "excelling power" or to preaching the gospel (2 Kor. 4:2-4) is found — the same gap noted in the SBY instance.
+- **V.** Kristus yang almuhit sebagai anugerah Allah yang cukup untuk menjadi kekuatan Kristus — 2 Kor. 12:9 — covered (point 11; direct citation and elaboration of 2 Kor. 12:9, plus the closing Watchman Nee/Paul illustration of point 12 and the 2 Kor. 13:13/14 benediction of point 13).
+  - **V.A.** Kekuatan kaum beriman untuk lebih banyak berjerih lelah bagi Allah — 1 Kor. 15:10 — **NOT covered.** No reference to 1 Kor. 15:10 appears anywhere in this section.
+  - **V.B.** Kenikmatan dan tuaian yang kaya dari jerih lelah kaum beriman bagi Allah — 1 Kor. 15:58 — **NOT covered.** No reference to 1 Kor. 15:58 appears anywhere in this section.
+
+**Summary:** this instance opens (lines 821-1057, roughly a quarter of the section) with devotional
+exhortation and personal-discipline application (commitment to thorough Bible knowledge, practicing
+the spirit, a Bible-reading-through-prayer challenge) that is not message 9's own subject matter,
+consistent with the time-constrained pattern already observed in this trainer's message 7 and
+message 8 Sentul instances. It then spends a substantial block (lines 1061-1197) finishing outline
+points IX and X that were left over, undelivered, at the end of message 8's Sentul instance — this
+is real teaching content, but it belongs to message 8's outline, not message 9's. Message 9's own
+outline (I-V) is reached only from line 1201 onward, and within it: **I** is covered but with a
+different emphasis than the outline text (locality/oneness rather than "batu permata," which is
+absent entirely — a notable gap since it is the SBY instance's strongest verbatim match for this
+message); **II is explicitly skipped for time**; **III** is covered through the trainer's own
+"beholding" elaboration; **IV** is covered well (matching the SBY instance's depth); and **V** is
+covered for its header verse (2 Kor. 12:9) but its two sub-points (1 Kor. 15:10, 15:58) are never
+reached, unlike the SBY instance which cited both. Overall this is a genuinely different selection
+and depth of coverage than the SBY instance — thinner on I.B and II, comparable on III-IV, and
+missing V.A/V.B — reflecting time pressure compounded, in this final session of the class day, by
+the need to first clear message 8's unfinished material before message 9's own outline could begin.
