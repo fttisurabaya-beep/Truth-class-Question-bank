@@ -69,7 +69,7 @@ This map is written together with M05's so the classifications are mutually cons
 | Closing excursus: Rom. 8:14-30, necessity of suffering, three "growings," "hot oven," Rom. 8:28 (points 28-30, supplementary) | **[Unik]** | No equivalent suffering/growings/hot-oven content elsewhere in M05, M07-M09. |
 | Grafting / "God-man" illustration (points 3-5, supplementary intro to I) | **[Unik]** | No equivalent elsewhere. |
 
-**Summary for M06:** 10 [Unik] (including two supplementary blocks), 2 [Unik-sudut], 5 [Tumpang tindih] (two shared with M05 — expected, same transcript; three newly found with M07 — Rom. 16:17, Rom. 16:20, Rom. 14:17 — unexpected, since M06/M07 come from entirely different transcripts and trainers).
+**Summary for M06:** 9 [Unik] (I/I.A, I.A.2, I.A.3, I.A.4, I.B/I.B.1, II, V, the closing excursus, and the grafting/God-man intro — including two supplementary blocks), 2 [Unik-sudut] (I.A.5, VI), 6 [Tumpang tindih] (I.A.1, I.A.6, I.B.2, I.B.3, III, IV — two shared with M05 [I.A.1, III/IV] — expected, same transcript; three newly found with M07 — I.A.6/Rom. 16:17, I.B.2/Rom. 16:20, I.B.3/Rom. 14:17 — unexpected, since M06/M07 come from entirely different transcripts and trainers).
 
 **New cross-message findings not in any of M05/M07/M08/M09's existing text** (M05's audit is written in this same pass, so the M05-side items are reflected there too; M07/M08/M09 pre-date M05/M06 and could not have known):
 1. M06 I.A.1 and M05 II.B: "freed from the law of sin and of death," identical verse Rom. 8:2 (see M05's file).
