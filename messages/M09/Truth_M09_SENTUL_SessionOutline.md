@@ -6,25 +6,16 @@
 
 ## Points taught
 
-Note on structure: lines 821-949 are devotional/exhortational preamble — a call to commit to
-knowing Scripture thoroughly and to "melatih roh" (practicing the spirit in calling on the Lord),
-closing with a one-minute silent/vocal prayer (lines 909-941, largely repeated cries of "Yesus") —
-not message 9's own subject matter, and excluded below. Lines 953-1057 continue this same
-application thread (building one's own outline of the whole Bible book-by-book; a worked example
-of a personal Bible-reading-through-prayer plan nicknamed "Wilbur") — also general discipleship
-exhortation rather than message-9 content, and likewise excluded. At line 1057 the trainer says he
-is now opening the outline, but what follows first (lines 1061-1197) is explicitly the **carryover
-of outline points IX and X that were deferred, undelivered, at the end of message 8's Sentul
-instance** ("kita pakai outline yang sisa tadi... Ah, 9 ya" — "we'll use the leftover outline from
-before... ah, [Roman numeral] 9"). These are documented as points 1-5 below because they are what
-was actually taught in this section of the transcript, but they belong to message 8's outline (I-X,
-1 Kor. 1/2 Kor. 1), not message 9's own outline (I-V, 1 Kor. 3/1 Kor. 12/2 Kor. 3-4/2 Kor. 12), and
-are flagged as such. Message 9's own outline material begins at line 1201 ("Berita selanjutnya
-Romawi 1 kita baca" — "the next message['s] Roman numeral 1") and continues to the end (points
-6-13 below).
+Note on structure: lines 821-1057 are excluded as non-message-9 content — devotional/exhortational
+preamble on committing to know Scripture thoroughly and to "melatih roh" (practicing the spirit in
+calling on the Lord), a one-minute prayer (lines 909-941), and a personal Bible-reading-plan
+worked example ("Wilbur," lines 953-1057). Points 1-5 below (lines 1061-1197) are the trainer
+finishing outline points IX and X, left over from message 8's Sentul instance, before turning to
+message 9's own outline — see each point's bracketed label for detail. Message 9's own outline
+material begins at line 1201 (points 6-13 below).
 
 1. **[Carryover from message 8, outline IX — 2 Kor. 1:21-22] Christ as the Spirit's compound anointing and as a seal — God has confirmed and anointed us in Christ, sealed us as His own, and given the Holy Spirit in our hearts as a guarantee/down payment of all He has prepared; illustrated by a library book that must first be stamped with ink before the seal-image can appear, and can then never be legitimately claimed by anyone else — "you are not without a Master... you are not a free person, for the love of Christ has taken possession of you."**
-   > "Ah, 9 ya. Kita baca sama-sama. Kristus ya Al-Muhid. Sebagai pengurapan dari Roma Jemuk. Dan sebagai pemeteraian dengan meterai... Sebab dia yang telah meneguhkan kami bersama-sama dengan kamu di dalam Kristus adalah Allah yang telah mengurapi. Ayat 22-nya, memeteraikan tanda milik-Nya atas kita dan yang memberikan Roh Kudus di dalam hati kita sebagai jaminan dari semua yang telah disediakan untuk kita." / "Roh Kudus itu adalah seperti tinta surgawi begitu. Dan dia akan menstempel kita... Anda bukan tanpa tuan, ya kan? Anda bukan orang merdeka loh. Sebab kasih Kristus sudah menguasai Anda."
+   > "Ah, 9 ya. Kita baca sama-sama. Kristus ya Al-Muhid. Sebagai pengurapan dari Roma Jemuk [verbatim in the source transcript, line 1061; almost certainly an ASR mis-hearing of the outline's own "pengurapan Roh majemuk" — see Terminology]. Dan sebagai pemeteraian dengan meterai... Sebab dia yang telah meneguhkan kami bersama-sama dengan kamu di dalam Kristus adalah Allah yang telah mengurapi. Ayat 22-nya, memeteraikan tanda milik-Nya atas kita dan yang memberikan Roh Kudus di dalam hati kita sebagai jaminan dari semua yang telah disediakan untuk kita." / "Roh Kudus itu adalah seperti tinta surgawi begitu. Dan dia akan menstempel kita... Anda bukan tanpa tuan, ya kan? Anda bukan orang merdeka loh. Sebab kasih Kristus sudah menguasai Anda."
 
 2. **[Carryover from message 8, outline X — 2 Kor. 3:3] Believers are a letter of Christ, written not with ink but by the ministry of the Spirit — inscribed daily, bit by bit, into the heart through fellowship with and meditation on the Word (illustrated by nightly self-examination before sleep) until the writing becomes legible.**
    > "telah nyata kamu adalah surat Kristus... Ditulis oleh pelayanan Rasul. Nah, di FTTI ini setiap hari oleh firman sebagai realitasnya adalah roh dan hayat sedang mengukir ke dalam Anda. Satu demi satu, satu demi satu Anda menerima penulisan Roh Kudus. Sampai tulisan itu bisa terbaca dengan terang."
@@ -71,8 +62,8 @@ read directly via `pdftotext -layout` for this task — and against message 8's 
 section (p. 11-12, points IX and X) for the carryover material at the start of this section.
 
 - **Kristus yang Al-Muhid / Al-Muidd** — used throughout, matching the outline's recurring "Kristus yang almuhit" header phrase; ASR renders it inconsistently ("Al-Muhid," "Al-Muidd," "Syekh" elsewhere in this trainer's other sessions) — the same term mis-transcribed, not a distinct concept.
-- **pengurapan Roh majemuk... meterai yang memeteraikan** (outline IX, from message 8, 2 Kor. 1:21-22) — points 1 above closely follows the outline's own wording ("mengurapi," "memeteraikan," "jaminan"/"garansi"), including the trainer's own stamp/ink illustration as elaboration.
-- **tulisan tinta... sebagai "salinan"/"kopi" Roh... seperti cermin... minister Perjanjian Baru** (outline X, from message 8, 2 Kor. 3:3, 18) — points 2-5 closely track this outline point's language ("surat Kristus," the Xerox/duplication analogy for "salinan/kopi," "dari kemuliaan ke kemuliaan" for the mirror imagery), taught here as carryover before message 9's own material begins.
+- **pengurapan Roh majemuk... meterai yang memeteraikan** (outline IX, 2 Kor. 1:21-22) — point 1 closely follows the outline's own wording ("mengurapi," "memeteraikan," "jaminan"/"garansi"), including the trainer's own stamp/ink illustration as elaboration; the transcript's "pengurapan dari Roma Jemuk" (line 1061) is an ASR mis-hearing of "pengurapan Roh majemuk" — the outline's own phrase — not a distinct term.
+- **tulisan tinta... sebagai "salinan"/"kopi" Roh... seperti cermin... minister Perjanjian Baru** (outline X, 2 Kor. 3:3, 18) — points 2-5 closely track this outline point's language ("surat Kristus," the Xerox/duplication analogy for "salinan/kopi," "dari kemuliaan ke kemuliaan" for the mirror imagery).
 - **dasar pembangunan gereja... unsur gizi bagi pertumbuhan** (outline I, 1 Kor. 3:11, 6-7) — the trainer's own point 6 covers "dasar" (foundation) explicitly and at length but pivots quickly to ekklesiology (locality, oneness, specialty/generality/practicality) rather than the outline's own "unsur gizi bagi pertumbuhan mereka dalam hayat" (nourishment for growth) framing — a different emphasis in this trainer's own words, not a verbatim match.
 - **batu permata untuk pembangunan gereja** (outline I.B, 1 Kor. 3:12b) — **not used in this instance.** Unlike the SBY instance (which used this phrase verbatim and repeatedly) and unlike this same trainer's earlier illustrations in messages 7-8, the "precious stones" image is entirely absent here; outline I is taught instead through the locality/oneness/specialty-generality-practicality material (point 6-7), a substantially different treatment of the same Roman numeral.
 - **karunia rohani... kapasitas rohani... membangun Tubuh Kristus** (outline II, 1 Kor. 12:4, 7-11) — **not used at all**; the trainer explicitly names and skips this point for time (point 8).
@@ -103,13 +94,11 @@ Outline structure for message 9 (I-V, confirmed via direct `pdftotext -layout` r
   - **V.B.** Kenikmatan dan tuaian yang kaya dari jerih lelah kaum beriman bagi Allah — 1 Kor. 15:58 — **NOT covered.** No reference to 1 Kor. 15:58 appears anywhere in this section.
 
 **Summary:** this instance opens (lines 821-1057, roughly a quarter of the section) with devotional
-exhortation and personal-discipline application (commitment to thorough Bible knowledge, practicing
-the spirit, a Bible-reading-through-prayer challenge) that is not message 9's own subject matter,
+exhortation and personal-discipline application that is not message 9's own subject matter,
 consistent with the time-constrained pattern already observed in this trainer's message 7 and
-message 8 Sentul instances. It then spends a substantial block (lines 1061-1197) finishing outline
-points IX and X that were left over, undelivered, at the end of message 8's Sentul instance — this
-is real teaching content, but it belongs to message 8's outline, not message 9's. Message 9's own
-outline (I-V) is reached only from line 1201 onward, and within it: **I** is covered but with a
+message 8 Sentul instances, then spends lines 1061-1197 finishing message 8's leftover IX/X (points
+1-5; see "Note on structure" above). Message 9's own outline (I-V) is reached only from line 1201
+onward, and within it: **I** is covered but with a
 different emphasis than the outline text (locality/oneness rather than "batu permata," which is
 absent entirely — a notable gap since it is the SBY instance's strongest verbatim match for this
 message); **II is explicitly skipped for time**; **III** is covered through the trainer's own
