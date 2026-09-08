@@ -1,0 +1,78 @@
+# Truth Message 8 — SENTUL Coverage Audit (Tahap 2)
+
+**Input:** `Truth_M08_SENTUL_SessionOutline.md` (Tahap 1, SENTUL instance, R7/JULDES 2026, Br. Ronal — approved)
+**Message (per Outline PDF):** The Divine Dispensing in the Book of 1-2 Corinthians (1): The Divine Dispensing of the All-Inclusive Christ in Supplying, Supporting, Feeding, Watering, and Transforming the Believers
+**Reference (Tier 3):** *A Deeper Study of the Divine Dispensing*, chapters 8-9
+**Structural note:** SBY and Sentul now have **separate** final exam question banks for messages 7-9. This audit does **not** need to be reconciled against `Truth_M08_Outline_Audit_Tahap2.md` (the SBY-only audit) — different exam track. This audit's own cross-message dedup group is {M05, M06 (SHARED), Sentul-M07, Sentul-M08, Sentul-M09}.
+**Sibling messages in this audit pass:** Sentul-M07 (preceding), Sentul-M09 (immediately following, same transcript/trainer) are audited in the same pass. **Important carryover relationship:** outline points IX and X of *this* message (message 8) are not taught within message 8's own session — the trainer runs out of time and explicitly defers them (point 16). They are instead taught at the very start of the *next* session, i.e. inside `Truth_M09_SENTUL_SessionOutline.md`'s points 1-5 (lines 1061-1197 of the transcript, labeled there as carryover). This audit treats IX and X as **message 8's own outline points**, reconciled and classified here using the content actually taught in that carryover passage — consistent with the task's instruction that this carryover material belongs to message 8's coverage, not message 9's.
+
+## Point reconciliation
+
+Outline structure for message 8 (I-X), confirmed via the Indonesian Outline PDF and cross-checked against the chapter 8-9 structure returned by the reference-book fetch below (six functional categories in ch. 8 — common portion, power, wisdom, righteousness, sanctification, redemption — plus four further pairs in ch. 9 — Passover lamb/unleavened bread, spiritual rock/heavenly bread, anointing/seal, ink/mirror — matching outline I-X).
+
+| Outline point | Reference | Tahap 1 status | Independent spot-check |
+| :-: | :-: | :-- | :-- |
+| I | 1 Kor. 1:2b, 1:9 (+ 1:7-8) | covered | Verified — points 6 and 10 match "kepada jemaat Allah... dipanggil ke dalam persekutuan" and the "tidak kekurangan dalam suatu karunia pun" extension, both anchored to direct Bible-text quotation. |
+| II | 1 Kor. 1:24a | covered | Verified — point 11 quotes 1 Kor. 1:24 directly ("Kristus adalah kekuatan Allah dan hikmat Allah"). |
+| III | 1 Kor. 1:24b, 30 | covered (nominal only) | Confirmed — point 12 shows the trainer marking III as "already covered" via the ayat 30 preview quotation only, with no separate elaboration of III.A or III.B. Weak coverage, correctly flagged by Tahap 1 as thinner than the SBY instance. |
+| IV | 1 Kor. 1:30 | covered (nominal only, self-study) | Confirmed — point 13 shows IV named only in passing and explicitly assigned as self-study; no elaboration of IV.A (prosedur/metode) or IV.B. |
+| V | 1 Kor. 1:30 | NOT covered | Confirmed absent as a distinct point — point 14 shows the trainer moving directly from IV to VI; "menguduskan" appears only inside the ayat 30 preview quote, never elaborated as its own point (no V.A/V.B content). |
+| VI | 1 Kor. 1:30 | covered | Verified — point 14 (the building/electricity illustration, "ikatkan dirimu kepada Tuhan pagi hari" application) matches the outline's redemption point, anchored to ayat 30. |
+| VII | 1 Kor. 5:7-8 | NOT covered | Confirmed absent — the trainer moves directly from VI to VIII (point 15); no reference to the Passover Lamb or unleavened bread anywhere in lines 403-816. |
+| VIII | 1 Kor. 10:3-4; Jn. 6 | covered | Verified — point 15 matches the spiritual-rock/bread-of-heaven content closely, including an explicit "Yohanes pasal 6" citation. |
+| IX | 2 Kor. 1:21-22 | covered — but taught in the M09 session transcript, not M08's own | Verified via `Truth_M09_SENTUL_SessionOutline.md` point 1 (lines 1061-1084): the trainer names outline IX at the very close of message 8's own session (point 16, "Romawi yang terakhir... 9... nanti di sesi berikutnya aja lah") and then actually teaches it as the opening act of the next session — direct quotation of 2 Kor. 1:21-22 ("mengurapi... memeteraikan... jaminan"), plus the library-book-stamp illustration. This is message 8's own outline content, carried over into the next session's recording for logistical reasons only. |
+| X | 2 Kor. 3:3, 18 | covered — but taught in the M09 session transcript, not M08's own | Verified via `Truth_M09_SENTUL_SessionOutline.md` points 2-4 (lines ~1097-1197): "surat Kristus... ditulis... oleh pelayanan Roh" (2 Kor. 3:3), the Xerox/duplication analogy, and "dari kemuliaan ke kemuliaan" (2 Kor. 3:18) are all taught here, immediately following IX, before message 9's own outline begins at line 1201. Same carryover situation as IX. |
+
+**Verdict:** independent re-verification confirms Tahap 1's reconciliation for I-VIII within message 8's own session. The carryover handling for IX and X is the one point requiring extra care: both are genuinely taught, but inside the message 9 recording rather than message 8's own — this audit attributes them to message 8 (their true outline home), cross-referencing the M09 file's transcript excerpts as the evidentiary source, consistent with how message 8's own Tahap 1 file already flags this pattern ("deferring outline point IX and never reaching... point X... at all, consistent with the pattern already observed in message 7" — a characterization this audit refines: IX/X are not permanently missing, only deferred one session later).
+
+## Missing/duplicate check
+
+- No taught point was found missing from Tahap 1's 17-point list for message 8's own session.
+- No internal duplication within message 8's own content — I, II, III (nominal), IV (nominal), VI, VIII are each addressed once, in outline order, with V and VII genuinely absent.
+- Points 1-5 (the box/treasure illustration, the eleven-problems overview, the Christ-and-cross pivot) are the trainer's own background/bridging material, not itself itemized in the outline's I-X points — correctly flagged as background by Tahap 1, not as missed outline content.
+- **Cross-session duplication check (IX/X carryover):** confirmed that IX and X are taught exactly once, at the start of the M09 recording, and are not re-taught or duplicated anywhere else in that session — message 9's own outline (I, III, IV, V) begins cleanly at line 1201 after the carryover material concludes, with no overlap in content between the carryover (IX/X) and message 9's own points.
+
+## Inference check
+
+Independent re-read of all 17 in-session points, plus the IX/X carryover excerpts in the M09 file, found no claim marked "covered" that is not actually explicit in a transcript. Tahap 1's own flags (the weaker III/IV/V treatment compared to the SBY instance, the "Syekh Al Muhid" ASR variant, the garbled opening devotional passage) are honestly disclosed rather than silently resolved — this audit agrees with each.
+
+One inference-adjacent judgment call is made explicitly here, not silently: treating IX/X as "covered" for message 8 (rather than "not covered," as message 8's own Tahap 1 file states in isolation) is a deliberate re-attribution based on reading the M09 transcript, not an inference from outline knowledge. The underlying transcript quotations for IX and X are fully explicit; only their *session location* differs from where message 8's own file, read in isolation, would suggest.
+
+## Cross-message uniqueness map
+
+Classification key: **[Unik]** no equivalent anywhere in {M05, M06, Sentul-M07, Sentul-M08, Sentul-M09}; **[Unik-sudut]** same broader topic elsewhere in this group but this message's specific angle is distinct; **[Tumpang tindih]** no clear distinguishing angle vs. another message in this group — test minimally if at all. Only points with genuine taught content are mapped (III and IV are included despite being nominal, since some content — the ayat 30 preview — was taught); V and VII are excluded (not taught at all).
+
+Note on scope: this map does not check against the SBY-only Tahap 2 files for M07/M08/M09 — separate exam track, irrelevant per the project's structural decision.
+
+| Sentul-M08 point | Classification | Note |
+| :-- | :-: | :-- |
+| I — Christ as common portion, called into fellowship (1 Kor. 1:2b, 1:9, 1:7-8) | **[Unik]** | No equivalent "common portion of all believers" content elsewhere in the group. |
+| II — Christ as power and wisdom of God (1 Kor. 1:24a) | **[Unik]** | No equivalent elsewhere. |
+| III — Christ as wisdom (1 Kor. 1:24b, 30, nominal only) | **[Unik]** | No equivalent elsewhere; flagged as low-priority for Tahap 3 regardless of uniqueness, given the thin, preview-only coverage. |
+| IV — Christ as righteousness (1 Kor. 1:30, nominal, self-study) | **[Unik]** | No equivalent elsewhere; same low-priority flag as III. |
+| VI — Christ as redemption (1 Kor. 1:30) | **[Unik]** | No equivalent elsewhere; the electricity/switch illustration and "ikatkan dirimu kepada Tuhan pagi hari" application are this trainer's own, not repeated elsewhere in the group. |
+| VIII — Christ as spiritual rock and bread from heaven (1 Kor. 10:3-4; Jn. 6) | **[Unik]** | No equivalent manna/rock content in M05, M06 (Romans-based), or Sentul-M07/M09. |
+| IX — Christ as anointing and seal of the compound Spirit (2 Kor. 1:21-22) | **[Unik-sudut]** | M05's I/I.A (compound Spirit typified in the Exodus 30 anointing oil, Exo. 30:23-25) teaches the *same underlying doctrine* — the compound Spirit as anointing — but from an entirely different verse and illustrative material (the four-spice recipe, not the stamp/seal image). This mirrors the identical connection already documented between M05 and the *SBY* instance's M08 IX — the doctrine recurs across the curriculum regardless of trainer/instance. No literal test-item overlap; safe to test each from its own textual anchor. |
+| X — Christ as ink and mirror (2 Kor. 3:3, 18) | **[Tumpang tindih]** | **Sentul-M09's own outline III (2 Kor. 3:18, "diubah dari kemuliaan ke kemuliaan") cites the identical verse as X's second half, within this same transcript.** The M09 file itself notes this explicitly: outline III is taught "building on the 'dari kemuliaan ke kemuliaan' material already introduced earlier as message-8 carryover." This is a genuine same-session, same-verse recurrence — X's mirror/transformation content (taught as carryover, in the M09 recording) is revisited and elaborated a second time when M09's own outline III is formally reached (the "three elements needed to behold" teaching). Recommend Tahap 3 author the base "changed from glory to glory" fact once, tagged to message 8 (X, the first/fuller quotation of 2 Kor. 3:18 and 3:3's "letter of Christ" material), and treat M09's III as the distinct elaboration (the beholding mechanics: position, light, unveiled heart) rather than a duplicate — the two are close enough in verse that they should not both be drafted as independent "what does 2 Kor. 3:18 teach" questions. |
+
+**Summary for Sentul-M08:** 6 [Unik] (I, II, III, IV, VI, VIII), 1 [Unik-sudut] (IX, vs. M05), 1 [Tumpang tindih] (X, vs. Sentul-M09's own III — a same-transcript, same-verse recurrence, not an error).
+
+## Reference book verification
+
+**Source checked:** `A Deeper Study of the Divine Dispensing` (Witness Lee), chapters 8-9, via `https://bibleread.online/all-books-by-Watchman-Nee-and-Witness-Lee/book-deeper-study-of-the-divine-dispensing-a-Witness-Lee-read-online/8/` and `.../9/`.
+
+Chapter 8's structure (summarized, not reproduced verbatim) covers six functional categories of the all-inclusive Christ's dispensing: common portion (shared spiritual inheritance for all believers), power (strengthening for endurance), wisdom (guidance for church challenges), righteousness (living justly), sanctification (progressive holiness of spirit/soul/body), and redemption (future bodily transformation) — with an electricity/power-distribution metaphor for continuous divine transmission. Chapter 9's structure covers four further pairs: Christ as Passover Lamb and unleavened bread (life-power and nourishment); spiritual rock and heavenly bread (living water and daily sustenance); anointing and seal/compound Spirit (saturation and transformation); and inward ink/outward mirror (inscription and reflection). Every transcript claim reconciled above — including the carryover IX/X material sourced from the M09 transcript — aligns with this reference structure; the electricity/switch illustration the trainer uses twice (points 7 and 14) is his own elaboration of chapter 8's own electricity metaphor, not an invention beyond it. As required by this project's copyright rule, only short phrases were retained for verification; the fetched chapter summaries were paraphrased rather than quoted at length in this document.
+
+No verification gaps: chapters 8-9 correspond cleanly to message 8's full outline range (I-X), consistent with the REFERENCE line on the outline PDF, once IX and X are correctly attributed to their actual (carryover) transcript location.
+
+## Tahap 3 guardrail
+
+**Fairness status: SENTUL instance (Br. Ronal), building a SEPARATE exam track from the SBY instance for messages 7-9 (structural decision: the two campuses' coverage diverged too much to reconcile into one shared bank for these three messages). This exam will combine: messages 5-6 (SHARED, identical content in both SBY and Sentul exams) + messages 7-9 (SENTUL-specific content, distinct from what SBY trainees were taught). No further cross-campus reconciliation needed for 7-9 — Sentul trainees are tested on what Br. Ronal actually taught them.**
+
+Additional message-specific guardrails:
+
+- **V and VII were not taught anywhere in this instance** (neither in message 8's own session nor as carryover) and must not be used to generate Sentul-track candidate questions.
+- **IX and X are message 8's own outline points but their evidentiary source is the M09 transcript file**, not the M08 transcript file — when Tahap 3 drafts candidate questions for IX or X, cite `Truth_M09_SENTUL_SessionOutline.md` (points 1-4) as the source excerpt, tagged to message 8's outline structure, not as message-9 content.
+- **X carries an internal (same-transcript) duplication flag against Sentul-M09's own outline III** (2 Kor. 3:18) — author the base fact once, tagged to message 8's X (the fuller, first quotation of the verse), and treat M09's III as the distinct "elements of beholding" elaboration; do not draft both as independent "what does this verse teach" questions.
+- **III and IV are thinly covered** (preview-quotation only, IV explicitly assigned as self-study) — low priority for Tahap 3 even though classified [Unik], since the evidentiary base is a single shared quotation of 1 Kor. 1:30 rather than dedicated teaching.
+- **The IX/X anointing-and-seal doctrine overlaps M05's I/I.A on doctrine (not verse)** — safe to test both, but a Tahap 3 author drafting either should be aware they probe the same underlying teaching (compound Spirit as anointing) so both aren't drawn into the same exam section.
