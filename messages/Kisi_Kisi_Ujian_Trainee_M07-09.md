@@ -1,14 +1,15 @@
-# KISI-KISI UJIAN — TRUTH MESSAGE 3-9 (BAGIAN YANG SUDAH TERSEDIA: MESSAGE 7-9)
+# KISI-KISI UJIAN — TRUTH MESSAGE 5-9 (BAGIAN YANG SUDAH TERSEDIA: MESSAGE 7-9)
 
 ## Versi Trainee (Panduan Belajar)
 
-FTTI — Kelas Truth (Alkitab Perjanjian Baru, Ekonomi Ilahi). **Cakupan ujian penuh: 7 berita (message 3-9)** — Wahyu Murni Allah Tritunggal (3), Penyaluran Ilahi dalam Injil Yohanes (4), Roma (1)-(3) (5-7), 1-2 Korintus (1)-(2) (8-9). Dokumen ini BARU memuat message 7-9 (50 soal final, Tahap 4) karena transkrip message 3-6 belum tersedia/masih diproses — lihat catatan status di bawah. Sumber message 7-9: Instance SBY, R7, JULDES 2026, Trainer Paulus Oenjoyo. Bahasa Indonesia.
+FTTI — Kelas Truth (Alkitab Perjanjian Baru, Ekonomi Ilahi). **Cakupan ujian: 5 berita, Roma-Korintus (message 5-9)** — Roma (1)-(3) (5-7), 1-2 Korintus (1)-(2) (8-9). Message 3 (Wahyu Murni Allah Tritunggal) dan message 4 (Penyaluran Ilahi dalam Injil Yohanes) **TIDAK termasuk cakupan ujian ini** dan sengaja tidak diproses. Dokumen ini BARU memuat message 7-9 (50 soal final, Tahap 4) — message 5-6 sudah sampai Tahap 3 (bank kandidat) dan menyusul begitu Tahap 4-nya selesai. Sumber message 7-9: Instance SBY, R7, JULDES 2026, Trainer Paulus Oenjoyo. Bahasa Indonesia.
 
 ## ⚠️ STATUS CAKUPAN — PENTING DIBACA DULU
 
-- **Message 3, 4, 5, 6 — BELUM ADA di kisi-kisi ini.** Message 5 ("Roma (1)", direkam 5 Agustus) dan message 6 ("Roma (2)", direkam 6 Agustus) transkripnya sedang diproses. Message 3 dan 4 juga belum diproses. Bagian ini akan MENYUSUL sebagai revisi kisi-kisi begitu transkripnya siap.
+- **Message 5, 6 — Tahap 1-3 SUDAH SELESAI** (bank kandidat siap, 29 soal per message), tinggal menunggu Tahap 4 (seleksi final) sebelum ditambahkan ke kisi-kisi ini.
 - **Message 7, 8, 9 — SUDAH LENGKAP** (di bawah ini), sudah melalui Tahap 1-4 penuh dan bank soal final (50 soal).
-- Trainee dipersilakan mulai belajar dari message 7-9 dulu sambil menunggu bagian Roma (1)-(2) dan message 3-4 menyusul — **jangan anggap ujian hanya mencakup message 7-9**, cakupan penuhnya 7 berita.
+- **Message 3, 4 — TIDAK termasuk cakupan ujian ini**, tidak perlu dipelajari untuk ujian Roma-Korintus.
+- Trainee dipersilakan mulai belajar dari message 7-9 dulu sambil menunggu bagian Roma (1)-(2) — **cakupan penuh ujian ini adalah 5 berita (message 5-9)**, bukan 7-9 saja.
 
 ## ⚠️ CARA MEMAKAI KISI-KISI INI (untuk bagian message 7-9 di bawah)
 
@@ -81,4 +82,4 @@ Karena tidak ada poin dominan, strategi belajar terbaik adalah **cakupan merata*
 4. Tipe Fakta paling dominan (50%), diikuti Interpretasi (38%), Tema (10%), dan Aplikasi (2%) — pahami penjelasan/makna kelas (Interpretasi), bukan hanya hafal angka dan nama (Fakta), tetapi tetap kuasai data spesifik karena separuh soal bertipe Fakta.
 5. Jangan habiskan waktu menghafal daftar "❌ TIDAK diujikan" di atas — itu batas belajar, bukan materi ujian.
 
-*Kisi-kisi ini disusun langsung dari bank soal final (Tahap 4) — 50 soal, message 7-9, sumber SBY. Cakupan ujian penuh adalah 7 berita (message 3-9); bagian message 3-6 menyusul setelah transkrip tersedia — pantau revisi dokumen ini.*
+*Kisi-kisi ini disusun langsung dari bank soal final (Tahap 4) — 50 soal, message 7-9, sumber SBY. Cakupan ujian penuh adalah 5 berita, Roma-Korintus (message 5-9); message 3-4 TIDAK termasuk cakupan. Bagian message 5-6 menyusul setelah Tahap 4-nya selesai — pantau revisi dokumen ini.*
