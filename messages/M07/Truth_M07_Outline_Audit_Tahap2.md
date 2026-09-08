@@ -42,6 +42,8 @@ Two points (5 and 6 in Tahap 1's list, on the structure of Romans — ch. 8 as t
 
 ## Cross-message uniqueness map
 
+**Maintenance note (added post-M06 audit, 2026-09-08):** This section was updated after messages 5-6's Tahap 2 audit was written (M06's file: `Truth_M06_Outline_Audit_Tahap2.md`) and found three new cross-message overlaps against this message that were not visible when this file was first written — M07 pre-dates M05/M06's existence entirely. The three rows below marked "Update (post-M06 audit)" reflect this correction; nothing else in this file has been re-audited or rewritten.
+
 Classification key: **[Unik]** no equivalent in M08/M09; **[Unik-sudut]** same broader topic elsewhere but this message's angle is distinct; **[Tumpang tindih]** no clear distinguishing angle vs. another of the three — test minimally if at all.
 
 | M07 point | Classification | Note |
@@ -50,14 +52,14 @@ Classification key: **[Unik]** no equivalent in M08/M09; **[Unik-sudut]** same b
 | I.B — highest standard of virtue (Rm. 12:9-21) | **[Unik]** | No equivalent Body-of-Christ ethical-living content in M08 or M09. |
 | II.A.1 — receive weak believers unconditionally (Rm. 14:1-3; 15:7) | **[Unik]** | — |
 | II.A.4 — judgment seat of God (Rm. 14:10b) | **[Unik]** | — |
-| II.A.5 — kingdom of God life (Rm. 14:17) | **[Unik]** | — |
+| II.A.5 — kingdom of God life (Rm. 14:17) | **[Tumpang tindih]** | Update (post-M06 audit): also overlaps with M06 point I.B.3 ("bringing in God's kingdom," Rom. 14:17) — M06 quotes the identical verse with the identical substance (kingdom of God = righteousness, peace, joy in the Holy Spirit). Previously classified [Unik] on the assumption there was no equivalent in M05/M06 (which did not yet exist); on the evidence in M06's file the two transcripts are comparably brief, so either message may serve as the primary tag for Tahap 3, but this point should not be drafted as a candidate in both. |
 | II.A.6 — universal fellowship of all churches (Rm. 16:1-27) | **[Unik]** | — |
-| II.A.7 — avoid those who cause division, four marks (Rm. 16:17) | **[Unik-sudut]** | Thematically adjacent to M08's and M09's asides about the Corinthian factions and Babel (both about division), but M07's actual content — the four identifying marks of divisive people, from Rm. 16:17 — is a distinct verse and a distinct diagnostic list, not the same illustration. Safe to test from its own angle. |
-| II.B.1 — crushing Satan (Rm. 16:20a) | **[Unik]** | — |
+| II.A.7 — avoid those who cause division, four marks (Rm. 16:17) | **[Tumpang tindih]** | Update (post-M06 audit): also overlaps with M06 point I.A.6 ("saved from division," Rom. 16:17) — M06 quotes the identical verse as a brief one-line deliverance statement. The distinguishing angle vs. M08/M09 (different verse — Corinthian factions/Babel, not Rm. 16:17) still holds and remains valid; it is the same-verse overlap with M06 that is new. M07's version is the fuller development (the "four marks" diagnostic list drawn directly from Rm. 16:17's own wording) — recommend Tahap 3 author this once, tagged to M07, cross-referenced from M06. |
+| II.B.1 — crushing Satan (Rm. 16:20a) | **[Tumpang tindih]** | Update (post-M06 audit): also overlaps with M06 point I.B.2 ("subduing Satan," Rom. 16:20) — M06 quotes the identical verse and near-identical content ("crush Satan under your feet"). Previously classified [Unik]; on the evidence in M06's file the two transcripts are comparably brief, so either message may serve as the primary tag for Tahap 3, but this point should not be drafted as a candidate in both. |
 | II.B.2 — grace of Christ and peace of God (Rm. 16:20) | **[Unik]** | Weak transcript coverage (see reconciliation table) — low priority for Tahap 3 regardless of uniqueness. |
 | II.B.3 — glory to the only wise God (Rm. 16:25-27) | **[Unik]** | — |
 
-**Summary for M07:** 8 [Unik], 2 [Unik-sudut], 0 [Tumpang tindih].
+**Summary for M07:** 6 [Unik], 1 [Unik-sudut], 3 [Tumpang tindih] (updated post-M06 audit — previously 8 [Unik], 2 [Unik-sudut], 0 [Tumpang tindih]; II.A.5 and II.B.1 moved from [Unik] to [Tumpang tindih], and II.A.7 moved from [Unik-sudut] to [Tumpang tindih], all due to newly-found same-verse overlaps with M06, not to any change in this message's own content).
 
 ## Reference book verification
 
@@ -76,3 +78,4 @@ Additional message-specific guardrails:
 - **II.A.2 and II.A.3 (Rm. 15:5, Rm. 14:15) are not taught in this instance** and must not be used to generate candidate questions from general outline knowledge — they stay untestable unless a future instance (Sentul, or a re-taught SBY session) actually covers them.
 - **II.B.2's grace/peace point carries a wording caveat** — if used in Tahap 3, the evidence citation should note the ASR garbling rather than presenting the transcript quote as a clean match.
 - **II.A.7 vs. M08/M09 division asides:** if Tahap 3 drafts a question on "identifying those who cause division," anchor it specifically to Rm. 16:17's four marks (this message's actual content) rather than to the Corinthian-factions/Babel illustration used in M08/M09, to keep the distinguishing angle intact.
+- **II.A.5, II.A.7, and II.B.1 carry newly-found cross-message duplication flags against M06** (Rom. 14:17 kingdom of God; Rom. 16:17 division; Rom. 16:20a Satan) — see the updated Cross-message uniqueness map above. M06's Tahap 2 audit found these same-verse overlaps after this file was already approved. Tahap 3 should not draft independent candidate questions for both M06's and M07's versions of these three points; treat them as single shared facts (M07 is the fuller tag for the division and Satan points given its more developed wording; either message is comparably brief for the kingdom-of-God point).
