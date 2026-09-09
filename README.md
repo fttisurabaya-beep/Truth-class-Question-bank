@@ -5,11 +5,67 @@ Training Indonesia), taught across two campuses (Sentul, Surabaya). See
 `docs/superpowers/specs/2026-09-07-truth-class-question-bank-design.md` for the full
 pipeline design.
 
+## Exam scope (confirmed)
+
+The first exam covers **message 7-9 only** (Roma (3), 1-2 Korintus (1)-(2)) — **Truth
+Test (2)** in the org's exam sequence. Message 5-6 (Roma (1)-(2), taught by Isaac
+Kwoon, SHARED instance) were processed through Tahap 3 as reference material but are
+**out of exam scope** — not included in any final bank. Message 3-4 were never
+processed.
+
+**SBY and Sentul are two permanent separate exam tracks**, not one reconciled bank.
+Sentul's transcript covers only ~43% of the outline sub-points SBY covers (time
+management, not competence — see `messages/Perbandingan_SBY_vs_SENTUL_Message7-9.md`),
+too large a gap to merge fairly into a single shared exam.
+
 ## Status
 
-| Message | Topic | SBY instance | Sentul instance | Tahap 1 | Tahap 1b | Tahap 2-5 |
-| :-: | :-- | :-: | :-: | :-: | :-: | :-: |
-| 7 | Divine Dispensing in Romans (3): The Goal | ✅ R7 (Paulus O) | ⏳ pending | ✅ | ⏳ partial, awaiting Sentul | not started |
-| 8 | Divine Dispensing in 1-2 Corinthians (1) | ✅ R7 (Paulus O) | ⏳ pending | not started | not started | not started |
-| 9 | Divine Dispensing in 1-2 Corinthians (2) | ✅ R7 (Paulus O) | ⏳ pending | not started | not started | not started |
-| 1-6, 10-72 | — | no transcript yet | no transcript yet | not started | not started | not started |
+| Track | Tahap 1 | Tahap 2 | Tahap 3 (kandidat) | Tahap 4 (final) | Tahap 5 (QC) | Kisi-kisi | Produksi |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **SBY** (message 7-9, Paulus Oenjoyo) | ✅ | ✅ | ✅ 73 kandidat | ✅ 50 soal | ✅ (15 stem diperbaiki) | ✅ v3 | ✅ Ujian + Kunci + Item Bank |
+| **Sentul** (message 7-9, Br. Ronal) | ✅ | ✅ | ✅ 37 kandidat | ⏳ belum | ⏳ belum | ⏳ belum | ⏳ belum |
+| Message 5-6 (Isaac Kwoon, SHARED) | ✅ | ✅ | ✅ (referensi, di luar cakupan ujian) | — | — | — | — |
+| Message 1-4, 10-72 | belum ada transkrip | — | — | — | — | — | — |
+
+Sentul's low candidate count (37 vs SBY's 73) directly reflects thinner class coverage,
+not a processing gap — see `messages/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` §8
+and the comparison doc above for the full breakdown.
+
+## SBY track deliverables (message 7-9, "Truth Test (2)")
+
+- **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SBY_SessionOutline.md`
+- **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_Outline_Audit_Tahap2.md`
+- **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_QuestionBank_Tahap3_ID.md` (73 kandidat total)
+- **Tahap 4** — `messages/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` (+ `.docx` landscape) — 50 soal final
+- **Tahap 5** — `messages/Truth_M07-09_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 15/50 stem framing diperbaiki
+- **Referensi QC** — `messages/Truth_M07-09_SBY_CandidateReference.md` (+ `.docx`) — 73 kandidat, ditandai Terpilih/Cadangan
+- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_M07-09.md` [v3, final]
+- **Produksi** (`messages/PRODUKSI/`):
+  - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — lembar ujian trainee (ID saja, tidak ada trainee internasional)
+  - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — kunci jawaban
+  - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SURABAYA.md` (+ `.docx`) — referensi instruktur/QC (50 teruji + 23 cadangan)
+  - `Truth_M07-09_SBY_ShuffledAnswerMap.json` — peta soal↔posisi jawaban final
+
+## Sentul track deliverables (message 7-9, so far)
+
+- **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_SessionOutline.md`
+- **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_Outline_Audit_Tahap2.md`
+- **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (37 kandidat total)
+- **Tahap 4-5, kisi-kisi, produksi** — belum dikerjakan
+
+## PIC-facing analysis docs
+
+- `messages/Perbandingan_SBY_vs_SENTUL_Message7-9.md` — perbandingan materi yang benar-benar diajarkan per kampus (dari Tahap 1), untuk PIC wilayah masing-masing
+- `messages/Validasi_Urutan_Pasal_SENTUL_Message7-9.md` — validasi (menolak) rumor bahwa Sentul mengajar berurutan pasal Alkitab
+
+## Source material tracked in this repo
+
+- `transcripts/raw/` — transkrip kelas mentah (sumber utama, satu-satunya penentu apa yang diujikan)
+- `TRUTH CLASS OUTLINE EN-ID/` — outline resmi Truth Class (EN+ID PDF), Tier 2 — verifikasi terminologi/penomoran poin
+- `data/message_registry.json` — registry 72 message, instance per kampus/trainer
+
+## Google Drive
+
+Semua dokumen di atas (kecuali file `.docx` produksi karena kendala teknis upload) juga
+tersedia sebagai Google Docs di folder kerja bersama — cari lewat judul yang sama di
+Drive, atau minta link ke PIC proyek.
