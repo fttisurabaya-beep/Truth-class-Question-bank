@@ -7,11 +7,16 @@ pipeline design.
 
 ## Exam scope (confirmed)
 
-The first exam covers **message 7-9 only** (Roma (3), 1-2 Korintus (1)-(2)) — **Truth
-Test (2)** in the org's exam sequence. Message 5-6 (Roma (1)-(2), taught by Isaac
-Kwoon, SHARED instance) were processed through Tahap 3 as reference material but are
-**out of exam scope** — not included in any final bank. Message 3-4 were never
-processed.
+This project produces **Truth Test (2)** — the second of 5 Truth Tests scheduled this
+term (org exam calendar: Truth Test (1) Aug. 12, **Truth Test (2) Sep. 9**, Truth Test
+(3) Oct. 7, Truth Test (4) Oct. 30, Truth Test (5) Nov. 13). Truth Test (1) already
+took place using recycled/photocopied questions from a prior term, not produced by this
+pipeline — this project's first deliverable is Test (2).
+
+Truth Test (2) covers **message 7-9 only** (Roma (3), 1-2 Korintus (1)-(2)). Message
+5-6 (Roma (1)-(2), taught by Isaac Kwoon, SHARED instance) were processed through
+Tahap 3 as reference material but are **out of scope for Test (2)** — not included in
+its final bank; they may feed a later Truth Test. Message 3-4 were never processed.
 
 **SBY and Sentul are two permanent separate exam tracks**, not one reconciled bank.
 Sentul's transcript covers only ~43% of the outline sub-points SBY covers (time
