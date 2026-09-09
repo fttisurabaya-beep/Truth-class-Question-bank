@@ -1,6 +1,6 @@
 # Truth Messages 7-9 (Track SENTUL) — Audit & Penyaringan (Tahap 4, Bahasa Indonesia)
 
-**Cakupan:** Gabungan bank soal Message 7, 8, dan 9 — instance SENTUL (Br. Ronal) — satu bundel ujian gabungan untuk track Sentul (digabung dengan message 5-6 SHARED di tahap Produksi).
+**Cakupan:** Gabungan bank soal Message 7, 8, dan 9 — instance SENTUL (Br. Ronal) — bank final ujian track Sentul. Sama seperti track SBY, cakupan ujian Sentul HANYA message 7-9 — message 5-6 (Isaac Kwoon, SHARED) TIDAK dipakai di ujian manapun (dikonfirmasi user 2026-09-09).
 
 **Sumber:**
 - `messages/M07/Truth_M07_SENTUL_SessionOutline.md`, `Truth_M07_SENTUL_Outline_Audit_Tahap2.md`, `Truth_M07_SENTUL_QuestionBank_Tahap3_ID.md` (13 kandidat)
@@ -127,8 +127,8 @@ No. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 (tidak ada yang di-drop)
 
 **Bank 45 soal ini adalah bank final untuk track ujian Sentul (message 7-9).** Track ini permanen terpisah dari track SBY (keputusan proyek, lihat `Perbandingan_SBY_vs_SENTUL_Message7-9.md`) — tidak ada rekonsiliasi silang yang diperlukan atau direncanakan.
 
-- Bank ini akan digabung dengan message 5-6 (SHARED, Isaac Kwoon) di tahap Produksi untuk membentuk satu ujian Sentul utuh mencakup message 5-9 — **berbeda dari track SBY yang hanya mencakup message 7-9 (Truth Test (2) tidak menyertakan message 5-6 untuk SBY)**. Perbedaan cakupan ini disengaja: track Sentul menggabungkan message 5-6 karena instance-nya SHARED (sama untuk kedua kampus), sementara message 7-9 sepenuhnya spesifik per kampus.
-- 10 dari 45 soal terpilih (5 di M07, 5 di M08) berasal dari materi latar belakang yang baru disetujui sebagai bahan ujian (konfirmasi Agnes Mega, TA Kurikulum Sentul, 2026-09-09) — materi ini secara struktural bukan bagian dari outline resmi message 7/8, tapi benar-benar diajarkan secara verbal di kelas dan sudah diverifikasi bebas dari tumpang tindih dengan bank M05/M06.
+- **Cakupan ujian Sentul HANYA message 7-9 — sama persis dengan track SBY.** Message 5-6 (Isaac Kwoon, SHARED) TIDAK dipakai di ujian manapun, dikonfirmasi eksplisit oleh user (2026-09-09), meralat asumsi awal proyek bahwa ujian Sentul akan menggabungkan message 5-6. Bank Tahap 3 M05/M06 tetap ada di repo sebagai materi yang sudah diproses sampai Tahap 3, tapi berstatus di luar cakupan ujian, sama seperti untuk SBY.
+- 10 dari 45 soal terpilih (5 di M07, 5 di M08) berasal dari materi latar belakang yang baru disetujui sebagai bahan ujian (konfirmasi Agnes Mega, TA Kurikulum Sentul, 2026-09-09) — materi ini secara struktural bukan bagian dari outline resmi message 7/8, tapi benar-benar diajarkan secara verbal di kelas. Dua kandidat latar M07 lain (Rm. 5:10; lokasi aspek yuridis/organik) sengaja tidak dipakai karena saat ditambahkan (sebelum klarifikasi di atas) sempat dinilai berisiko tumpang tindih dengan bank M05/M06 — kehati-hatian itu kini tidak lagi krusial karena M05/M06 di luar cakupan ujian, tapi keputusan drop tidak dibuka kembali (lihat §1) agar tidak mengubah ulang Tahap 3/4/5 yang sudah final.
 - Guardrail anchor lintas-berita (IX/X → M08; Romawi III M09 hanya elaborasi khas, bukan fakta dasar 2 Kor 3:18) berlaku independen untuk track Sentul ini.
 
 ---
@@ -148,5 +148,5 @@ No. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 (tidak ada yang di-drop)
 - **Redundansi lintas-berita:** guardrail Tahap 2 (IX/X → M08; Romawi III M09 hanya elaborasi khas) dikonfirmasi tetap dihormati; materi latar belakang dikonfirmasi bersih dari overlap M05/M06.
 - **Keseimbangan tipe/kesulitan gabungan:** Easy 36% / Medium 62% / Hard 2%; Fakta 62% / Interpretasi 31% / Tema 0% / Aplikasi 7% — dominasi Medium/Fakta jujur mencerminkan sifat materi Sentul, bukan penyaringan aktif (drop rate hanya 4%).
 - **Verifikasi kunci:** 10 spot-check (melebihi minimum 8), semua cocok dengan kutipan Tahap 1.
-- **Status:** Bank final untuk track ujian Sentul (45 soal, message 7-9) — akan digabung dengan message 5-6 SHARED di tahap Produksi.
+- **Status:** Bank final untuk track ujian Sentul (45 soal, message 7-9) — cakupan final, tidak digabung dengan message 5-6 (di luar cakupan, sama seperti track SBY).
 - **To-do produksi:** rebalancing posisi jawaban A/B/C/D belum dieksekusi — dicatat sebagai langkah produksi berikutnya.
