@@ -38,7 +38,9 @@ Tahap 4 onward (final selection, QC, study guide, production) is tied to a speci
 messages/TRUTH-TEST-2-JULDES-2026/
   SURABAYA/     — Tahap 4, Tahap 5, Candidate Reference, kisi-kisi (SBY-only)
   SENTUL/       — Tahap 4, Tahap 5, kisi-kisi ID+EN (Sentul-only)
-  PRODUKSI/     — final exam/key/item bank docx+md for both campuses
+  PRODUKSI/
+    SURABAYA/   — final exam/key/item bank docx+md (SBY)
+    SENTUL/     — final exam/key/item bank docx+md (Sentul, ID+EN)
   Perbandingan_SBY_vs_SENTUL_Message7-9.md   — cross-campus, not campus-specific
   Validasi_Urutan_Pasal_SENTUL_Message7-9.md — cross-campus, not campus-specific
 ```
@@ -70,7 +72,7 @@ not a processing gap — see
 - **Tahap 5** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 15/50 stem framing diperbaiki
 - **Referensi QC** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_SBY_CandidateReference.md` (+ `.docx`) — 73 kandidat, ditandai Terpilih/Cadangan
 - **Kisi-kisi trainee** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Kisi_Kisi_Ujian_Trainee_M07-09.md` [v3, final]
-- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/`):
+- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/SURABAYA/`):
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — lembar ujian trainee (ID saja, tidak ada trainee internasional)
   - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — kunci jawaban
   - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SURABAYA.md` (+ `.docx`) — referensi instruktur/QC (50 teruji + 23 cadangan)
@@ -84,7 +86,7 @@ not a processing gap — see
 - **Tahap 4** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md` — 45 soal final (drop 2, ~4% penyaringan — target 45 ditetapkan eksplisit, bukan 50)
 - **Tahap 5** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Truth_M07-09_SENTUL_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 8/45 stem framing diperbaiki
 - **Kisi-kisi trainee** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final, ID] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi; versi Inggris: `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09_EN.md` [v1, EN] — untuk trainee internasional Sentul
-- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/`):
+- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/SENTUL/`):
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — lembar ujian trainee (ID)
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL (Eng).docx` — lembar ujian trainee versi Inggris, untuk trainee internasional Sentul (SBY tidak butuh versi ini karena tidak ada trainee internasional). Terjemahan menjaga urutan opsi A/B/C/D persis sama dengan versi ID, jadi memakai kunci jawaban ID yang sama (tidak ada kunci jawaban EN terpisah)
   - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — kunci jawaban (posisi teracak 11/11/12/11), berlaku untuk versi ID maupun EN
