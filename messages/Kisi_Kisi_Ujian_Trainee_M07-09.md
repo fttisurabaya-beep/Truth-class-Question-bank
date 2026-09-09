@@ -1,24 +1,25 @@
-# KISI-KISI UJIAN — TRUTH MESSAGE 5-9 (BAGIAN YANG SUDAH TERSEDIA: MESSAGE 7-9)
+# KISI-KISI UJIAN — TRUTH MESSAGE 7-9, TRACK SBY [v3]
 
 ## Versi Trainee (Panduan Belajar)
 
-FTTI — Kelas Truth (Alkitab Perjanjian Baru, Ekonomi Ilahi). **Cakupan ujian: 5 berita, Roma-Korintus (message 5-9)** — Roma (1)-(3) (5-7), 1-2 Korintus (1)-(2) (8-9). Message 3 (Wahyu Murni Allah Tritunggal) dan message 4 (Penyaluran Ilahi dalam Injil Yohanes) **TIDAK termasuk cakupan ujian ini** dan sengaja tidak diproses. Dokumen ini BARU memuat message 7-9 (50 soal final, Tahap 4) — message 5-6 sudah sampai Tahap 3 (bank kandidat) dan menyusul begitu Tahap 4-nya selesai. Sumber message 7-9: Instance SBY, R7, JULDES 2026, Trainer Paulus Oenjoyo. Bahasa Indonesia.
+FTTI — Kelas Truth (Alkitab Perjanjian Baru, Ekonomi Ilahi). **Cakupan ujian: 3 berita, Roma-Korintus (message 7-9)** — Roma (3) (7), 1-2 Korintus (1)-(2) (8-9). Message 3 (Wahyu Murni Allah Tritunggal), message 4 (Penyaluran Ilahi dalam Injil Yohanes), dan message 5-6 (Roma (1)-(2), diajarkan Isaac Kwoon) **TIDAK termasuk cakupan ujian ini** — keputusan proyek final, bukan sementara. Dokumen ini adalah kisi-kisi **FINAL** untuk track SBY (bukan interim): 50 soal final Tahap 4, sumber Instance SBY, R7, JULDES 2026, Trainer Paulus Oenjoyo. Bahasa Indonesia.
+
+Track **Sentul** (trainer Br. Ronal, message 7-9) punya kisi-kisi terpisah sendiri — dua ujian permanen berbeda per kampus, bukan satu ujian gabungan (lihat `Perbandingan_SBY_vs_SENTUL_Message7-9.md` untuk alasannya). Kisi-kisi Sentul menyusul setelah Tahap 4 track Sentul selesai.
 
 ## ⚠️ STATUS CAKUPAN — PENTING DIBACA DULU
 
-- **Message 5, 6 — Tahap 1-3 SUDAH SELESAI** (bank kandidat siap, 29 soal per message), tinggal menunggu Tahap 4 (seleksi final) sebelum ditambahkan ke kisi-kisi ini.
-- **Message 7, 8, 9 — SUDAH LENGKAP** (di bawah ini), sudah melalui Tahap 1-4 penuh dan bank soal final (50 soal).
-- **Message 3, 4 — TIDAK termasuk cakupan ujian ini**, tidak perlu dipelajari untuk ujian Roma-Korintus.
-- Trainee dipersilakan mulai belajar dari message 7-9 dulu sambil menunggu bagian Roma (1)-(2) — **cakupan penuh ujian ini adalah 5 berita (message 5-9)**, bukan 7-9 saja.
+- **Message 7, 8, 9 (track SBY) — LENGKAP dan FINAL** (di bawah ini), sudah melalui Tahap 1-4 penuh dan bank soal final (50 soal). Tidak akan ada penambahan message lain ke ujian track ini.
+- **Message 3, 4, 5, 6 — TIDAK termasuk cakupan ujian ini**, tidak perlu dipelajari untuk ujian Roma-Korintus track SBY.
+- Ujian track SBY hanya mencakup 3 berita (message 7-9) — **bukan 5 berita seperti versi kisi-kisi sebelumnya (v2)**, yang sudah usang dan diarsipkan.
 
-## ⚠️ CARA MEMAKAI KISI-KISI INI (untuk bagian message 7-9 di bawah)
+## ⚠️ CARA MEMAKAI KISI-KISI INI
 
 1. Yang diujikan hanyalah yang diajarkan di kelas (transkrip R7 SBY, trainer Paulus Oenjoyo) — tidak ada soal di luar daftar ini.
 2. Perhatikan bobot soal — poin dengan lebih banyak soal (2) lebih berat daripada poin dengan 1 soal.
 3. Tipe soal: Fakta (data/angka/nama/ayat), Interpretasi (makna/penjelasan kelas), Tema (struktur/rangkuman berita), Aplikasi (prinsip pada pelayanan).
 4. "❌ TIDAK diujikan" = batas belajar, tidak perlu dihafal.
 5. Fokus pada sudut khas tiap berita — beberapa topik mirip antar-berita (mis. karunia Roh Rm 12 vs 1 Kor 12; "kekuatan & hikmat Allah" di M08 vs M09), tapi soal selalu dari sudut berita bersangkutan.
-6. Bank ini SBY-only (bank kandidat-final); jika ujian gabungan dengan Sentul, kisi-kisi ini akan direvisi setelah rekonsiliasi.
+6. Bank ini khusus track **SBY** — trainee Sentul memakai kisi-kisi Sentul terpisah (menyusul), bukan dokumen ini.
 
 ## MESSAGE 7 — Penyaluran Ilahi dalam Kitab Roma (3) — 26 Soal
 
@@ -82,4 +83,4 @@ Karena tidak ada poin dominan, strategi belajar terbaik adalah **cakupan merata*
 4. Tipe Fakta paling dominan (50%), diikuti Interpretasi (38%), Tema (10%), dan Aplikasi (2%) — pahami penjelasan/makna kelas (Interpretasi), bukan hanya hafal angka dan nama (Fakta), tetapi tetap kuasai data spesifik karena separuh soal bertipe Fakta.
 5. Jangan habiskan waktu menghafal daftar "❌ TIDAK diujikan" di atas — itu batas belajar, bukan materi ujian.
 
-*Kisi-kisi ini disusun langsung dari bank soal final (Tahap 4) — 50 soal, message 7-9, sumber SBY. Cakupan ujian penuh adalah 5 berita, Roma-Korintus (message 5-9); message 3-4 TIDAK termasuk cakupan. Bagian message 5-6 menyusul setelah Tahap 4-nya selesai — pantau revisi dokumen ini.*
+*Kisi-kisi ini disusun langsung dari bank soal final (Tahap 4) — 50 soal, message 7-9, sumber SBY. Cakupan ujian track SBY adalah 3 berita, Roma-Korintus (message 7-9) — final, tidak akan bertambah. Message 3, 4, 5, 6 TIDAK termasuk cakupan ujian track SBY. Track Sentul (message 7-9, trainer Br. Ronal) punya kisi-kisi terpisah sendiri, menyusul setelah Tahap 4 Sentul selesai.*
