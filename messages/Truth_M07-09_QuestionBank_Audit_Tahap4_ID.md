@@ -9,7 +9,7 @@
 
 **Total kandidat:** 73. **Target akhir:** 50 soal (35% penyaringan / drop 23 kandidat).
 
-> ⚠️ Status seluruh kandidat sebelum Tahap 4: **[Kandidat — SBY only]**. Tidak ada instance Sentul untuk M07/M08/M09. Lihat bagian "Fairness/Status Framing" di bawah untuk status bank 50 soal setelah Tahap 4.
+> ⚠️ Status seluruh kandidat sebelum Tahap 4: **[Kandidat — SBY only]**. Instance Sentul untuk M07/M08/M09 sudah ada dan sudah diaudit terpisah, tapi track ujian SBY dan Sentul dijaga **permanen terpisah** (keputusan proyek — lihat §8). Lihat bagian "Fairness/Status Framing" di bawah untuk detail.
 
 ---
 
@@ -172,12 +172,12 @@ Kandidat berikut **tetap berada di file Tahap 3 masing-masing sebagai inventaris
 
 ## 8. Fairness/Status Framing
 
-**Bank 50 soal ini SIAP dipakai untuk ujian SBY-only.** Untuk ujian gabungan SBY+Sentul, **WAJIB direkonsiliasi ulang** setelah instance Sentul untuk message 7/8/9 tersedia (lihat guardrail fairness di masing-masing Tahap 2). Ini adalah keputusan proyek yang sudah dikonfirmasi: ujian SBY-only adalah target interim yang dapat diterima selama menunggu instance Sentul untuk ketiga message ini.
+**Bank 50 soal ini adalah bank final untuk track ujian SBY.** Instance Sentul untuk message 7/8/9 kini tersedia dan sudah diaudit (lihat `Truth_M07_SENTUL_Outline_Audit_Tahap2.md` dst. dan `Perbandingan_SBY_vs_SENTUL_Message7-9.md`), tetapi keputusan proyek yang sudah dikonfirmasi adalah **dua track ujian terpisah secara permanen** (SBY dan Sentul), bukan satu ujian gabungan — karena kesenjangan cakupan antara kedua instance terlalu besar untuk direkonsiliasi menjadi satu bank yang adil bagi kedua kampus (Sentul hanya mengajarkan ~43% dari sub-poin outline yang diajarkan SBY). Track Sentul akan mendapat Tahap 4-nya sendiri secara terpisah, dari kandidat Tahap 3 Sentul-nya sendiri (37 kandidat) — bukan hasil rekonsiliasi dengan bank SBY ini.
 
-Rekonsiliasi di masa depan (saat instance Sentul tersedia) perlu memeriksa ulang:
-- Apakah poin-poin yang tidak diajarkan di SBY (mis. M07 II.A.2/II.A.3 Rm 15:5 & 14:15; M08 IV.A prosedur/metode; M09 IV.B kekuatan unggul memberitakan Injil) diajarkan di instance Sentul — jika ya, soal baru perlu ditambahkan dan proporsi 50-soal ini perlu dihitung ulang dari basis gabungan SBY+Sentul, bukan SBY saja.
-- Apakah kutipan/kunci jawaban dari soal SBY-only ini tetap valid ketika dibandingkan dengan pengajaran versi Sentul untuk sub-poin yang sama (kemungkinan ada perbedaan penekanan trainer).
-- Guardrail anchor lintas-berita (2 Kor. 3 ink/mirror → M08; aside faksi Korintus/Menara Babel → dikecualikan keduanya) perlu diverifikasi ulang tetap berlaku pada instance Sentul.
+Konsekuensinya:
+- Bank 50 soal SBY ini **tidak perlu direkonsiliasi ulang** dengan materi Sentul — poin-poin yang tidak diajarkan di SBY (mis. M07 II.A.2/II.A.3 Rm 15:5 & 14:15; M08 IV.A prosedur/metode; M09 IV.B kekuatan unggul memberitakan Injil) tetap tidak diujikan di track SBY, terlepas dari apakah diajarkan di Sentul atau tidak — karena setiap track hanya diuji dari apa yang diajarkan di kelasnya sendiri.
+- Guardrail anchor lintas-berita (2 Kor. 3 ink/mirror → M08; aside faksi Korintus/Menara Babel → dikecualikan keduanya) berlaku independen untuk track SBY ini; guardrail Sentul diverifikasi terpisah di audit Tahap 2 Sentul.
+- Message 5-6 (Isaac Kwoon, instance SHARED) **tidak termasuk cakupan ujian** — konfirmasi eksplisit dari user: ujian hanya mencakup message 7-9 (materi Br. Ronal/Paulus Oenjoyo).
 
 ---
 
@@ -196,5 +196,5 @@ Rekonsiliasi di masa depan (saat instance Sentul tersedia) perlu memeriksa ulang
 - **Redundansi lintas-berita:** guardrail Tahap 2 (anchor 2 Kor. 3 → M08; pengecualian aside faksi Korintus/Menara Babel di M08 & M09) dikonfirmasi tetap dihormati.
 - **Keseimbangan tipe/kesulitan gabungan:** Easy 38% / Medium 52% / Hard 10%; Fakta 50% / Interpretasi 38% / Tema 10% / Aplikasi 2% — tidak ekstrem di satu arah.
 - **Verifikasi kunci:** 10 spot-check (melebihi minimum 8), semua cocok dengan kutipan Tahap 1.
-- **Status:** Kandidat final SBY-only, siap pakai untuk ujian SBY-only; wajib rekonsiliasi ulang untuk ujian gabungan SBY+Sentul.
+- **Status:** Bank final permanen untuk track ujian SBY (50 soal); tidak digabung dengan track Sentul — dua ujian terpisah per keputusan proyek.
 - **To-do produksi:** rebalancing posisi jawaban A/B/C/D belum dieksekusi — dicatat sebagai langkah produksi berikutnya.
