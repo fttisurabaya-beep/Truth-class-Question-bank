@@ -90,6 +90,9 @@ def set_table_borders(table):
 
 set_table_borders(table)
 
-doc.save("/tmp/Kunci_Jawaban_Truth_M07-09_SBY.docx")
+# Naming convention: [Tahun ke-] - ANSWER KEY [SUBJECT TEST (sequence)] - [Period Tahun] - [Cabang]
+# e.g. "1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx"
+# Remedial variant (when built later): "1ST YR - REMEDIAL TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx"
+doc.save("/tmp/1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx")
 print("saved key")
 print("Distribution check:", {l: list(answers.values()).count(l) for l in "ABCD"})

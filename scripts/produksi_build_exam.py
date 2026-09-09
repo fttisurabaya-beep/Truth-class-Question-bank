@@ -89,5 +89,7 @@ for i, q in enumerate(questions, start=1):
         add_run(po, f"{letter}. ")
         add_run(po, opt)
 
-doc.save("/tmp/Ujian_Truth_M07-09_SBY_Trainee_ID.docx")
+# Naming convention: [Tahun ke-] - [SUBJECT TEST (sequence)] - [Period Tahun] - [Cabang]
+# e.g. "1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx"
+doc.save("/tmp/1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx")
 print("saved exam")
