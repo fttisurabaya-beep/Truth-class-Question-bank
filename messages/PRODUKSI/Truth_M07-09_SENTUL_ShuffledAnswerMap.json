@@ -1,0 +1,992 @@
+[
+  {
+    "msg": "M07",
+    "no": 1,
+    "point": "12 (I.A)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut Roma 12:3, karunia iman dikaruniakan Allah kepada setiap anggota jemaat sesuai dengan apa?",
+    "correct": "Ukuran iman yang dikaruniakan",
+    "distractors": [
+      "Jabatan pelayanan yang dipegang",
+      "Lamanya waktu mengikuti Kristus",
+      "Seberapa dalam pengetahuan Alkitab"
+    ],
+    "bukti": "Poin 12: \"di dalam ayat 3 Allah mengaruniakan kepada kamu masing-masing menurut ukuran iman.\"",
+    "final_options": [
+      "Jabatan pelayanan yang dipegang",
+      "Lamanya waktu mengikuti Kristus",
+      "Seberapa dalam pengetahuan Alkitab",
+      "Ukuran iman yang dikaruniakan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M07",
+    "no": 2,
+    "point": "12 (I.A)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Dalam pengajaran tentang anggota tubuh Kristus di Roma 12, sikap apa yang harus dihindari oleh setiap anggota?",
+    "correct": "Terlalu sombong maupun terlalu minder",
+    "distractors": [
+      "Terlalu aktif maupun terlalu pasif",
+      "Terlalu vokal maupun terlalu pendiam",
+      "Terlalu cepat maupun terlalu lambat"
+    ],
+    "bukti": "Poin 12: \"tidak boleh terlalu sombong over Confident tidak boleh juga terlalu minder.\"",
+    "final_options": [
+      "Terlalu aktif maupun terlalu pasif",
+      "Terlalu vokal maupun terlalu pendiam",
+      "Terlalu sombong maupun terlalu minder",
+      "Terlalu cepat maupun terlalu lambat"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 3,
+    "point": "13 (I.A)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Karunia mengajar, menurut penjelasan atas Roma 12:4-8, seharusnya disampaikan berdasarkan apa?",
+    "correct": "Apa yang benar-benar dibutuhkan pendengar",
+    "distractors": [
+      "Apa yang paling disenangi pengajar",
+      "Apa yang paling mudah dihafal",
+      "Apa yang sedang populer dibahas"
+    ],
+    "bukti": "Poin 13: \"harusnya kalau mengajar itu bukan apa yang saya senang ngomong saya ngomong tapi apa anda butuh kamu butuh apa kita kasih tahu.\"",
+    "final_options": [
+      "Apa yang sedang populer dibahas",
+      "Apa yang paling disenangi pengajar",
+      "Apa yang benar-benar dibutuhkan pendengar",
+      "Apa yang paling mudah dihafal"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 4,
+    "point": "13 (I.A)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Dalam penjelasan tentang karunia membagikan (sharing) di Roma 12:4-8, apa yang perlu diperhatikan oleh orang yang membagikan?",
+    "correct": "Batasan dari isi yang dibagikan",
+    "distractors": [
+      "Waktu yang tepat untuk berbicara",
+      "Jumlah orang yang akan mendengarkan",
+      "Tempat yang nyaman untuk berbicara"
+    ],
+    "bukti": "Poin 13: \"ada orang yang kalau sharing sakit hati... yang dibagi harus tahu juga batasannya.\"",
+    "final_options": [
+      "Jumlah orang yang akan mendengarkan",
+      "Batasan dari isi yang dibagikan",
+      "Tempat yang nyaman untuk berbicara",
+      "Waktu yang tepat untuk berbicara"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 5,
+    "point": "15 (II.A.1)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut Roma 14 dan 15:7, standar gereja lokal/tubuh Kristus dalam menerima orang beriman adalah apa?",
+    "correct": "Damai sejahtera dan sukacita dalam Roh Kudus",
+    "distractors": [
+      "Kebenaran doktrin yang tepat dan mendalam",
+      "Kesamaan latar belakang budaya dan sosial",
+      "Kecocokan pandangan pribadi antara sesama anggota"
+    ],
+    "bukti": "Poin 15: \"standar Kristen atau gereja lokal tubuh Kristus bukan benar salah, tapi damai sejahtera dan sukacita dalam roh kudus.\"",
+    "final_options": [
+      "Damai sejahtera dan sukacita dalam Roh Kudus",
+      "Kebenaran doktrin yang tepat dan mendalam",
+      "Kecocokan pandangan pribadi antara sesama anggota",
+      "Kesamaan latar belakang budaya dan sosial"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 7,
+    "point": "15 (II.A.1)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Selain menerima orang beriman tanpa menghakimi, menurut Roma 14, apa lagi yang perlu diperhitungkan?",
+    "correct": "Hati nurani orang lain",
+    "distractors": [
+      "Jadwal ibadah setiap minggu",
+      "Riwayat pelayanan orang tersebut",
+      "Reputasi di antara jemaat"
+    ],
+    "bukti": "Poin 15: \"yang kedua adalah pertimbangkan hati nurani orang.\"",
+    "final_options": [
+      "Hati nurani orang lain",
+      "Jadwal ibadah setiap minggu",
+      "Reputasi di antara jemaat",
+      "Riwayat pelayanan orang tersebut"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 8,
+    "point": "16 (II.B.3)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Kitab Roma ditutup dengan bagian doksologi yang memberikan kemuliaan kepada siapa?",
+    "correct": "Satu-satunya Allah yang penuh hikmat",
+    "distractors": [
+      "Semua rasul yang telah melayani",
+      "Seluruh jemaat lokal di Roma",
+      "Musa dan para nabi terdahulu"
+    ],
+    "bukti": "Poin 16: \"bagi dia satu-satunya Allah yang penuh Hikmat oleh Yesus Kristus segala kemuliaan sampai selama-lamanya.\"",
+    "final_options": [
+      "Musa dan para nabi terdahulu",
+      "Semua rasul yang telah melayani",
+      "Satu-satunya Allah yang penuh hikmat",
+      "Seluruh jemaat lokal di Roma"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 9,
+    "point": "2 (latar Rm. 1-3)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut ringkasan Roma pasal 1-3 dalam pengajaran ini, dosa mengakibatkan manusia kehilangan apa?",
+    "correct": "Kemuliaan Allah",
+    "distractors": [
+      "Berkat materi duniawi",
+      "Hak sebagai warga negara",
+      "Kesempatan kedua untuk bertobat"
+    ],
+    "bukti": "Poin 2: \"manusia itu sudah kehilangan kemuliaan Allah upah dosa itu adalah maut.\"",
+    "final_options": [
+      "Hak sebagai warga negara",
+      "Kesempatan kedua untuk bertobat",
+      "Kemuliaan Allah",
+      "Berkat materi duniawi"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 10,
+    "point": "3 (latar Rm. 4)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Tokoh mana yang dijadikan contoh pembenaran Allah dalam Roma pasal 4?",
+    "correct": "Abraham",
+    "distractors": [
+      "Musa",
+      "Daud",
+      "Yakub"
+    ],
+    "bukti": "Poin 3: \"Abraham itu menjadi contoh dari apa saudara sekalian? satu pembenaran Allah.\"",
+    "final_options": [
+      "Yakub",
+      "Musa",
+      "Abraham",
+      "Daud"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 11,
+    "point": "7 (latar Rm. 8)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut Roma 8:28-30 dalam pengajaran ini, setelah menjadi anak Allah, orang beriman berkembang berturut-turut menjadi apa?",
+    "correct": "Putra, lalu pewaris",
+    "distractors": [
+      "Hamba, lalu tuan",
+      "Murid, lalu guru",
+      "Tamu, lalu tuan rumah"
+    ],
+    "bukti": "Poin 7: \"dari anak menjadi Putra menjadi pewaris.\"",
+    "final_options": [
+      "Murid, lalu guru",
+      "Hamba, lalu tuan",
+      "Putra, lalu pewaris",
+      "Tamu, lalu tuan rumah"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 12,
+    "point": "8 (latar Rm. 9-11)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Kesimpulan dari digresi Roma pasal 9-11 tentang pemilihan Allah (mis. Yakub dan Esau) adalah...",
+    "correct": "Hikmat dan kekayaan Allah tidak terselami, sehingga orang percaya jangan bersikap sombong rohani",
+    "distractors": [
+      "Setiap orang berhak menuntut penjelasan penuh atas pilihan Allah",
+      "Pemilihan Allah dapat sepenuhnya dijelaskan secara logis dan adil",
+      "Semakin banyak belajar Alkitab, semakin berhak seseorang merasa unggul"
+    ],
+    "bukti": "Poin 8: \"Allah itu maha Hikmat ya kan kekayaan tidak terselami... kalau kita sungguh belajar semakin banyak belajar semakin kita akan merunduk.\"",
+    "final_options": [
+      "Setiap orang berhak menuntut penjelasan penuh atas pilihan Allah",
+      "Pemilihan Allah dapat sepenuhnya dijelaskan secara logis dan adil",
+      "Semakin banyak belajar Alkitab, semakin berhak seseorang merasa unggul",
+      "Hikmat dan kekayaan Allah tidak terselami, sehingga orang percaya jangan bersikap sombong rohani"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M07",
+    "no": 13,
+    "point": "10 (latar Rm. 16 + ringkasan Alkitab)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut ringkasan keseluruhan Alkitab yang diberikan dalam sesi ini, Firman (Yohanes 1:14) menjadi daging, lalu daging itu menjadi apa?",
+    "correct": "Roh yang dilipatgandakan tujuh kali (sevenfold intensified)",
+    "distractors": [
+      "Malaikat yang melayani di hadapan Allah",
+      "Hukum yang tertulis di loh batu",
+      "Kitab yang dibacakan turun-temurun"
+    ],
+    "bukti": "Poin 10: \"Firman itu Ayat 14 nya menjadi daging menjadi manusia... daging menjadi roh itu... 7 rokanda di intensifkan... untuk merampungkan satu Yerusalem Baru.\"",
+    "final_options": [
+      "Kitab yang dibacakan turun-temurun",
+      "Roh yang dilipatgandakan tujuh kali (sevenfold intensified)",
+      "Malaikat yang melayani di hadapan Allah",
+      "Hukum yang tertulis di loh batu"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 1,
+    "point": "6 (I)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Meskipun jemaat Korintus memiliki banyak masalah, Paulus tetap menyebut mereka sebagai apa dalam 1 Korintus 1:2?",
+    "correct": "Jemaat Allah yang dikuduskan dalam Kristus Yesus",
+    "distractors": [
+      "Sekelompok orang berdosa yang harus dihukum",
+      "Perkumpulan yang telah kehilangan status kerohaniannya",
+      "Perkumpulan yang menunggu pengesahan dari pemimpin lain"
+    ],
+    "bukti": "Poin 6: \"kepada jemaat Allah ini menarik sekali kalau ada satu jemaat yang banyak masalah begini kita rasanya berat ngomong jemaat Allah ini... Paulus clear ini Jemaat jemaat Allah dia enggak ubah di Korintus.\"",
+    "final_options": [
+      "Sekelompok orang berdosa yang harus dihukum",
+      "Jemaat Allah yang dikuduskan dalam Kristus Yesus",
+      "Perkumpulan yang telah kehilangan status kerohaniannya",
+      "Perkumpulan yang menunggu pengesahan dari pemimpin lain"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 2,
+    "point": "6 (I)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 1 Korintus 1:9, ke dalam apa semua orang percaya telah dipanggil oleh Allah?",
+    "correct": "Ke dalam persekutuan dengan Anak-Nya",
+    "distractors": [
+      "Ke dalam pelayanan penginjilan yang luas",
+      "Ke dalam jabatan kepemimpinan gereja lokal",
+      "Ke dalam pengajaran hukum Taurat yang benar"
+    ],
+    "bukti": "Poin 6: \"kita semua sudah dipanggil Kok bisa semuanya berbagian dipanggil ke dalam persekutuan?\"",
+    "final_options": [
+      "Ke dalam pengajaran hukum Taurat yang benar",
+      "Ke dalam persekutuan dengan Anak-Nya",
+      "Ke dalam pelayanan penginjilan yang luas",
+      "Ke dalam jabatan kepemimpinan gereja lokal"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 3,
+    "point": "10 (I, ekstensi)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut 1 Korintus 1:7-8 yang ditambahkan trainer ke Romawi I, selama menantikan penyataan Tuhan Yesus Kristus, orang percaya digambarkan sebagai...",
+    "correct": "Tidak kekurangan dalam suatu karunia pun",
+    "distractors": [
+      "Menantikan dengan penuh ketakutan akan penghakiman",
+      "Menunggu tanpa jaminan penyaluran ilahi apa pun",
+      "Bergantung penuh pada usaha mereka sendiri"
+    ],
+    "bukti": "Poin 10: \"demikianlah pasal 1 ayat 7 demikianlah kamu tidak kekurangan dalam dalam suatu karunia pun sementara kamu menantikan pernyataan Tuhan kita Yesus Kristus.\"",
+    "final_options": [
+      "Menantikan dengan penuh ketakutan akan penghakiman",
+      "Menunggu tanpa jaminan penyaluran ilahi apa pun",
+      "Bergantung penuh pada usaha mereka sendiri",
+      "Tidak kekurangan dalam suatu karunia pun"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 4,
+    "point": "11 (II)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 1 Korintus 1:24a, Kristus disebut sebagai kekuatan Allah dan apa bagi mereka yang dipanggil?",
+    "correct": "Hikmat Allah",
+    "distractors": [
+      "Kasih Karunia",
+      "Kemuliaan Allah",
+      "Kebenaran Allah"
+    ],
+    "bukti": "Poin 11: \"Kristus adalah kekuatan Allah dan hikmat Allah\" (1 Kor. 1:24a).",
+    "final_options": [
+      "Hikmat Allah",
+      "Kebenaran Allah",
+      "Kasih Karunia",
+      "Kemuliaan Allah"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 5,
+    "point": "11 (II, pratinjau ayat 30)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Dalam pratinjau 1 Korintus 1:30 yang dibacakan pada Romawi II, urutan waktu dari kebenaran, pengudusan, dan penebusan yang diajarkan adalah...",
+    "correct": "Kebenaran = masa lalu, pengudusan = masa kini, penebusan = masa depan",
+    "distractors": [
+      "Kebenaran = masa depan, pengudusan = masa lalu, penebusan = masa kini",
+      "Kebenaran = masa kini, pengudusan = masa depan, penebusan = masa lalu",
+      "Ketiganya terjadi bersamaan tanpa urutan waktu tertentu"
+    ],
+    "bukti": "Poin 11: \"membenarkan menguduskan dan menebus kita ini juga bagus sekali... ini adalah ini present ini adalah future\" — dijelaskan sebagai kebenaran (masa lalu), pengudusan (masa kini, \"saat ini kita sedang dikuduskan\"), penebusan (masa depan/pemuliaan).",
+    "final_options": [
+      "Kebenaran = masa lalu, pengudusan = masa kini, penebusan = masa depan",
+      "Kebenaran = masa depan, pengudusan = masa lalu, penebusan = masa kini",
+      "Kebenaran = masa kini, pengudusan = masa depan, penebusan = masa lalu",
+      "Ketiganya terjadi bersamaan tanpa urutan waktu tertentu"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 6,
+    "point": "14 (VI)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Ilustrasi instalasi listrik gedung pada Romawi VI mengajarkan bahwa hikmat, kebenaran, pengudusan, dan penebusan dari ayat 30 tetap berupa apa selama saklarnya belum dihidupkan?",
+    "correct": "Berkat yang sudah terpasang namun belum menjadi pengalaman",
+    "distractors": [
+      "Janji yang batal dan tidak akan terwujud",
+      "Berkat yang hanya berlaku bagi sebagian orang percaya",
+      "Pengalaman yang otomatis muncul tanpa tindakan apa pun"
+    ],
+    "bukti": "Poin 14: \"Tetapi semua itu bisa berjalan Kalau ada ayat ini kalau tidak ada ayat ini ini belum jadi pengalaman kita... sama seperti gedung ini ketika dibangun di instalasikan listriknya... Tetapi semua itu tidak manifest kalau Belum dihidupin saklarnya.\"",
+    "final_options": [
+      "Berkat yang hanya berlaku bagi sebagian orang percaya",
+      "Janji yang batal dan tidak akan terwujud",
+      "Pengalaman yang otomatis muncul tanpa tindakan apa pun",
+      "Berkat yang sudah terpasang namun belum menjadi pengalaman"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 7,
+    "point": "14 (VI)",
+    "kes": "Medium",
+    "tipe": "Aplikasi",
+    "stem": "Menurut ilustrasi saklar pada Romawi VI, tindakan praktis apa yang menjadi \"saklar\" untuk mengalami berkat-berkat ayat 30?",
+    "correct": "Mengikatkan diri kepada Tuhan setiap pagi",
+    "distractors": [
+      "Menghafalkan seluruh ayat 30 setiap malam",
+      "Menghadiri seluruh kegiatan pelatihan tanpa absen",
+      "Mendiskusikan doktrin penebusan dengan sesama saudara"
+    ],
+    "bukti": "Poin 14: \"jadi saklarnya apa diikatkan dirimu kepada Tuhan pagi hari.\"",
+    "final_options": [
+      "Menghadiri seluruh kegiatan pelatihan tanpa absen",
+      "Menghafalkan seluruh ayat 30 setiap malam",
+      "Mendiskusikan doktrin penebusan dengan sesama saudara",
+      "Mengikatkan diri kepada Tuhan setiap pagi"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 8,
+    "point": "15 (VIII)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 1 Korintus 10:3-4, batu karang rohani yang diikuti dan diminum oleh bangsa Israel di padang gurun adalah...",
+    "correct": "Kristus sendiri yang menyertai perjalanan mereka",
+    "distractors": [
+      "Musa yang memimpin perjalanan mereka itu",
+      "Malaikat yang menjaga perjalanan mereka itu",
+      "Hukum Taurat yang mereka terima itu"
+    ],
+    "bukti": "Poin 15: \"mereka minum dari batu karang, tetapi Alkitab jelas mengatakan batu karang itu adalah Kristus karena penyelamat bilang batu karang yang mengikuti mereka.\"",
+    "final_options": [
+      "Kristus sendiri yang menyertai perjalanan mereka",
+      "Hukum Taurat yang mereka terima itu",
+      "Malaikat yang menjaga perjalanan mereka itu",
+      "Musa yang memimpin perjalanan mereka itu"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 9,
+    "point": "15 (VIII)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Materi Yohanes 6 yang ditambahkan pada Romawi VIII melengkapi batu karang rohani dengan gambaran Kristus sebagai...",
+    "correct": "Roti hayat yang turun dari surga",
+    "distractors": [
+      "Anak Domba Paskah yang disembelih",
+      "Cahaya dunia yang menerangi kegelapan",
+      "Gembala yang baik bagi domba-domba-Nya"
+    ],
+    "bukti": "Poin 15: \"ada juga tambahan ya Yohanes pasal 6 roti yang turun dari surga roti Hayat lah.\"",
+    "final_options": [
+      "Gembala yang baik bagi domba-domba-Nya",
+      "Anak Domba Paskah yang disembelih",
+      "Cahaya dunia yang menerangi kegelapan",
+      "Roti hayat yang turun dari surga"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 10,
+    "point": "IX (carryover)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut 2 Korintus 1:21-22, selain mengurapi dan memeteraikan kita, apa yang Allah berikan di dalam hati kita sebagai jaminan?",
+    "correct": "Roh Kudus yang menjadi jaminan-Nya",
+    "distractors": [
+      "Kitab hukum Taurat yang tertulis",
+      "Kekuatan jasmani yang diperbarui",
+      "Janji tertulis di atas batu"
+    ],
+    "bukti": "`Truth_M09_SENTUL_SessionOutline.md`, poin 1 (carryover Romawi IX pesan 8): \"memeteraikan tanda milik-Nya atas kita dan yang memberikan Roh Kudus di dalam hati kita sebagai jaminan dari semua yang telah disediakan untuk kita.\"",
+    "final_options": [
+      "Kekuatan jasmani yang diperbarui",
+      "Kitab hukum Taurat yang tertulis",
+      "Roh Kudus yang menjadi jaminan-Nya",
+      "Janji tertulis di atas batu"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M08",
+    "no": 11,
+    "point": "IX (carryover)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Ilustrasi stempel/meterai buku perpustakaan pada Romawi IX (carryover) mengajarkan bahwa orang percaya yang telah dimeteraikan Kristus adalah...",
+    "correct": "Milik Kristus, bukan lagi orang bebas",
+    "distractors": [
+      "Prajurit yang harus membuktikan kesetiaannya sendiri",
+      "Pewaris yang baru akan menerima warisan kelak",
+      "Peminjam yang harus mengembalikan pinjamannya kelak"
+    ],
+    "bukti": "`Truth_M09_SENTUL_SessionOutline.md`, poin 1: \"Anda bukan tanpa tuan, ya kan? Anda bukan orang merdeka loh. Sebab kasih Kristus sudah menguasai Anda.\"",
+    "final_options": [
+      "Milik Kristus, bukan lagi orang bebas",
+      "Peminjam yang harus mengembalikan pinjamannya kelak",
+      "Pewaris yang baru akan menerima warisan kelak",
+      "Prajurit yang harus membuktikan kesetiaannya sendiri"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 12,
+    "point": "X (carryover)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut 2 Korintus 3:3 (materi carryover Romawi X), orang percaya disebut sebagai surat Kristus yang ditulis bukan dengan tinta melainkan oleh...",
+    "correct": "Pelayanan Roh yang menuliskannya",
+    "distractors": [
+      "Tangan Musa yang menuliskannya",
+      "Tinta emas para rasul dahulu",
+      "Ukiran di atas loh batu itu"
+    ],
+    "bukti": "`Truth_M09_SENTUL_SessionOutline.md`, poin 2: \"telah nyata kamu adalah surat Kristus... Ditulis oleh pelayanan Rasul... setiap hari oleh firman sebagai realitasnya adalah roh dan hayat sedang mengukir ke dalam Anda\" (istilah outline resmi untuk poin ini: \"pelayanan Roh,\" 2 Kor. 3:3).",
+    "final_options": [
+      "Tinta emas para rasul dahulu",
+      "Tangan Musa yang menuliskannya",
+      "Ukiran di atas loh batu itu",
+      "Pelayanan Roh yang menuliskannya"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 14,
+    "point": "X (carryover)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 2 Korintus 3:18 (materi carryover Romawi X), dengan muka yang tidak berselubung, orang percaya diubah menjadi serupa dengan gambar Tuhan dari...",
+    "correct": "Kemuliaan kepada kemuliaan yang lebih besar",
+    "distractors": [
+      "Kelemahan kepada kekuatan yang sempurna",
+      "Kegelapan kepada terang yang sementara",
+      "Kematian kepada kehidupan yang singkat"
+    ],
+    "bukti": "`Truth_M09_SENTUL_SessionOutline.md`, poin 4: \"kita diubah menjadi serupa dengan gambarnya dalam kemuliaan yang semakin besar... Kita akan terus dari satu kemuliaan kepada kemuliaan lebih besar.\"",
+    "final_options": [
+      "Kematian kepada kehidupan yang singkat",
+      "Kelemahan kepada kekuatan yang sempurna",
+      "Kemuliaan kepada kemuliaan yang lebih besar",
+      "Kegelapan kepada terang yang sementara"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M08",
+    "no": 15,
+    "point": "X (carryover)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Materi carryover Romawi X menjelaskan bahwa gambar mulia manusia yang semula diberikan Allah, lalu rusak oleh dosa, dipulihkan secara progresif melalui...",
+    "correct": "Percaya, dibaptis, dan menerima penyaluran ilahi",
+    "distractors": [
+      "Usaha moral yang dilakukan secara mandiri",
+      "Hukuman yang harus dijalani setiap hari",
+      "Pengetahuan teologis yang dipelajari secara formal"
+    ],
+    "bukti": "`Truth_M09_SENTUL_SessionOutline.md`, poin 4: \"Tetapi karena dosa rusak gambarnya... melalui percaya dibaptis, melalui menerima penyaluran Ilahi. Kita akan terus dari satu kemuliaan kepada kemuliaan lebih besar.\"",
+    "final_options": [
+      "Hukuman yang harus dijalani setiap hari",
+      "Percaya, dibaptis, dan menerima penyaluran ilahi",
+      "Pengetahuan teologis yang dipelajari secara formal",
+      "Usaha moral yang dilakukan secara mandiri"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 16,
+    "point": "2 (latar 11 masalah)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Berapa jumlah masalah yang dibahas dalam Kitab 1 Korintus?",
+    "correct": "Sebelas masalah",
+    "distractors": [
+      "Sembilan masalah",
+      "Tujuh masalah",
+      "Tiga belas masalah"
+    ],
+    "bukti": "Poin 2: \"kalau kita membaca Isinya banyak masalah ada berapa masalah di sana? 11 masalah kita gambar ya.\"",
+    "final_options": [
+      "Tiga belas masalah",
+      "Sembilan masalah",
+      "Sebelas masalah",
+      "Tujuh masalah"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M08",
+    "no": 17,
+    "point": "2 (latar 11 masalah)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Masalah pertama yang dibahas dalam 1 Korintus, yaitu perpecahan jemaat, terletak di pasal berapa?",
+    "correct": "Pasal 1 sampai 4",
+    "distractors": [
+      "Pasal 5 sampai 6",
+      "Pasal 8 sampai 11",
+      "Pasal 12 sampai 14"
+    ],
+    "bukti": "Poin 2: \"Perpecahan di mana bagiannya pasal 1 sampai 4 nih.\"",
+    "final_options": [
+      "Pasal 5 sampai 6",
+      "Pasal 1 sampai 4",
+      "Pasal 12 sampai 14",
+      "Pasal 8 sampai 11"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 18,
+    "point": "2 (latar 11 masalah)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Masalah kedua dalam 1 Korintus — menanggulangi seorang saudara yang jahat — tercatat di pasal berapa?",
+    "correct": "Pasal 5",
+    "distractors": [
+      "Pasal 4",
+      "Pasal 6",
+      "Pasal 8"
+    ],
+    "bukti": "Poin 2: \"ada namanya perpecahan yang berikutnya adalah menanggulangi saudara yang jahat. itu di pasal 5.\"",
+    "final_options": [
+      "Pasal 8",
+      "Pasal 5",
+      "Pasal 6",
+      "Pasal 4"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 19,
+    "point": "3 (latar, pivot)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Apa yang menjadi jawaban atas segala masalah dalam gereja di Korintus?",
+    "correct": "Kristus dan salib-Nya",
+    "distractors": [
+      "Aturan gereja yang lebih ketat",
+      "Pergantian kepemimpinan jemaat",
+      "Konseling profesional bagi jemaat"
+    ],
+    "bukti": "Poin 3: \"kitab satu Korintus ini Kristus dan salibnya adalah jawaban segala... masalah dalam gereja.\"",
+    "final_options": [
+      "Kristus dan salib-Nya",
+      "Aturan gereja yang lebih ketat",
+      "Konseling profesional bagi jemaat",
+      "Pergantian kepemimpinan jemaat"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 20,
+    "point": "4 (latar, 1 Kor. 2:2)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 1 Korintus 2:2 yang dibacakan dalam pengajaran ini, apa yang diputuskan Rasul Paulus untuk diketahui semata di tengah jemaat Korintus?",
+    "correct": "Yesus Kristus dan Dia yang disalibkan",
+    "distractors": [
+      "Hukum Taurat dan penerapannya",
+      "Sejarah lengkap jemaat Korintus",
+      "Karunia-karunia Roh Kudus semata"
+    ],
+    "bukti": "Poin 4: \"sebab aku telah memutuskan ini ya mutusin apa... Kristus dan salibnya adalah jawaban dari semua masalah yang ada di dalam gereja di Korintus.\"",
+    "final_options": [
+      "Karunia-karunia Roh Kudus semata",
+      "Hukum Taurat dan penerapannya",
+      "Sejarah lengkap jemaat Korintus",
+      "Yesus Kristus dan Dia yang disalibkan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 1,
+    "point": "6 (I)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut Romawi I, karena Kristus sebagai dasar pembangunan gereja tidak pernah dipersoalkan oleh siapa pun dalam kekristenan, maka yang sesungguhnya menjadi pokok pertentangan antar orang Kristen adalah...",
+    "correct": "Tumpuan atau landasan tempat dasar itu diletakkan",
+    "distractors": [
+      "Jumlah anggota yang tergabung dalam gereja",
+      "Metode pengumpulan dana bagi pelayanan gereja",
+      "Gelar akademis yang dimiliki para pemimpin gereja"
+    ],
+    "bukti": "Poin 6: \"jelas dasar daripada pembangun gereja adalah Kristus... di dalam kekristenan sudah enggak ada pertentangan sebenarnya... Yang menjadi persoalan adalah tumpuan daripada dasar itu diletakkan.\"",
+    "final_options": [
+      "Gelar akademis yang dimiliki para pemimpin gereja",
+      "Jumlah anggota yang tergabung dalam gereja",
+      "Tumpuan atau landasan tempat dasar itu diletakkan",
+      "Metode pengumpulan dana bagi pelayanan gereja"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M09",
+    "no": 2,
+    "point": "6 (I)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut Romawi I, Alkitab menunjukkan bahwa tumpuan dasar pembangunan gereja yang benar pertama-tama adalah...",
+    "correct": "Kota (lokalitas) bersama keesaan di dalam Roh",
+    "distractors": [
+      "Denominasi tertentu bersama struktur organisasi yang seragam",
+      "Bangsa tertentu bersama bahasa ibadah yang seragam",
+      "Generasi tertentu bersama gaya musik ibadah yang seragam"
+    ],
+    "bukti": "Poin 6: \"Alkitab kepada kita memberitahu tumpuan itu pertama-tama adalah kota\" — ditambah penekanan keesaan di dalam Roh sebagai landasan bersama dasar itu.",
+    "final_options": [
+      "Kota (lokalitas) bersama keesaan di dalam Roh",
+      "Generasi tertentu bersama gaya musik ibadah yang seragam",
+      "Denominasi tertentu bersama struktur organisasi yang seragam",
+      "Bangsa tertentu bersama bahasa ibadah yang seragam"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 3,
+    "point": "6 (I)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Menurut kerangka \"specialty, generality, practicality\" pada Romawi I, hal-hal seperti cara memanggil nama Tuhan dengan suara keras, cara baptisan, atau frekuensi pemecahan roti tergolong sebagai...",
+    "correct": "Hal generality/practicality yang boleh berbeda tanpa menyebabkan perpecahan",
+    "distractors": [
+      "Kebenaran non-negotiable yang wajib disepakati bersama tanpa kecuali",
+      "Ajaran sesat yang harus segera diluruskan oleh pemimpin gereja",
+      "Syarat mutlak keanggotaan resmi dalam gereja setempat"
+    ],
+    "bukti": "Poin 6: \"secara praktikalnya ada buku namanya specialty generality dan practicality\" — enam kebenaran pokok (Allah Tritunggal, Kristus sebagai Juruselamat, keesaan gereja, dsb.) wajib disepakati bersama, sedangkan generality/practicality (cara memanggil nama Tuhan, mode baptisan, frekuensi pemecahan roti) boleh berbeda tanpa menyebabkan perpecahan.",
+    "final_options": [
+      "Hal generality/practicality yang boleh berbeda tanpa menyebabkan perpecahan",
+      "Kebenaran non-negotiable yang wajib disepakati bersama tanpa kecuali",
+      "Syarat mutlak keanggotaan resmi dalam gereja setempat",
+      "Ajaran sesat yang harus segera diluruskan oleh pemimpin gereja"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 4,
+    "point": "7 (I, lanjutan)",
+    "kes": "Medium",
+    "tipe": "Aplikasi",
+    "stem": "Menurut Romawi I, orang percaya yang terisolasi tanpa akses ke gereja lokal, meski tidak dapat mendeklarasikan gereja resmi, tetap diperbolehkan melakukan apa sebagai kesaksian pribadi kasihnya kepada Tuhan?",
+    "correct": "Memecahkan roti sendirian",
+    "distractors": [
+      "Membaptiskan dirinya sendiri",
+      "Menahbiskan dirinya sebagai penatua",
+      "Mendirikan gereja tandingan sendiri"
+    ],
+    "bukti": "Poin 7: \"Saya misalnya pergi ke satu kota... enggak bisa pecah roti. Udah saya buat sendiri roti, saya beli anggur sendiri ya kan. Boleh enggak?\"",
+    "final_options": [
+      "Menahbiskan dirinya sebagai penatua",
+      "Memecahkan roti sendirian",
+      "Membaptiskan dirinya sendiri",
+      "Mendirikan gereja tandingan sendiri"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 5,
+    "point": "7 (I, lanjutan)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut keputusan persekutuan nasional yang disebutkan pada Romawi I, jumlah minimum yang kredibel untuk sebuah deklarasi resmi gereja lokal adalah...",
+    "correct": "Lima orang dewasa dari tiga keluarga",
+    "distractors": [
+      "Sepuluh orang dewasa dari lima keluarga",
+      "Dua puluh orang dewasa dari sepuluh keluarga",
+      "Tiga orang dewasa dari satu keluarga"
+    ],
+    "bukti": "Poin 7: \"kita putuskan secara bersekutu nasional. Lima orang dewasa, tiga keluarga yang cukup jelas apa itu ekonomi Allah apa itu gereja.\"",
+    "final_options": [
+      "Dua puluh orang dewasa dari sepuluh keluarga",
+      "Sepuluh orang dewasa dari lima keluarga",
+      "Tiga orang dewasa dari satu keluarga",
+      "Lima orang dewasa dari tiga keluarga"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 6,
+    "point": "7 (I, lanjutan)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Menurut Romawi I, meskipun sebuah gereja lokal bisa \"tutup\" secara lahiriah, secara rohani gereja itu digambarkan sebagai pohon yang...",
+    "correct": "Akarnya tetap berada di surga",
+    "distractors": [
+      "Batangnya tumbuh kembali di kota lain",
+      "Buahnya akan dipanen di masa depan",
+      "Daunnya tidak pernah layu sepanjang tahun"
+    ],
+    "bukti": "Poin 7: \"Loh kalau tutup bagaimana Saudara? Di Alkitab pun ada gereja yang tutup... Secara rohani, gereja itu adalah pohon toh... Akarnya di surga.\"",
+    "final_options": [
+      "Buahnya akan dipanen di masa depan",
+      "Akarnya tetap berada di surga",
+      "Daunnya tidak pernah layu sepanjang tahun",
+      "Batangnya tumbuh kembali di kota lain"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 7,
+    "point": "9 (III)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut elaborasi Romawi III mengenai memandang kemuliaan Kristus (2 Korintus 3:18), tiga elemen yang dibutuhkan untuk bisa memandang adalah posisi hati yang mendambakan, terang kasih karunia, dan...",
+    "correct": "Hati yang tidak berselubung",
+    "distractors": [
+      "Iman yang tidak tergoyahkan",
+      "Doa yang tidak terputus",
+      "Pujian yang tidak henti"
+    ],
+    "bukti": "Poin 9: \"waktu kita memandang kepada Kristus, pertama-tama perlu ada hati, Anda mendambakan. Kedua, Anda harus minta kasih karunia Tuhan, sorotkan terang... Yang ketiga adalah memang hatimu itu tadi harus berbalik.\"",
+    "final_options": [
+      "Iman yang tidak tergoyahkan",
+      "Doa yang tidak terputus",
+      "Hati yang tidak berselubung",
+      "Pujian yang tidak henti"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M09",
+    "no": 8,
+    "point": "9 (III)",
+    "kes": "Hard",
+    "tipe": "Interpretasi",
+    "stem": "Menurut Romawi III, selubung (veil) yang menghalangi seseorang memandang kemuliaan Kristus disebabkan oleh apa, dan hilang kapan?",
+    "correct": "Disebabkan hati yang berpaling dari Tuhan; hilang seketika hati berbalik kepada-Nya",
+    "distractors": [
+      "Disebabkan dosa yang belum diampuni; hilang setelah pengakuan dosa di depan jemaat",
+      "Disebabkan kurangnya pengetahuan Alkitab yang benar; hilang setelah menghafal banyak ayat",
+      "Disebabkan kelemahan tubuh jasmani semata; hilang setelah menerima kesembuhan ilahi"
+    ],
+    "bukti": "Poin 9: \"kalau hatinya itu berbalik dari Kristus, ada selubung langsung. Tetapi begitu hatinya berpaling lagi kepada Kristus, selubungnya hilang.\"",
+    "final_options": [
+      "Disebabkan hati yang berpaling dari Tuhan; hilang seketika hati berbalik kepada-Nya",
+      "Disebabkan kurangnya pengetahuan Alkitab yang benar; hilang setelah menghafal banyak ayat",
+      "Disebabkan dosa yang belum diampuni; hilang setelah pengakuan dosa di depan jemaat",
+      "Disebabkan kelemahan tubuh jasmani semata; hilang setelah menerima kesembuhan ilahi"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 9,
+    "point": "10 (IV)",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut 2 Korintus 4:7 pada Romawi IV, harta itu ada di dalam bejana tanah liat supaya nyata bahwa kekuatan yang berlimpah-limpah itu berasal dari...",
+    "correct": "Allah, bukan dari diri kami sendiri",
+    "distractors": [
+      "Usaha manusia yang tekun berlatih",
+      "Warisan leluhur yang diturunkan turun-temurun",
+      "Pendidikan formal yang ditempuh bertahun-tahun"
+    ],
+    "bukti": "Poin 10: \"harta ini kami punyai dalam Bejana Tanah Liat supaya nyata bahwa kekuatan yang berlimpah-limpah itu berasal dari Allah bukan dari diri kami.\"",
+    "final_options": [
+      "Usaha manusia yang tekun berlatih",
+      "Allah, bukan dari diri kami sendiri",
+      "Pendidikan formal yang ditempuh bertahun-tahun",
+      "Warisan leluhur yang diturunkan turun-temurun"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 10,
+    "point": "10 (IV)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Ilustrasi \"power bank\" pada Romawi IV menggambarkan bahwa kekuatan yang berlimpah dalam diri orang percaya itu sanggup menghidupkan lebih dari satu HP, bahkan sampai...",
+    "correct": "Satu gedung",
+    "distractors": [
+      "Satu kota kecil",
+      "Satu provinsi",
+      "Satu negara"
+    ],
+    "bukti": "Poin 10: \"Anda punya power bank yang besar sekali di dalam Anda. Yang bisa menghidupkan bukan cuma satu HP, bahkan satu gedung.\"",
+    "final_options": [
+      "Satu gedung",
+      "Satu negara",
+      "Satu provinsi",
+      "Satu kota kecil"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 11,
+    "point": "11 (V)",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Menurut ilustrasi air pada Romawi V (2 Korintus 12:9), kasih karunia Kristus justru lebih melimpah di dalam...",
+    "correct": "Lembah, yaitu saat kelemahan atau kegagalan",
+    "distractors": [
+      "Gunung, yaitu saat kemenangan atau keberhasilan",
+      "Padang gurun, yaitu saat kekeringan rohani",
+      "Lautan, yaitu saat gelombang kehidupan tenang"
+    ],
+    "bukti": "Poin 11: \"Air itu lebih banyak ada di lembah daripada di gunung... Dalam kegagalan atau kelemahan, dalam lembah itu justru kasih karunia Kristus lebih melimpah.\"",
+    "final_options": [
+      "Lautan, yaitu saat gelombang kehidupan tenang",
+      "Gunung, yaitu saat kemenangan atau keberhasilan",
+      "Padang gurun, yaitu saat kekeringan rohani",
+      "Lembah, yaitu saat kelemahan atau kegagalan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 12,
+    "point": "11 (V)",
+    "kes": "Medium",
+    "tipe": "Aplikasi",
+    "stem": "Menurut Romawi V, ketika doa tampak tidak dijawab atau jawabannya adalah \"tunggu\" atau \"tidak,\" hal itu sesungguhnya menunjukkan bahwa Allah sedang...",
+    "correct": "Membawa kita kepada kasih karunia yang lebih melimpah",
+    "distractors": [
+      "Meninggalkan kita karena kekecewaan atas dosa kita",
+      "Menguji kesabaran kita sebelum menjatuhkan hukuman",
+      "Mengalihkan perhatian-Nya kepada orang percaya lain"
+    ],
+    "bukti": "Poin 11: \"Saya sudah doa, Allah enggak jawab. Bukan Allah enggak jawab, justru Allah sedang membawa kita kepada kasih karunia yang lebih limpah, yang lebih sempurna.\"",
+    "final_options": [
+      "Meninggalkan kita karena kekecewaan atas dosa kita",
+      "Membawa kita kepada kasih karunia yang lebih melimpah",
+      "Mengalihkan perhatian-Nya kepada orang percaya lain",
+      "Menguji kesabaran kita sebelum menjatuhkan hukuman"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 13,
+    "point": "12 (V, ekstensi)",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Menurut ilustrasi penutup dari buku \"Biografi dari Manusia Allah\" (Watchman Nee) pada perluasan Romawi V, Paulus digambarkan sebagai minister Perjanjian Baru yang mengemban pelayanan bukan oleh loh-loh batu, melainkan oleh Roh Kudus yang tertulis di...",
+    "correct": "Hatinya",
+    "distractors": [
+      "Bibirnya",
+      "Ingatannya",
+      "Kitabnya"
+    ],
+    "bukti": "Poin 12: \"dia adalah seorang minister perjanjian baru yang mengemban ministry perjanjian baru. Bukan oleh loh-loh yang tertulis di batu maupun Taurat tetapi oleh Roh Kudus yang tertulis di hatinya.\"",
+    "final_options": [
+      "Ingatannya",
+      "Bibirnya",
+      "Hatinya",
+      "Kitabnya"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M09",
+    "no": 14,
+    "point": "13 (V, ekstensi)",
+    "kes": "Easy",
+    "tipe": "Interpretasi",
+    "stem": "Menurut berkat penutup pada Romawi V (2 Korintus 13:13/14), makna \"menyertai\" dalam berkat Allah Tritunggal diilustrasikan dengan listrik yang...",
+    "correct": "Tidak pernah meninggalkan gedung kecuali saklarnya dimatikan",
+    "distractors": [
+      "Hanya menyala pada waktu-waktu tertentu saja",
+      "Harus diisi ulang dayanya setiap hari",
+      "Berasal dari pembangkit yang letaknya jauh"
+    ],
+    "bukti": "Poin 13: \"Menyertai itu artinya bukan cuma menyalurkan dirinya, tapi terus tidak pernah meninggalkan kita. Seperti listrik ini, enggak pernah ninggalin gedung ini. Kecuali saklarnya di matiin.\"",
+    "final_options": [
+      "Hanya menyala pada waktu-waktu tertentu saja",
+      "Berasal dari pembangkit yang letaknya jauh",
+      "Harus diisi ulang dayanya setiap hari",
+      "Tidak pernah meninggalkan gedung kecuali saklarnya dimatikan"
+    ],
+    "correct_letter": "D"
+  }
+]
