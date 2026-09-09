@@ -28,11 +28,11 @@ too large a gap to merge fairly into a single shared exam.
 | Track | Tahap 1 | Tahap 2 | Tahap 3 (kandidat) | Tahap 4 (final) | Tahap 5 (QC) | Kisi-kisi | Produksi |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **SBY** (message 7-9, Paulus Oenjoyo) | ✅ | ✅ | ✅ 73 kandidat | ✅ 50 soal | ✅ (15 stem diperbaiki) | ✅ v3 | ✅ Ujian + Kunci + Item Bank |
-| **Sentul** (message 7-9, Br. Ronal) | ✅ | ✅ | ✅ 37 kandidat | ⏳ belum | ⏳ belum | ⏳ belum | ⏳ belum |
+| **Sentul** (message 7-9, Br. Ronal) | ✅ | ✅ | ✅ 47 kandidat | ⏳ belum | ⏳ belum | ⏳ belum | ⏳ belum |
 | Message 5-6 (Isaac Kwoon, SHARED) | ✅ | ✅ | ✅ (referensi, di luar cakupan ujian) | — | — | — | — |
 | Message 1-4, 10-72 | belum ada transkrip | — | — | — | — | — | — |
 
-Sentul's low candidate count (37 vs SBY's 73) directly reflects thinner class coverage,
+Sentul's lower candidate count (47 vs SBY's 73) directly reflects thinner class coverage,
 not a processing gap — see `messages/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` §8
 and the comparison doc above for the full breakdown.
 
@@ -55,7 +55,7 @@ and the comparison doc above for the full breakdown.
 
 - **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_SessionOutline.md`
 - **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_Outline_Audit_Tahap2.md`
-- **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (37 kandidat total)
+- **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (47 kandidat total — M07: 13, M08: 20, M09: 14; termasuk 10 kandidat dari materi latar belakang, disetujui TA Kurikulum Sentul 2026-09-09)
 - **Tahap 4-5, kisi-kisi, produksi** — belum dikerjakan
 
 ## PIC-facing analysis docs
