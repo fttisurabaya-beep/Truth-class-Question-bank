@@ -1,0 +1,1102 @@
+[
+  {
+    "msg": "M07",
+    "no": 1,
+    "point": "1",
+    "kes": "Easy",
+    "tipe": "Interpretasi",
+    "stem": "Istilah \"penyaluran Ilahi\" (divine dispensing) dalam pengajaran Kitab Roma dipahami sebagai...",
+    "options": [
+      "Realitas Alkitabiah yang benar-benar terjadi dalam pengalaman orang beriman",
+      "Istilah tekstual yang muncul berulang kali dalam surat-surat Paulus",
+      "Konsep filosofis yang dikembangkan oleh gereja mula-mula",
+      "Sebutan lain untuk karunia-karunia Roh Kudus dalam Roma 12"
+    ],
+    "bukti": "Poin 1: \"Ini kata penyair ini tidak ada secara teks tetapi yang ada adalah realitas.\"",
+    "final_options": [
+      "Konsep filosofis yang dikembangkan oleh gereja mula-mula",
+      "Realitas Alkitabiah yang benar-benar terjadi dalam pengalaman orang beriman",
+      "Sebutan lain untuk karunia-karunia Roh Kudus dalam Roma 12",
+      "Istilah tekstual yang muncul berulang kali dalam surat-surat Paulus"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 2,
+    "point": "2",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Injil Allah menjadikan orang berdosa sebagai anak-anak Allah — ini disebut sebagai aspek apa dari keselamatan?",
+    "options": [
+      "Aspek yuridis",
+      "Aspek organik",
+      "Aspek eskatologis",
+      "Aspek liturgis"
+    ],
+    "bukti": "Poin 2: \"Orang dosa menjadi anak-anak Allah. Ini adalah aspek yuridis dari keselamatan.\"",
+    "final_options": [
+      "Aspek yuridis",
+      "Aspek eskatologis",
+      "Aspek organik",
+      "Aspek liturgis"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 5,
+    "point": "5",
+    "kes": "Hard",
+    "tipe": "Fakta",
+    "stem": "Kitab Roma, dari segi doktrin keselamatan (dipilih, ditentukan, dibenarkan, dimuliakan), mencapai puncaknya di pasal berapa?",
+    "options": [
+      "Pasal 8",
+      "Pasal 11",
+      "Pasal 12",
+      "Pasal 16"
+    ],
+    "bukti": "Poin 5: \"Kitab Roma... sampai puncaknya itu sudah selesai di pasal 8.\"",
+    "final_options": [
+      "Pasal 8",
+      "Pasal 12",
+      "Pasal 16",
+      "Pasal 11"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 6,
+    "point": "5,6",
+    "kes": "Medium",
+    "tipe": "Tema",
+    "stem": "Setelah puncak doktrin keselamatan di Roma pasal 8, apa peran pasal 9-11 dan pasal 12 dalam struktur Kitab Roma?",
+    "options": [
+      "Pasal 9-11 adalah renungan Rasul Paulus tentang penolakan bangsa Yahudi; pasal 12 adalah seruan respons orang beriman",
+      "Pasal 9-11 adalah lampiran sejarah gereja mula-mula; pasal 12 adalah penutup surat biasa",
+      "Pasal 9-11 adalah nubuat akhir zaman; pasal 12 adalah salam pribadi Paulus",
+      "Pasal 9-11 adalah daftar karunia Roh; pasal 12 adalah daftar dosa yang harus dihindari"
+    ],
+    "bukti": "Poin 5-6: \"Kalau secara doktrin keselamatan itu stop di pasal 9,10,11 itu adalah renungan dari Rasul... sampai masuk pasal 12, ada seruan kepada orang beriman.\"",
+    "final_options": [
+      "Pasal 9-11 adalah nubuat akhir zaman; pasal 12 adalah salam pribadi Paulus",
+      "Pasal 9-11 adalah renungan Rasul Paulus tentang penolakan bangsa Yahudi; pasal 12 adalah seruan respons orang beriman",
+      "Pasal 9-11 adalah daftar karunia Roh; pasal 12 adalah daftar dosa yang harus dihindari",
+      "Pasal 9-11 adalah lampiran sejarah gereja mula-mula; pasal 12 adalah penutup surat biasa"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 8,
+    "point": "7",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Menurut Roma 12:1, mempersembahkan tubuh sebagai persembahan yang hidup, kudus, dan berkenan kepada Allah disebut sebagai...",
+    "options": [
+      "Ibadah yang sejati/beralasan",
+      "Ibadah yang bersifat simbolis",
+      "Ibadah yang bersifat seremonial",
+      "Ibadah yang bersifat sukarela semata"
+    ],
+    "bukti": "Poin 7: \"Persembahan tubuh... adalah ibadah yang asli... ibadah yang beralasan.\"",
+    "final_options": [
+      "Ibadah yang bersifat seremonial",
+      "Ibadah yang sejati/beralasan",
+      "Ibadah yang bersifat simbolis",
+      "Ibadah yang bersifat sukarela semata"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 9,
+    "point": "8",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Dalam respons kita kepada Allah di Roma 12, urutan yang ditempuh Paulus adalah...",
+    "options": [
+      "Tubuh, lalu jiwa (pikiran), lalu roh",
+      "Roh, lalu jiwa, lalu tubuh",
+      "Pikiran, lalu roh, lalu tubuh",
+      "Jiwa, lalu tubuh, lalu roh"
+    ],
+    "bukti": "Poin 8: \"Paulus mengambil yang di luarnya dulu persembahan tubuh... dari tubuh masuk ke jiwa... baru yang ketiga ayat 11 roh kita.\"",
+    "final_options": [
+      "Tubuh, lalu jiwa (pikiran), lalu roh",
+      "Roh, lalu jiwa, lalu tubuh",
+      "Pikiran, lalu roh, lalu tubuh",
+      "Jiwa, lalu tubuh, lalu roh"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 10,
+    "point": "9",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Roma 12:2 menasihatkan agar pikiran kita tidak serupa dengan apa?",
+    "options": [
+      "Lifestyle/gaya hidup dunia",
+      "Tradisi nenek moyang",
+      "Ajaran filsafat Yunani",
+      "Kebiasaan bangsa Yahudi"
+    ],
+    "bukti": "Poin 9: \"Jangan pikiran kita ini serupa dengan lifestyle dunia.\"",
+    "final_options": [
+      "Lifestyle/gaya hidup dunia",
+      "Ajaran filsafat Yunani",
+      "Kebiasaan bangsa Yahudi",
+      "Tradisi nenek moyang"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 11,
+    "point": "10",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Roma 12:3 memperingatkan bahaya memikirkan hal yang lebih tinggi dari yang patut; sebagai gantinya, orang beriman diajak untuk...",
+    "options": [
+      "Menguasai diri menurut ukuran iman yang telah dibagikan Allah",
+      "Membandingkan karunia diri dengan karunia orang lain",
+      "Mencari pengakuan dari pemimpin gereja",
+      "Menuntut posisi kepemimpinan sesuai kemampuan"
+    ],
+    "bukti": "Poin 10: \"Jangan kamu memikirkan hal-hal yang lebih tinggi... sebaliknya dikatakan menguasai diri menurut ukuran iman.\"",
+    "final_options": [
+      "Membandingkan karunia diri dengan karunia orang lain",
+      "Menguasai diri menurut ukuran iman yang telah dibagikan Allah",
+      "Menuntut posisi kepemimpinan sesuai kemampuan",
+      "Mencari pengakuan dari pemimpin gereja"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 12,
+    "point": "11",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Roma 12:4-5 mengajarkan bahwa anggota-anggota tubuh, meski punya peranan dan fungsi berbeda, harus...",
+    "options": [
+      "Saling menghormati dan saling membutuhkan satu sama lain",
+      "Bersaing untuk menunjukkan fungsi yang paling penting",
+      "Menyeragamkan peranan agar tidak ada perbedaan",
+      "Menunggu instruksi dari satu anggota yang paling senior"
+    ],
+    "bukti": "Poin 11: \"Kita harus saling menghormati, saling menghargai... setiap orang pasti punya kelebihan, punya kekurangan.\"",
+    "final_options": [
+      "Bersaing untuk menunjukkan fungsi yang paling penting",
+      "Menyeragamkan peranan agar tidak ada perbedaan",
+      "Saling menghormati dan saling membutuhkan satu sama lain",
+      "Menunggu instruksi dari satu anggota yang paling senior"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 13,
+    "point": "12",
+    "kes": "Hard",
+    "tipe": "Fakta",
+    "stem": "Manakah yang BUKAN termasuk karunia yang disebutkan dalam Roma 12:6-8?",
+    "options": [
+      "Berbahasa roh",
+      "Menasihati",
+      "Membagi-bagikan",
+      "Menunjukkan kemurahan"
+    ],
+    "bukti": "Poin 12: karunia yang disebut adalah \"bernubuat/berdoa, melayani, mengajar, menasihati, membagi-bagikan, memimpin, menunjukkan kemurahan\" — berbahasa roh tidak ada dalam daftar ini.",
+    "final_options": [
+      "Menasihati",
+      "Berbahasa roh",
+      "Menunjukkan kemurahan",
+      "Membagi-bagikan"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 15,
+    "point": "13",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Sikap kasih terhadap sesama yang diajarkan dalam Roma 12:9-21 harus tidak...",
+    "options": [
+      "Berpura-pura — harus transparan dengan hati yang bening",
+      "Berlebihan — harus dibatasi oleh akal sehat",
+      "Terburu-buru — harus dipikirkan matang-matang dulu",
+      "Terbuka untuk umum — harus dijaga privasinya"
+    ],
+    "bukti": "Poin 13: \"Kasih jangan pura-pura... di depan ya, di batin tidak.\"",
+    "final_options": [
+      "Berpura-pura — harus transparan dengan hati yang bening",
+      "Berlebihan — harus dibatasi oleh akal sehat",
+      "Terbuka untuk umum — harus dijaga privasinya",
+      "Terburu-buru — harus dipikirkan matang-matang dulu"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M07",
+    "no": 16,
+    "point": "14",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Membantu kekurangan dan memberi tumpangan disebut \"mengasuh,\" yang dicontohkan lewat perumpamaan tentang...",
+    "options": [
+      "Orang Samaria (Lukas 10)",
+      "Anak hilang (Lukas 15)",
+      "Sepuluh gadis (Matius 25)",
+      "Penabur benih (Matius 13)"
+    ],
+    "bukti": "Poin 14: \"Membantu kekurangan, memberi tumpangan, ini adalah mengasuh... cerita orang Samaria baik hati, Lukas pasal 10.\"",
+    "final_options": [
+      "Sepuluh gadis (Matius 25)",
+      "Penabur benih (Matius 13)",
+      "Orang Samaria (Lukas 10)",
+      "Anak hilang (Lukas 15)"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 17,
+    "point": "15",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Bersukacita dan menangis bersama orang lain (sepenanggungan) mencerminkan prinsip apa?",
+    "options": [
+      "Prinsip inkarnasi — masuk ke dalam hati orang lain",
+      "Prinsip substitusi — menggantikan penderitaan orang lain",
+      "Prinsip rekonsiliasi — mendamaikan pihak yang berseteru",
+      "Prinsip pengudusan — memisahkan diri dari dosa"
+    ],
+    "bukti": "Poin 15: \"Bersukacitalah dengan orang yang bersukacita, menangislah dengan orang yang menangis... kita masuk ke dalam hati mereka. Inilah prinsip inkarnasi.\"",
+    "final_options": [
+      "Prinsip substitusi — menggantikan penderitaan orang lain",
+      "Prinsip pengudusan — memisahkan diri dari dosa",
+      "Prinsip rekonsiliasi — mendamaikan pihak yang berseteru",
+      "Prinsip inkarnasi — masuk ke dalam hati orang lain"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M07",
+    "no": 19,
+    "point": "17",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Sikap terhadap Allah yang diajarkan di Roma 12:11 mencakup kerajinan yang tidak boleh kendur dan...",
+    "options": [
+      "Roh yang tetap menyala-nyala dalam melayani Tuhan",
+      "Tubuh yang harus dijaga kesehatannya",
+      "Harta yang harus dipersembahkan seluruhnya",
+      "Waktu yang harus dijadwalkan secara ketat"
+    ],
+    "bukti": "Poin 17: \"Terhadap Allah, di ayat 11, kerajinan jangan kendur. Roh tetap menyala dan melayani Tuhan.\"",
+    "final_options": [
+      "Waktu yang harus dijadwalkan secara ketat",
+      "Harta yang harus dipersembahkan seluruhnya",
+      "Roh yang tetap menyala-nyala dalam melayani Tuhan",
+      "Tubuh yang harus dijaga kesehatannya"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 21,
+    "point": "19",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Terhadap orang yang menganiaya kita, Roma 12 mengajarkan agar kita...",
+    "options": [
+      "Memberkati mereka, jangan mengutuk",
+      "Menghindari mereka sepenuhnya",
+      "Melaporkan mereka kepada pemerintah",
+      "Mendoakan agar mereka dihukum Allah"
+    ],
+    "bukti": "Poin 19: \"Berkatilah siapa yang menganiaya kamu... berkatilah dan jangan mengutuk.\"",
+    "final_options": [
+      "Menghindari mereka sepenuhnya",
+      "Melaporkan mereka kepada pemerintah",
+      "Memberkati mereka, jangan mengutuk",
+      "Mendoakan agar mereka dihukum Allah"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 22,
+    "point": "20",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Hidup dalam damai dengan semua orang harus bersumber dari...",
+    "options": [
+      "Damai yang bersumber dari Kristus sendiri, mengalir dari hidup di dalam Dia",
+      "Damai yang bersumber dari toleransi sosial demi menjaga keharmonisan",
+      "Damai yang bersumber dari sikap mengalah untuk menghindari konflik",
+      "Damai yang bersumber dari kesepakatan bersama tanpa syarat tertentu"
+    ],
+    "bukti": "Poin 20: \"Damainya ini adalah damainya Kristus. Bukan damai kasus persaudaraan. Tapi perlu damainya Kristus.\"",
+    "final_options": [
+      "Damai yang bersumber dari kesepakatan bersama tanpa syarat tertentu",
+      "Damai yang bersumber dari sikap mengalah untuk menghindari konflik",
+      "Damai yang bersumber dari toleransi sosial demi menjaga keharmonisan",
+      "Damai yang bersumber dari Kristus sendiri, mengalir dari hidup di dalam Dia"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M07",
+    "no": 23,
+    "point": "21",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Memberi makan/minum kepada musuh yang lapar/haus, menurut terjemahan yang dipakai, digambarkan sebagai menumpukkan apa di atas kepalanya?",
+    "options": [
+      "Bara api — mempermalukan",
+      "Air sejuk — menyegarkan",
+      "Minyak urapan — memberkati",
+      "Mahkota kemuliaan — menghormati"
+    ],
+    "bukti": "Poin 21: \"Seperti menumbuhkan bara api di atas kepala itu (membuatnya malu dan berubah pikiran).\"",
+    "final_options": [
+      "Air sejuk — menyegarkan",
+      "Mahkota kemuliaan — menghormati",
+      "Bara api — mempermalukan",
+      "Minyak urapan — memberkati"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 24,
+    "point": "21",
+    "kes": "Hard",
+    "tipe": "Fakta",
+    "stem": "Prinsip membalas kejahatan musuh dengan kebaikan dicontohkan lewat kisah Elisa dan...",
+    "options": [
+      "Pasukan Aram (2 Raja-raja)",
+      "Pasukan Filistin (1 Samuel)",
+      "Pasukan Babel (2 Raja-raja)",
+      "Pasukan Asyur (Yesaya)"
+    ],
+    "bukti": "Poin 21: \"Bapak Elisa berdoa membuka layar... pasukan musuh.\"",
+    "final_options": [
+      "Pasukan Asyur (Yesaya)",
+      "Pasukan Babel (2 Raja-raja)",
+      "Pasukan Aram (2 Raja-raja)",
+      "Pasukan Filistin (1 Samuel)"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 26,
+    "point": "23",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Roma 14 mengajarkan agar kita menerima orang yang lemah imannya dengan cara...",
+    "options": [
+      "Tanpa memperdebatkan pendapatnya",
+      "Setelah menguji kebenaran pendapatnya terlebih dahulu",
+      "Dengan syarat ia mengubah pandangannya",
+      "Secara bertahap sambil menunggu kedewasaannya"
+    ],
+    "bukti": "Poin 23: \"Terimalah orang yang lemah imannya tanpa memperkecil pendapat.\"",
+    "final_options": [
+      "Setelah menguji kebenaran pendapatnya terlebih dahulu",
+      "Tanpa memperdebatkan pendapatnya",
+      "Dengan syarat ia mengubah pandangannya",
+      "Secara bertahap sambil menunggu kedewasaannya"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 27,
+    "point": "24",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Setelah menerima orang yang lemah imannya (Roma 14), Roma 15 menambahkan tanggung jawab gereja untuk...",
+    "options": [
+      "Memikul dan menanggung kelemahan orang yang lemah",
+      "Mengoreksi kelemahan mereka secara terbuka di jemaat",
+      "Memisahkan mereka dari kelompok yang lebih kuat imannya",
+      "Menunggu mereka menguatkan iman sendiri tanpa bantuan"
+    ],
+    "bukti": "Poin 24: \"Setelah menerima dikatakan menanggung... gereja ini punya satu tanggung jawab untuk menerima dan memikul.\"",
+    "final_options": [
+      "Mengoreksi kelemahan mereka secara terbuka di jemaat",
+      "Memikul dan menanggung kelemahan orang yang lemah",
+      "Menunggu mereka menguatkan iman sendiri tanpa bantuan",
+      "Memisahkan mereka dari kelompok yang lebih kuat imannya"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 28,
+    "point": "25",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Roma 14:17 menegaskan bahwa Kerajaan Allah bukan soal...",
+    "options": [
+      "Makan dan minum",
+      "Iman dan pengharapan",
+      "Karunia dan pelayanan",
+      "Hukum dan kasih karunia"
+    ],
+    "bukti": "Poin 25: \"Sebab kerajaan Allah bukan... ini perlu dibaca Roma 14:17.\"",
+    "final_options": [
+      "Iman dan pengharapan",
+      "Karunia dan pelayanan",
+      "Makan dan minum",
+      "Hukum dan kasih karunia"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 29,
+    "point": "26",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Gereja-gereja perlu memiliki satu...",
+    "options": [
+      "Persekutuan universal antar gereja",
+      "Struktur kepemimpinan tunggal yang mengatur semua gereja",
+      "Kalender liturgi yang seragam",
+      "Bahasa ibadah yang sama di semua tempat"
+    ],
+    "bukti": "Poin 26: \"Antar gereja juga perlu memiliki satu persekutuan universal.\"",
+    "final_options": [
+      "Bahasa ibadah yang sama di semua tempat",
+      "Struktur kepemimpinan tunggal yang mengatur semua gereja",
+      "Persekutuan universal antar gereja",
+      "Kalender liturgi yang seragam"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 30,
+    "point": "26",
+    "kes": "Hard",
+    "tipe": "Fakta",
+    "stem": "Roma 16:17 mengidentifikasi orang yang membawa perpecahan lewat empat ciri, salah satunya adalah...",
+    "options": [
+      "Membawa identitas diri/suku/bangsa/bahasa",
+      "Menolak seluruh bentuk organisasi gereja",
+      "Menekankan pentingnya doa bersama",
+      "Menghindari pertemuan-pertemuan besar jemaat"
+    ],
+    "bukti": "Poin 26: \"Yang keempat itu membawa identitas diri... bangsa, suku, bahasa.\"",
+    "final_options": [
+      "Menghindari pertemuan-pertemuan besar jemaat",
+      "Membawa identitas diri/suku/bangsa/bahasa",
+      "Menolak seluruh bentuk organisasi gereja",
+      "Menekankan pentingnya doa bersama"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M07",
+    "no": 32,
+    "point": "27",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Roma 16:20 menyatakan bahwa Allah sumber damai akan segera...",
+    "options": [
+      "Meremukkan Iblis di bawah kaki kita",
+      "Mengangkat kita ke sorga bersama Kristus",
+      "Menghapus segala penderitaan di bumi",
+      "Mendirikan kerajaan seribu tahun"
+    ],
+    "bukti": "Poin 27: \"Semoga Allah sumber damai... segera akan meremukkan iblis di bawah kakimu.\"",
+    "final_options": [
+      "Menghapus segala penderitaan di bumi",
+      "Mendirikan kerajaan seribu tahun",
+      "Meremukkan Iblis di bawah kaki kita",
+      "Mengangkat kita ke sorga bersama Kristus"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M07",
+    "no": 34,
+    "point": "28",
+    "kes": "Hard",
+    "tipe": "Interpretasi",
+    "stem": "Penutupan Kitab Roma dengan doksologi kemuliaan Allah dibandingkan dengan penutupan kitab apa, yang juga diakhiri dengan kemuliaan Allah menaungi kemah?",
+    "options": [
+      "Keluaran (pasal 40)",
+      "Imamat (pasal 27)",
+      "Bilangan (pasal 36)",
+      "Ulangan (pasal 34)"
+    ],
+    "bukti": "Poin 28: \"Ini seperti keluaran pasal 40 ya ayat yang terakhir juga.\"",
+    "final_options": [
+      "Bilangan (pasal 36)",
+      "Imamat (pasal 27)",
+      "Ulangan (pasal 34)",
+      "Keluaran (pasal 40)"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M07",
+    "no": 35,
+    "point": "29",
+    "kes": "Medium",
+    "tipe": "Tema",
+    "stem": "Hasil akhir dari penyaluran Ilahi dalam kaum beriman adalah ketaatan iman yang membawa orang untuk...",
+    "options": [
+      "Bertumbuh dan dibangun menjadi satu tubuh",
+      "Mencapai kesempurnaan moral secara individu",
+      "Memperoleh karunia adikodrati sebagai tanda kedewasaan",
+      "Menguasai seluruh isi Kitab Roma secara hafalan"
+    ],
+    "bukti": "Poin 29: \"Dibimbing kepada ketaatan iman. Jadi ketaatan iman ini iman yang bergerak, iman yang hidup, beroperasi... akhirnya dibangun menjadi satu tubuh.\"",
+    "final_options": [
+      "Memperoleh karunia adikodrati sebagai tanda kedewasaan",
+      "Bertumbuh dan dibangun menjadi satu tubuh",
+      "Mencapai kesempurnaan moral secara individu",
+      "Menguasai seluruh isi Kitab Roma secara hafalan"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M08",
+    "no": 5,
+    "point": "4",
+    "kes": "Easy",
+    "tipe": "Interpretasi",
+    "stem": "Istilah \"persekutuan\" terhadap Kristus mengandung unsur apa?",
+    "options": [
+      "Aliran rohani dua arah antara Allah dan manusia",
+      "Aliran perintah satu arah dari pemimpin ke jemaat",
+      "Transaksi material yang terjadi antar-gereja lokal",
+      "Pertukaran adat dan budaya antar-bangsa yang berbeda"
+    ],
+    "bukti": "Poin 4 (I): \"Kata persekutuan di sini mengandung unsur lalu lintas rohani. Dari Allah kepada manusia, manusia kepada Allah.\"",
+    "final_options": [
+      "Aliran perintah satu arah dari pemimpin ke jemaat",
+      "Pertukaran adat dan budaya antar-bangsa yang berbeda",
+      "Transaksi material yang terjadi antar-gereja lokal",
+      "Aliran rohani dua arah antara Allah dan manusia"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 7,
+    "point": "5",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Kristus sebagai kekuatan dikatakan bersifat \"dinamis,\" artinya kekuatan itu...",
+    "options": [
+      "Menguatkan kaum beriman secara terus-menerus",
+      "Hanya berfungsi pada momen penciptaan awal",
+      "Terbatas pada mukjizat fisik semata",
+      "Bersifat tetap dan tidak berubah sepanjang waktu"
+    ],
+    "bukti": "Poin 5 (II): \"Memiliki kekuatannya dinamis. Menguatkan kaum ini.\"",
+    "final_options": [
+      "Terbatas pada mukjizat fisik semata",
+      "Bersifat tetap dan tidak berubah sepanjang waktu",
+      "Hanya berfungsi pada momen penciptaan awal",
+      "Menguatkan kaum beriman secara terus-menerus"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 8,
+    "point": "5",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Hikmat Allah didefinisikan sebagai...",
+    "options": [
+      "Pemikiran Allah dalam tindakan",
+      "Perasaan Allah yang tersembunyi",
+      "Rencana Allah yang belum terungkap",
+      "Sifat Allah yang tidak dapat dipahami"
+    ],
+    "bukti": "Poin 5 (III): \"Hikmat itu pemikiran Allah, kekuatan itu tindakan.\"",
+    "final_options": [
+      "Sifat Allah yang tidak dapat dipahami",
+      "Rencana Allah yang belum terungkap",
+      "Perasaan Allah yang tersembunyi",
+      "Pemikiran Allah dalam tindakan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 9,
+    "point": "6",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Kristus sebagai kebenaran dari Allah (1 Kor. 1:30) bertujuan agar kaum beriman benar dan tepat dengan sempurna terhadap...",
+    "options": [
+      "Allah, manusia, dan segala sesuatu",
+      "Allah semata, tanpa kaitan dengan manusia",
+      "Hukum Taurat dan tradisi leluhur",
+      "Diri sendiri dan keluarga terdekat"
+    ],
+    "bukti": "Poin 6 (IV.B): \"Agar kamu beriman dapat benar dan tepat dengan sempurna terhadap Allah, terhadap manusia, dan terhadap segala sesuatu.\"",
+    "final_options": [
+      "Allah, manusia, dan segala sesuatu",
+      "Hukum Taurat dan tradisi leluhur",
+      "Diri sendiri dan keluarga terdekat",
+      "Allah semata, tanpa kaitan dengan manusia"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M08",
+    "no": 10,
+    "point": "7",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Ilustrasi emas orang Israel dari Mesir yang dilebur dan dicetak ulang menjadi tabik perjanjian menggambarkan proses pengudusan berupa...",
+    "options": [
+      "Perpindahan posisi, lalu dilebur menghapus bentuk lama",
+      "Penambahan nilai emas melalui perdagangan antarbangsa",
+      "Pemurnian melalui pembakaran tanpa mengubah bentuk",
+      "Penyimpanan emas sebagai harta abadi tanpa pengolahan"
+    ],
+    "bukti": "Poin 7 (V.A): \"Begitu dipersembahkan, dibakar. Jadi, sudah tidak ada kelihatan bentuknya... Akhirnya dicetak ulang mengikuti apa? Membuat tabel perjanjian.\"",
+    "final_options": [
+      "Penambahan nilai emas melalui perdagangan antarbangsa",
+      "Penyimpanan emas sebagai harta abadi tanpa pengolahan",
+      "Pemurnian melalui pembakaran tanpa mengubah bentuk",
+      "Perpindahan posisi, lalu dilebur menghapus bentuk lama"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 12,
+    "point": "8",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Penebusan Kristus mencakup bukan hanya hidup dan perilaku kaum beriman hari ini, melainkan juga...",
+    "options": [
+      "Penebusan tubuh di masa depan agar menyatakan kemuliaan Allah",
+      "Penghapusan menyeluruh atas seluruh catatan sejarah dosa manusia",
+      "Pemberian kekuasaan penuh atas segala urusan duniawi kepada beriman",
+      "Pembebasan total dari segala bentuk penderitaan dalam hidup ini"
+    ],
+    "bukti": "Poin 8 (VI): \"Bukan hanya untuk hidup dan perilaku dalam kehidupan ini, tapi juga sama-sama untuk penebusan tubuh... dapat menyadari kemuliaan Allah.\"",
+    "final_options": [
+      "Pembebasan total dari segala bentuk penderitaan dalam hidup ini",
+      "Penghapusan menyeluruh atas seluruh catatan sejarah dosa manusia",
+      "Penebusan tubuh di masa depan agar menyatakan kemuliaan Allah",
+      "Pemberian kekuasaan penuh atas segala urusan duniawi kepada beriman"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M08",
+    "no": 14,
+    "point": "9",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Roti yang tidak beragi digambarkan sebagai roti yang keras, yaitu kebenaran yang...",
+    "options": [
+      "Tidak bisa digoyahkan dan tidak boleh ditambahkan",
+      "Dapat terus disesuaikan mengikuti perkembangan situasi zaman",
+      "Hanya berlaku secara khusus bagi golongan tertentu",
+      "Dapat dinegosiasikan ulang sesuai konsensus jemaat setempat"
+    ],
+    "bukti": "Poin 9 (VII): \"Roti yang tidak beragi ini rotinya memang keras... kebenaran yang tidak bisa digoyahkan. Kebenaran yang tidak boleh ditambahkan.\"",
+    "final_options": [
+      "Dapat dinegosiasikan ulang sesuai konsensus jemaat setempat",
+      "Hanya berlaku secara khusus bagi golongan tertentu",
+      "Dapat terus disesuaikan mengikuti perkembangan situasi zaman",
+      "Tidak bisa digoyahkan dan tidak boleh ditambahkan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 15,
+    "point": "10",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Batu karang rohani yang mengikuti orang Israel di padang gurun serta manna dari surga menggambarkan makanan yang berasal dari...",
+    "options": [
+      "Berasal murni langsung dari Allah sendiri",
+      "Berasal dari hasil pertanian di gurun",
+      "Berasal dari persediaan logistik bangsa Israel",
+      "Berasal dari warisan budaya leluhur Israel"
+    ],
+    "bukti": "Poin 10 (VIII): \"Mereka makan makanan bukan dari dunia. Mereka makan makanan dari Allah.\"",
+    "final_options": [
+      "Berasal dari persediaan logistik bangsa Israel",
+      "Berasal dari warisan budaya leluhur Israel",
+      "Berasal murni langsung dari Allah sendiri",
+      "Berasal dari hasil pertanian di gurun"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M08",
+    "no": 17,
+    "point": "11",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Roh Kudus sebagai jaminan diumpamakan dalam pengajaran ini dengan ilustrasi...",
+    "options": [
+      "Sampel tanah yang diberikan sebelum transaksi jual-beli",
+      "Kontrak tertulis yang ditandatangani oleh kedua belah pihak",
+      "Uang muka yang dibayarkan penuh di awal transaksi",
+      "Sertifikat resmi yang diterbitkan oleh lembaga pemerintah terkait"
+    ],
+    "bukti": "Poin 11 (IX.A): \"Dia ngambil sebagian [tanah]nya, ditunjukkan benar... Terjadi transaksi sehingga pembelinya tidak kecewa.\"",
+    "final_options": [
+      "Kontrak tertulis yang ditandatangani oleh kedua belah pihak",
+      "Sertifikat resmi yang diterbitkan oleh lembaga pemerintah terkait",
+      "Uang muka yang dibayarkan penuh di awal transaksi",
+      "Sampel tanah yang diberikan sebelum transaksi jual-beli"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 18,
+    "point": "12",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Kristus sebagai tulisan tinta di dalam kaum beriman berfungsi menjadikan mereka sebagai...",
+    "options": [
+      "Sistem hayat di dalam diri mereka",
+      "Struktur organisasi formal bagi jemaat setempat",
+      "Sumber pendanaan bagi pelayanan bersama gereja",
+      "Simbol kebesaran budaya rohani tertentu"
+    ],
+    "bukti": "Poin 12 (X): \"Membuat kamu beriman menjadi sistem hayat kamu sama-sama... Kita perlu ditulis bukan dengan tinta tetapi dengan roh.\"",
+    "final_options": [
+      "Simbol kebesaran budaya rohani tertentu",
+      "Sumber pendanaan bagi pelayanan bersama gereja",
+      "Struktur organisasi formal bagi jemaat setempat",
+      "Sistem hayat di dalam diri mereka"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M08",
+    "no": 19,
+    "point": "12",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Selain tulisan tinta di dalam, Kristus juga digambarkan sebagai cermin di luar kaum beriman yang berfungsi untuk...",
+    "options": [
+      "Memantulkan kemuliaan Kristus keluar",
+      "Menyembunyikan kelemahan pribadi mereka",
+      "Menggandakan jumlah anggota jemaat",
+      "Menampilkan status sosial masing-masing"
+    ],
+    "bukti": "Poin 12 (X): \"Juga membuat ekspresi mulia Kristus di langit... Jadi akhirnya kita ini jadi cermin memantulkan.\"",
+    "final_options": [
+      "Memantulkan kemuliaan Kristus keluar",
+      "Menyembunyikan kelemahan pribadi mereka",
+      "Menampilkan status sosial masing-masing",
+      "Menggandakan jumlah anggota jemaat"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 2,
+    "point": "1",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Akar yang dalam yang harus dimiliki kaum beriman berisi unsur apa dari Allah?",
+    "options": [
+      "Kekuatan dan hikmat Allah",
+      "Kasih dan kesabaran Allah",
+      "Kemuliaan dan kekudusan Allah",
+      "Firman dan janji Allah"
+    ],
+    "bukti": "Poin 1: \"kekuatan Allah, hikmat Allah, itu secara akar. Jadi, kalian perlu berakar di dalam dia.\"",
+    "final_options": [
+      "Kasih dan kesabaran Allah",
+      "Firman dan janji Allah",
+      "Kemuliaan dan kekudusan Allah",
+      "Kekuatan dan hikmat Allah"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 4,
+    "point": "2",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Pertumbuhan kaum beriman sebagai ladang Allah ditujukan untuk...",
+    "options": [
+      "Kepuasan Allah sendiri",
+      "Pengakuan sesama jemaat",
+      "Pertumbuhan angka keanggotaan gereja",
+      "Reputasi baik di mata masyarakat"
+    ],
+    "bukti": "Poin 2: \"Pertumbuhan ini adalah untuk kepuasan Allah.\"",
+    "final_options": [
+      "Kepuasan Allah sendiri",
+      "Reputasi baik di mata masyarakat",
+      "Pertumbuhan angka keanggotaan gereja",
+      "Pengakuan sesama jemaat"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 6,
+    "point": "3",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Ujian dengan api terhadap bahan bangunan gereja bertujuan agar...",
+    "options": [
+      "Unsur positif bertumbuh dan unsur negatif dibakar habis",
+      "Semua bahan dilebur menjadi satu jenis logam baru",
+      "Bahan yang tahan api dipisahkan untuk dijual kembali",
+      "Setiap anggota jemaat diuji ketahanan fisiknya masing-masing"
+    ],
+    "bukti": "Poin 3: \"yang positif harus bertumbuh, yang negatif harus dibakar.\"",
+    "final_options": [
+      "Setiap anggota jemaat diuji ketahanan fisiknya masing-masing",
+      "Unsur positif bertumbuh dan unsur negatif dibakar habis",
+      "Semua bahan dilebur menjadi satu jenis logam baru",
+      "Bahan yang tahan api dipisahkan untuk dijual kembali"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 7,
+    "point": "4",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Pengalaman Yakub dipakai dalam pengajaran ini untuk menggambarkan proses menjadi batu permata gereja yang berlangsung sekitar berapa lama?",
+    "options": [
+      "30 tahun",
+      "10 tahun",
+      "50 tahun",
+      "7 tahun"
+    ],
+    "bukti": "Poin 4: \"Kita kira waktunya itu sekitar sampai 30 tahun... maka proses batu permata ini akan sehari demi sehari akan terjadi di dalam kita.\"",
+    "final_options": [
+      "7 tahun",
+      "30 tahun",
+      "50 tahun",
+      "10 tahun"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 9,
+    "point": "6",
+    "kes": "Medium",
+    "tipe": "Tema",
+    "stem": "Tujuan karunia-karunia yang disalurkan Roh, Tuhan, dan Allah yang sama, menurut 1 Korintus 12:4-6 dalam pengajaran ini, adalah agar semua kaum beriman...",
+    "options": [
+      "Kembali dan terbangun menjadi satu tubuh",
+      "Menonjol dengan karunia masing-masing secara pribadi",
+      "Menerima pengakuan resmi dari pemimpin jemaat",
+      "Berkompetisi mencapai tingkat kerohanian tertinggi"
+    ],
+    "bukti": "Poin 6: \"semua kali ini untuk kembali satu tubuh.\"",
+    "final_options": [
+      "Menonjol dengan karunia masing-masing secara pribadi",
+      "Kembali dan terbangun menjadi satu tubuh",
+      "Berkompetisi mencapai tingkat kerohanian tertinggi",
+      "Menerima pengakuan resmi dari pemimpin jemaat"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 11,
+    "point": "8",
+    "kes": "Medium",
+    "tipe": "Aplikasi",
+    "stem": "Bejana tanah liat yang berisi harta Kristus perlu dijaga agar tidak...",
+    "options": [
+      "Retak/pecah melalui dosa",
+      "Terlalu penuh karena berkat berlimpah",
+      "Dipamerkan kepada orang luar",
+      "Disentuh oleh tangan orang lain"
+    ],
+    "bukti": "Poin 8: \"Supaya jangan sampai pecah... perjanjian ini pecah, Saudara-saudari, maka harta mustika tidak bisa disiarkan.\"",
+    "final_options": [
+      "Retak/pecah melalui dosa",
+      "Disentuh oleh tangan orang lain",
+      "Dipamerkan kepada orang luar",
+      "Terlalu penuh karena berkat berlimpah"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 12,
+    "point": "9",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Berbahasa lidah tidak membangun Tubuh karena hanya menggunakan tubuh, tanpa melibatkan bagian manusia yang mana?",
+    "options": [
+      "Jiwa",
+      "Roh",
+      "Hati",
+      "Pikiran"
+    ],
+    "bukti": "Poin 9: \"Anda tidak menggunakan satu bagian dari tiga bagian manusia, jiwa. Anda hanya ada tubuh.\"",
+    "final_options": [
+      "Hati",
+      "Roh",
+      "Jiwa",
+      "Pikiran"
+    ],
+    "correct_letter": "C"
+  },
+  {
+    "msg": "M09",
+    "no": 14,
+    "point": "10",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Manusia batiniah kaum beriman diperbarui dari sehari ke sehari, sedangkan manusia lahiriah...",
+    "options": [
+      "Mengalami kemerosotan",
+      "Tetap tidak berubah",
+      "Ikut diperbarui bersamaan",
+      "Menjadi semakin kuat"
+    ],
+    "bukti": "Poin 10: \"manusia itu yang ada di roh mengalir ke baruan kepada jiwa sampai kepada tubuh... kalian akan diperbaiki dari sehari ke sehari.\"",
+    "final_options": [
+      "Menjadi semakin kuat",
+      "Tetap tidak berubah",
+      "Ikut diperbarui bersamaan",
+      "Mengalami kemerosotan"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 15,
+    "point": "11, 13",
+    "kes": "Easy",
+    "tipe": "Fakta",
+    "stem": "Kelimpahan penyataan/visi yang diterima Rasul Paulus (2 Korintus 12) membuat dia diberi apa agar tidak meninggikan diri?",
+    "options": [
+      "Duri di dalam daging",
+      "Ujian penyakit fisik",
+      "Tugas pelayanan tambahan",
+      "Larangan berkhotbah sementara"
+    ],
+    "bukti": "Poin 11: \"Sebagai anugerah Allah yang cukup kekuatan Kristus yang memulihkan kaum beriman. Ini 2 Korintus 12.\"; Poin 13: \"karena melihat kebanggaan itu dia diberi satu duri.\"",
+    "final_options": [
+      "Larangan berkhotbah sementara",
+      "Duri di dalam daging",
+      "Tugas pelayanan tambahan",
+      "Ujian penyakit fisik"
+    ],
+    "correct_letter": "B"
+  },
+  {
+    "msg": "M09",
+    "no": 16,
+    "point": "11, 13",
+    "kes": "Medium",
+    "tipe": "Interpretasi",
+    "stem": "Jawaban Tuhan atas permohonan Paulus terkait duri dalam daging menyatakan bahwa kuasa Tuhan menjadi sempurna dalam...",
+    "options": [
+      "Kelemahan",
+      "Kesabaran",
+      "Ketaatan",
+      "Kesendirian"
+    ],
+    "bukti": "Poin 11: \"Sebagai anugerah Allah yang cukup kekuatan Kristus\"; Poin 13: \"Cukuplah anugerahku kami pakai... justru kuasaku menjadi sempurna [dalam kelemahan].\"",
+    "final_options": [
+      "Kelemahan",
+      "Kesendirian",
+      "Ketaatan",
+      "Kesabaran"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 17,
+    "point": "12",
+    "kes": "Medium",
+    "tipe": "Fakta",
+    "stem": "Merujuk 1 Korintus 15:10, kekuatan yang bekerja dalam diri rasul untuk berjerih lelah lebih banyak berasal dari...",
+    "options": [
+      "Kekuatan Tuhan sendiri",
+      "Kekuatan mental rasul",
+      "Kekuatan jemaat pendukung",
+      "Kekuatan tradisi leluhur"
+    ],
+    "bukti": "Poin 12 (1 Kor. 15:10; kutipan lisan trainer \"14:10\" adalah selip terhadap nomor ayat outline): \"kekuatan dari dirinya adalah kekuatan dari Tuhan.\"",
+    "final_options": [
+      "Kekuatan Tuhan sendiri",
+      "Kekuatan tradisi leluhur",
+      "Kekuatan jemaat pendukung",
+      "Kekuatan mental rasul"
+    ],
+    "correct_letter": "A"
+  },
+  {
+    "msg": "M09",
+    "no": 18,
+    "point": "12",
+    "kes": "Easy",
+    "tipe": "Tema",
+    "stem": "Hasil dari jerih lelah kaum beriman bagi Allah, menurut 1 Korintus 15:58 dalam pengajaran ini, digambarkan sebagai...",
+    "options": [
+      "Kenikmatan dan tuaian yang kaya",
+      "Upah finansial yang berlimpah",
+      "Pengakuan sosial yang luas",
+      "Jabatan kepemimpinan yang tinggi"
+    ],
+    "bukti": "Poin 12 (1 Kor. 15:58; kutipan lisan trainer \"15:18\" adalah selip terhadap nomor ayat outline): \"menjadi kenikmatan dan tuaian yang kaya.\"",
+    "final_options": [
+      "Upah finansial yang berlimpah",
+      "Pengakuan sosial yang luas",
+      "Jabatan kepemimpinan yang tinggi",
+      "Kenikmatan dan tuaian yang kaya"
+    ],
+    "correct_letter": "D"
+  },
+  {
+    "msg": "M09",
+    "no": 19,
+    "point": "14",
+    "kes": "Medium",
+    "tipe": "Tema",
+    "stem": "Menurut ringkasan penutup pengajaran ini, sukacita kaum beriman mengerjakan apa yang Tuhan bebankan kepada mereka bersumber dari...",
+    "options": [
+      "Persekutuan dengan Tuhan yang menyalurkan diri-Nya",
+      "Strategi organisasi yang dirancang secara matang",
+      "Dukungan finansial yang mencukupi kebutuhan pelayanan",
+      "Jumlah anggota jemaat yang terus bertambah"
+    ],
+    "bukti": "Poin 14: \"Jemaat-Nya kita bukan keringat kita. Tapi hasil dari persekutuan kita dengan Tuhan. Di dalam persekutuan ada penyaluran diri Allah. Kita mampu sukacita mengerjakan semua apa yang Tuhan berikan bebankan kepada kita.\"",
+    "final_options": [
+      "Persekutuan dengan Tuhan yang menyalurkan diri-Nya",
+      "Jumlah anggota jemaat yang terus bertambah",
+      "Strategi organisasi yang dirancang secara matang",
+      "Dukungan finansial yang mencukupi kebutuhan pelayanan"
+    ],
+    "correct_letter": "A"
+  }
+]
