@@ -102,5 +102,5 @@ Seluruh kutipan ayat dalam stem dan opsi diperiksa: **semua berupa alamat ayat +
 - `messages/M07/Truth_M07_QuestionBank_Tahap3_ID.md` (3 stem)
 - `messages/M08/Truth_M08_QuestionBank_Tahap3_ID.md` (3 stem)
 - `messages/M09/Truth_M09_QuestionBank_Tahap3_ID.md` (9 stem)
-- `messages/Truth_M07-09_SBY_CandidateReference.md` (regenerasi otomatis dari sumber Tahap 3 yang sudah diperbaiki)
-- `messages/Truth_M07-09_SBY_CandidateReference.docx` (regenerasi otomatis)
+- `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_SBY_CandidateReference.md` (regenerasi otomatis dari sumber Tahap 3 yang sudah diperbaiki)
+- `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_SBY_CandidateReference.docx` (regenerasi otomatis)

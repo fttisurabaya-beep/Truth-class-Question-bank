@@ -20,8 +20,32 @@ its final bank; they may feed a later Truth Test. Message 3-4 were never process
 
 **SBY and Sentul are two permanent separate exam tracks**, not one reconciled bank.
 Sentul's transcript covers only ~43% of the outline sub-points SBY covers (time
-management, not competence — see `messages/Perbandingan_SBY_vs_SENTUL_Message7-9.md`),
-too large a gap to merge fairly into a single shared exam.
+management, not competence — see
+`messages/TRUTH-TEST-2-JULDES-2026/Perbandingan_SBY_vs_SENTUL_Message7-9.md`), too large
+a gap to merge fairly into a single shared exam.
+
+## Repo layout for exam-cycle deliverables
+
+Tahap 1-3 (per message, per campus) live under `messages/M0[7-9]/` as before — that
+folder already handles the shared-vs-split question per message via filename suffix
+(`_SBY_`, `_SENTUL_`, `_SHARED_`), so it is untouched by the layout below.
+
+Tahap 4 onward (final selection, QC, study guide, production) is tied to a specific
+**exam cycle**, not to a single message, so it is grouped under
+`messages/<TEST-CYCLE-NAME>/`. For this cycle:
+
+```
+messages/TRUTH-TEST-2-JULDES-2026/
+  SURABAYA/     — Tahap 4, Tahap 5, Candidate Reference, kisi-kisi (SBY-only)
+  SENTUL/       — Tahap 4, Tahap 5, kisi-kisi ID+EN (Sentul-only)
+  PRODUKSI/     — final exam/key/item bank docx+md for both campuses
+  Perbandingan_SBY_vs_SENTUL_Message7-9.md   — cross-campus, not campus-specific
+  Validasi_Urutan_Pasal_SENTUL_Message7-9.md — cross-campus, not campus-specific
+```
+
+A future Truth Test that does **not** need a campus split (e.g. shared trainer across
+campuses) does not have to replicate the `SURABAYA/`+`SENTUL/` split — its files can sit
+directly under its own `messages/<TEST-CYCLE-NAME>/` folder.
 
 ## Status
 
@@ -33,19 +57,20 @@ too large a gap to merge fairly into a single shared exam.
 | Message 1-4, 10-72 | belum ada transkrip | — | — | — | — | — | — |
 
 Sentul's lower candidate count (47 vs SBY's 73) directly reflects thinner class coverage,
-not a processing gap — see `messages/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` §8
-and the comparison doc above for the full breakdown.
+not a processing gap — see
+`messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md`
+§8 and the comparison doc above for the full breakdown.
 
 ## SBY track deliverables (message 7-9, "Truth Test (2)")
 
 - **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SBY_SessionOutline.md`
 - **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_Outline_Audit_Tahap2.md`
 - **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_QuestionBank_Tahap3_ID.md` (73 kandidat total)
-- **Tahap 4** — `messages/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` (+ `.docx` landscape) — 50 soal final
-- **Tahap 5** — `messages/Truth_M07-09_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 15/50 stem framing diperbaiki
-- **Referensi QC** — `messages/Truth_M07-09_SBY_CandidateReference.md` (+ `.docx`) — 73 kandidat, ditandai Terpilih/Cadangan
-- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_M07-09.md` [v3, final]
-- **Produksi** (`messages/PRODUKSI/`):
+- **Tahap 4** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_QuestionBank_Audit_Tahap4_ID.md` (+ `.docx` landscape) — 50 soal final
+- **Tahap 5** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 15/50 stem framing diperbaiki
+- **Referensi QC** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Truth_M07-09_SBY_CandidateReference.md` (+ `.docx`) — 73 kandidat, ditandai Terpilih/Cadangan
+- **Kisi-kisi trainee** — `messages/TRUTH-TEST-2-JULDES-2026/SURABAYA/Kisi_Kisi_Ujian_Trainee_M07-09.md` [v3, final]
+- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/`):
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — lembar ujian trainee (ID saja, tidak ada trainee internasional)
   - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx` — kunci jawaban
   - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SURABAYA.md` (+ `.docx`) — referensi instruktur/QC (50 teruji + 23 cadangan)
@@ -56,10 +81,10 @@ and the comparison doc above for the full breakdown.
 - **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_SessionOutline.md`
 - **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_Outline_Audit_Tahap2.md`
 - **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (47 kandidat total — M07: 13, M08: 20, M09: 14; termasuk 10 kandidat dari materi latar belakang, disetujui TA Kurikulum Sentul 2026-09-09)
-- **Tahap 4** — `messages/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md` — 45 soal final (drop 2, ~4% penyaringan — target 45 ditetapkan eksplisit, bukan 50)
-- **Tahap 5** — `messages/Truth_M07-09_SENTUL_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 8/45 stem framing diperbaiki
-- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final, ID] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi; versi Inggris: `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09_EN.md` [v1, EN] — untuk trainee internasional Sentul
-- **Produksi** (`messages/PRODUKSI/`):
+- **Tahap 4** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md` — 45 soal final (drop 2, ~4% penyaringan — target 45 ditetapkan eksplisit, bukan 50)
+- **Tahap 5** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Truth_M07-09_SENTUL_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 8/45 stem framing diperbaiki
+- **Kisi-kisi trainee** — `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final, ID] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi; versi Inggris: `messages/TRUTH-TEST-2-JULDES-2026/SENTUL/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09_EN.md` [v1, EN] — untuk trainee internasional Sentul
+- **Produksi** (`messages/TRUTH-TEST-2-JULDES-2026/PRODUKSI/`):
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — lembar ujian trainee (ID)
   - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL (Eng).docx` — lembar ujian trainee versi Inggris, untuk trainee internasional Sentul (SBY tidak butuh versi ini karena tidak ada trainee internasional). Terjemahan menjaga urutan opsi A/B/C/D persis sama dengan versi ID, jadi memakai kunci jawaban ID yang sama (tidak ada kunci jawaban EN terpisah)
   - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — kunci jawaban (posisi teracak 11/11/12/11), berlaku untuk versi ID maupun EN
@@ -70,8 +95,8 @@ and the comparison doc above for the full breakdown.
 
 ## PIC-facing analysis docs
 
-- `messages/Perbandingan_SBY_vs_SENTUL_Message7-9.md` — perbandingan materi yang benar-benar diajarkan per kampus (dari Tahap 1), untuk PIC wilayah masing-masing
-- `messages/Validasi_Urutan_Pasal_SENTUL_Message7-9.md` — validasi (menolak) rumor bahwa Sentul mengajar berurutan pasal Alkitab
+- `messages/TRUTH-TEST-2-JULDES-2026/Perbandingan_SBY_vs_SENTUL_Message7-9.md` — perbandingan materi yang benar-benar diajarkan per kampus (dari Tahap 1), untuk PIC wilayah masing-masing
+- `messages/TRUTH-TEST-2-JULDES-2026/Validasi_Urutan_Pasal_SENTUL_Message7-9.md` — validasi (menolak) rumor bahwa Sentul mengajar berurutan pasal Alkitab
 
 ## Source material tracked in this repo
 
