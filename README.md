@@ -58,12 +58,13 @@ and the comparison doc above for the full breakdown.
 - **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (47 kandidat total — M07: 13, M08: 20, M09: 14; termasuk 10 kandidat dari materi latar belakang, disetujui TA Kurikulum Sentul 2026-09-09)
 - **Tahap 4** — `messages/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md` — 45 soal final (drop 2, ~4% penyaringan — target 45 ditetapkan eksplisit, bukan 50)
 - **Tahap 5** — `messages/Truth_M07-09_SENTUL_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 8/45 stem framing diperbaiki
-- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi
+- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final, ID] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi; versi Inggris: `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09_EN.md` [v1, EN] — untuk trainee internasional Sentul
 - **Produksi** (`messages/PRODUKSI/`):
-  - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — lembar ujian trainee (ID saja)
-  - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — kunci jawaban (posisi teracak 11/11/12/11)
+  - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — lembar ujian trainee (ID)
+  - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL (Eng).docx` — lembar ujian trainee versi Inggris, untuk trainee internasional Sentul (SBY tidak butuh versi ini karena tidak ada trainee internasional). Terjemahan menjaga urutan opsi A/B/C/D persis sama dengan versi ID, jadi memakai kunci jawaban ID yang sama (tidak ada kunci jawaban EN terpisah)
+  - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — kunci jawaban (posisi teracak 11/11/12/11), berlaku untuk versi ID maupun EN
   - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SENTUL.md` (+ `.docx`) — referensi instruktur/QC (45 teruji + 2 cadangan)
-  - `Truth_M07-09_SENTUL_ShuffledAnswerMap.json` — peta soal↔posisi jawaban final
+  - `Truth_M07-09_SENTUL_ShuffledAnswerMap.json` — peta soal↔posisi jawaban final (ID)
 
 **Cakupan ujian Sentul identik dengan SBY: hanya message 7-9.** Message 5-6 (Isaac Kwoon) TIDAK dipakai di ujian manapun (dikonfirmasi 2026-09-09, meralat asumsi awal proyek).
 
