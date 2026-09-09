@@ -28,7 +28,7 @@ too large a gap to merge fairly into a single shared exam.
 | Track | Tahap 1 | Tahap 2 | Tahap 3 (kandidat) | Tahap 4 (final) | Tahap 5 (QC) | Kisi-kisi | Produksi |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **SBY** (message 7-9, Paulus Oenjoyo) | ✅ | ✅ | ✅ 73 kandidat | ✅ 50 soal | ✅ (15 stem diperbaiki) | ✅ v3 | ✅ Ujian + Kunci + Item Bank |
-| **Sentul** (message 7-9, Br. Ronal) | ✅ | ✅ | ✅ 47 kandidat | ⏳ belum | ⏳ belum | ⏳ belum | ⏳ belum |
+| **Sentul** (message 7-9, Br. Ronal) | ✅ | ✅ | ✅ 47 kandidat | ✅ 45 soal | ✅ (8 stem diperbaiki) | ✅ v1 | ✅ Ujian + Kunci + Item Bank |
 | Message 5-6 (Isaac Kwoon, SHARED) | ✅ | ✅ | ✅ (referensi, di luar cakupan ujian) | — | — | — | — |
 | Message 1-4, 10-72 | belum ada transkrip | — | — | — | — | — | — |
 
@@ -51,12 +51,21 @@ and the comparison doc above for the full breakdown.
   - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SURABAYA.md` (+ `.docx`) — referensi instruktur/QC (50 teruji + 23 cadangan)
   - `Truth_M07-09_SBY_ShuffledAnswerMap.json` — peta soal↔posisi jawaban final
 
-## Sentul track deliverables (message 7-9, so far)
+## Sentul track deliverables (message 7-9, "Truth Test (2)")
 
 - **Tahap 1** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_SessionOutline.md`
 - **Tahap 2** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_Outline_Audit_Tahap2.md`
 - **Tahap 3** — `messages/M0[7-9]/Truth_M0[7-9]_SENTUL_QuestionBank_Tahap3_ID.md` (47 kandidat total — M07: 13, M08: 20, M09: 14; termasuk 10 kandidat dari materi latar belakang, disetujui TA Kurikulum Sentul 2026-09-09)
-- **Tahap 4-5, kisi-kisi, produksi** — belum dikerjakan
+- **Tahap 4** — `messages/Truth_M07-09_SENTUL_QuestionBank_Audit_Tahap4_ID.md` — 45 soal final (drop 2, ~4% penyaringan — target 45 ditetapkan eksplisit, bukan 50)
+- **Tahap 5** — `messages/Truth_M07-09_SENTUL_QualityReview_Tahap5_ID.md` — QC 7 kriteria, 8/45 stem framing diperbaiki
+- **Kisi-kisi trainee** — `messages/Kisi_Kisi_Ujian_Trainee_SENTUL_M07-09.md` [v1, final] — termasuk peringatan bahwa 10 soal berasal dari materi latar belakang di luar outline resmi
+- **Produksi** (`messages/PRODUKSI/`):
+  - `1ST YR - TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — lembar ujian trainee (ID saja)
+  - `1ST YR - ANSWER KEY TRUTH TEST (2) - JULDES 2026 - SENTUL.docx` — kunci jawaban (posisi teracak 11/11/12/11)
+  - `1ST YR - ITEM BANK TRUTH TEST (2) - JULDES 2026 - SENTUL.md` (+ `.docx`) — referensi instruktur/QC (45 teruji + 2 cadangan)
+  - `Truth_M07-09_SENTUL_ShuffledAnswerMap.json` — peta soal↔posisi jawaban final
+
+**Cakupan ujian Sentul identik dengan SBY: hanya message 7-9.** Message 5-6 (Isaac Kwoon) TIDAK dipakai di ujian manapun (dikonfirmasi 2026-09-09, meralat asumsi awal proyek).
 
 ## PIC-facing analysis docs
 
