@@ -1,10 +1,10 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { scoreSoal } from "../src/scorer.ts";
-import { formatSoalReport } from "../src/report.ts";
-import { textSimilarity } from "../src/vendor-similarity.ts";
-import type { RubricSoal, LlmEscalateFn } from "../src/types.ts";
+import { scoreSoal } from "../src/scorer";
+import { formatSoalReport } from "../src/report";
+import { textSimilarity } from "../src/vendor-similarity";
+import type { RubricSoal, LlmEscalateFn } from "../src/types";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(__dirname, "..", "data");
