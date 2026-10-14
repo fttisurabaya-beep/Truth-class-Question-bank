@@ -95,6 +95,26 @@ not a processing gap — see
 
 **Cakupan ujian Sentul identik dengan SBY: hanya message 7-9.** Message 5-6 (Isaac Kwoon) TIDAK dipakai di ujian manapun (dikonfirmasi 2026-09-09, meralat asumsi awal proyek).
 
+## Truth Test (3) — Full Ministry of Christ (in progress)
+
+Per the org's master exam-numbering spreadsheet, Truth Test (3) (Oct. 7) covers
+**message 10-18**, the "THE FULL MINISTRY OF CHRIST" section of
+`data/message_registry.json` (Christ's Redemption through The Son's Ascension and
+Baptism in the Spirit). Taught in a **single combined class** (Sentul + Surabaya
+trainees merged, not two parallel campus sessions) — confirmed 2026-09-29. This cycle
+therefore gets **one exam track**, no `SURABAYA/`+`SENTUL/` split.
+
+Two trainers deliver this section (JULY-DECEMBER 2026 syllabus):
+- **Franklin Say** — message 10-15 / weeks 8-9 (8-17 Sep 2026)
+- **Clement Wang** — message 16-18 / week 11 (29 Sep-1 Oct 2026)
+
+Official-outline coverage audits exist for each message block:
+`messages/M10/`, `M11/`, `M12/`, `M13/`, `M14-15/`, `M16/`, `M17-18/Truth_M*_OfficialOutline_Coverage.md`.
+
+**Status as of 2026-09-29: no class transcripts available yet** for message 10-18
+(`transcripts/raw/` only has recordings for message 5-9) — the Tahap 1 pipeline cannot
+start until recordings for these weeks are provided.
+
 ## PIC-facing analysis docs
 
 - `messages/TRUTH-TEST-2-JULDES-2026/Perbandingan_SBY_vs_SENTUL_Message7-9.md` — perbandingan materi yang benar-benar diajarkan per kampus (dari Tahap 1), untuk PIC wilayah masing-masing
@@ -111,3 +131,37 @@ not a processing gap — see
 Semua dokumen di atas (kecuali file `.docx` produksi karena kendala teknis upload) juga
 tersedia sebagai Google Docs di folder kerja bersama — cari lewat judul yang sama di
 Drive, atau minta link ke PIC proyek.
+
+## Conventions
+
+**Production file naming** (exam/key/remedial `.docx` deliverables, from the org's
+master exam-numbering spreadsheet):
+
+```
+[Tahun ke-] - [SUBJECT TEST (urutan)] - [Periode Tahun] - [Cabang].docx
+```
+
+e.g. `1ST YR - TRUTH TEST (2) - JULDES 2026 - SURABAYA.docx`. Omit `[Cabang]` if the
+cycle has no campus split. Add ` (Eng)` before `.docx` for a campus's English exam
+sheet (only the trainee sheet needs a separate EN file if the option order A/B/C/D
+matches the ID version — the ID answer key then covers both languages). This applies
+to final production deliverables only; working documents (Tahap 1-5) keep their own
+`Truth_M[NN]_*` naming.
+
+**Repository visibility:** this repo must stay **private**. Do not make it public —
+even temporarily — to produce a shareable link for an external recipient; use Google
+Drive named-email sharing (`share_file`, role reader) instead.
+
+## Terminology verification sources
+
+For Tahap 5 "Kepatuhan Register" checks (uncommon Indonesian theological vocabulary —
+e.g. "penyaluran Ilahi," "Kristus yang almuhit"), cross-check against the broader
+Witness Lee / Local Church tradition corpus, not just internal transcript consistency:
+
+- Google Play Books: *Menikmati Kristus sebagai Firman dan Roh Itu Melalui Doa*
+  (id `KbjnDwAAQBAJ`) and *Kepercayaan dan Pelaksanaan Gereja-gereja Lokal*
+  (id `MJbgEAAAQBAJ`), both by Witness Lee
+- `kidungindo.blogspot.com` — hymnal/kidung lyrics blog, same theological register
+- `https://bibleread.online/all-books-by-Watchman-Nee-and-Witness-Lee/` — full-text
+  index of Watchman Nee/Witness Lee books, for verifying the "Reference: ..." citations
+  in the official Outline PDF against the actual chapter content
