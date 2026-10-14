@@ -28,7 +28,10 @@ for (const file of traineeFiles) {
   for (const [nomorSoalStr, jawabanTeks] of Object.entries(trainee.jawaban)) {
     const nomorSoal = Number(nomorSoalStr);
     const rubric = rubrics.find((r) => r.nomorSoal === nomorSoal);
-    if (!rubric) continue;
+    if (!rubric) {
+      console.warn(`No rubric for soal ${nomorSoal} (trainee ${trainee.nama}) — skipping`);
+      continue;
+    }
     const result = await scoreSoal(rubric, jawabanTeks as string, textSimilarity, flagForReview);
     console.log(formatSoalReport(trainee.nama, result));
   }
