@@ -1,0 +1,64 @@
+[
+  {
+    "rubricVersion": 1,
+    "lang": "id",
+    "nomorSoal": 1,
+    "pilihNDari": null,
+    "ayatPool": null,
+    "butir": [
+      { "label": "Kehendak Perkenan", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:5"], "biner": true } },
+      { "label": "Rapat Tujuan", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:11"], "biner": true } },
+      { "label": "Rencana Ekonomi", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:10"], "biner": true } },
+      { "label": "Pemilihan", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:4"], "biner": true } },
+      { "label": "Penakdiran", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:5"], "biner": true } },
+      { "label": "Keputraan", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Ef 1:5", "Rm 8:15", "Gal 4:5"], "biner": true } },
+      { "label": "Penyaluran", "poinKonsep": 0.5, "subsetDiterima": [] },
+      { "label": "Administrasi Perjanjian Baru", "poinKonsep": 0.5, "subsetDiterima": [] },
+      { "label": "Administrasi Perjanjian Lama", "poinKonsep": 0.5, "subsetDiterima": [] },
+      { "label": "Penciptaan", "poinKonsep": 0.5, "subsetDiterima": [], "ayat": { "poin": 0.5, "opsiSah": ["Kej 1:26"], "biner": true } }
+    ]
+  },
+  {
+    "rubricVersion": 1,
+    "lang": "id",
+    "nomorSoal": 3,
+    "pilihNDari": null,
+    "ayatPool": null,
+    "butir": [
+      { "label": "Hanya ada satu Allah", "poinKonsep": 1, "subsetDiterima": [], "ayat": { "poin": 1, "opsiSah": ["1 Kor 8:4b", "Ul 6:4", "Yes 45:5a"], "biner": true } },
+      { "label": "Allah memiliki tiga aspek", "poinKonsep": 1, "subsetDiterima": [{ "teks": "Allah ada tiga pribadi", "poin": 0.5 }], "ayat": { "poin": 1, "opsiSah": ["Yes 6:8", "Kej 1:26a", "Mat 28:9"], "biner": true } },
+      { "label": "Bapa Putra dan Roh ada dengan sendirinya dari kekekalan sampai kekekalan", "poinKonsep": 1, "subsetDiterima": [{ "teks": "Bapa Putra dan Roh kekal", "poin": 0.5 }], "ayat": { "poin": 1, "opsiSah": ["1 Ptr 1:2a", "Ef 1:17a", "Ibr 1:8", "Yoh 1:1", "Rm 9:5b", "Kis 20:28", "Yoh 20:28", "Flp 2:6", "Kis 5:3-4", "Yes 9:5", "Mzm 102:27", "Ibr 1:12", "Ibr 9:14", "Ef 3:14-17", "2 Kor 13:13"], "biner": true } },
+      { "label": "Bapa Putra dan Roh saling huni dan tidak dapat dipisahkan", "poinKonsep": 1, "subsetDiterima": [], "ayat": { "poin": 1, "opsiSah": ["Yoh 6:46", "Yoh 5:43a", "Yoh 14:9-10", "Yoh 15:26a", "Yoh 14:26a", "Yoh 8:29a", "Luk 4:1a", "Mat 3:16-17"], "biner": true } },
+      { "label": "Ketiganya Bapa Putra dan Roh adalah satu", "poinKonsep": 1, "subsetDiterima": [], "ayat": { "poin": 1, "opsiSah": ["Yes 9:6", "Yoh 14:7-11", "1 Kor 15:45b", "Yoh 14:16-20", "2 Kor 3:17-18"], "biner": true } }
+    ]
+  },
+  {
+    "rubricVersion": 1,
+    "lang": "id",
+    "nomorSoal": 4,
+    "pilihNDari": null,
+    "ayatPool": null,
+    "butir": [
+      { "label": "Penyaluran", "poinKonsep": 1.5, "subsetDiterima": [], "ayat": { "poin": 1, "opsiSah": ["2 Kor 13:13"], "biner": true } }
+    ]
+  },
+  {
+    "rubricVersion": 1,
+    "lang": "id",
+    "nomorSoal": 7,
+    "pilihNDari": { "n": 5, "totalOpsiSah": 10 },
+    "ayatPool": { "poinPerAyat": 1, "minAyat": 2, "opsiSah": ["1 Kor 1:2b", "1 Kor 1:9", "1 Kor 1:24a", "1 Kor 1:24b", "1 Kor 1:30", "1 Kor 5:7-8", "1 Kor 10:3-4", "Yoh 6:57b-58a", "2 Kor 1:21-22", "2 Kor 3:3", "2 Kor 3:18"] },
+    "butir": [
+      { "label": "sebagai bagian bersama dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai kekuatan dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai hikmat dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai kebenaran dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai pengudusan dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai penebusan dari Allah", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai Anak Domba Paskah dan roti tidak beragi", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai batu karang rohani dan roti rohani dari surga", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai pengurapan Roh majemuk dan meterai", "poinKonsep": 1, "subsetDiterima": [] },
+      { "label": "sebagai tulisan tinta Roh dan salinan Roh", "poinKonsep": 1, "subsetDiterima": [] }
+    ]
+  }
+]
