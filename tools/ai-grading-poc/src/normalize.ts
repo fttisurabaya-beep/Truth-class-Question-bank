@@ -14,7 +14,9 @@ export function normalizeText(text: string): string {
 const BOOK_ABBREV: [RegExp, string][] = [
   [/\bkorintus\b/g, "kor"],
   [/\befesus\b/g, "ef"],
+  [/\befes\b/g, "ef"],
   [/\bkejadian\b/g, "kej"],
+  [/\blukas\b/g, "luk"],
   [/\byohanes\b/g, "yoh"],
   [/\broma\b/g, "rm"],
   [/\bwahyu\b/g, "why"],

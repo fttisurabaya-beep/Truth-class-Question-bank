@@ -78,7 +78,7 @@ rules) and 10 real trainee answer sheets (photographed, hand-transcribed). Cover
   (Soal 7)
 - Partial-credit subset matching (a near-miss phrase missing a key qualifier)
 
-**Results (all 10 trainees, 22 question-answers scored, full test suite 18/18 passing):**
+**Results (all 10 trainees, 22 question-answers scored, full test suite 20/20 passing):**
 
 | Trainee | Soal | Score |
 |---|---|---|
@@ -90,8 +90,8 @@ rules) and 10 real trainee answer sheets (photographed, hand-transcribed). Cover
 | Ayub Ferdinan | 1 | 7.5/8.5 |
 | Trifena Fenofa | 1 | 7/8.5 |
 | Fingki Irma Delia | 1 | 7/8.5 |
+| Yosea Kamam | 1 | 5.5/8.5 |
 | Khen Oliver | 1 | 2.5/8.5 |
-| Yosea Kamam | 1 | 2.5/8.5 |
 | Karina / Kevin / Linra / Trifena | 3 | 6/10, 5/10, 3/10, 4/10 |
 | Karina / Kevin / Hansel | 4 | 1/2.5, 1/2.5, 1/2.5 |
 | Karina | 7 | 2/7 |
@@ -134,6 +134,13 @@ as uncertain," not "confidently wrong."
 
 ## Known limitations (found during this validation, not swept under the rug)
 
+- **Found and fixed during final review:** the book-name abbreviation table only
+  covered fully-spelled Indonesian book names, missing common partial forms real
+  trainees actually write (e.g. "Efes" instead of "Efesus" or "Ef", and "Lukas" had
+  no abbreviation mapping at all). This was silently zeroing out correct verse
+  citations — Yosea Kamam's Soal 1 score moved from 2.5/8.5 to 5.5/8.5 once fixed.
+  Flagging this as the validation process catching a real scoring bug before it
+  reached anyone, not as something hidden.
 - **Position-blindness on chart/table questions.** Your `Jawaban.teksJawaban` is one
   free-text field per soal — for a 10-blank fill-in-the-chart question, a trainee's
   whole answer is one blob of text. The matcher checks whether each expected term
